@@ -1,0 +1,260 @@
+16:41:47.057166 IP 172.20.38.238.61965 > resolver2.opendns.com.domain: 23200+ A? surveymonkey.com. (34)
+16:41:47.236296 IP resolver2.opendns.com.domain > 172.20.38.238.61965: 23200 1/0/0 A 75.98.93.51 (50)
+16:41:47.237726 IP 172.20.38.238.57796 > 75.98.93.51.http: Flags [S], seq 2205362771, win 8192, options [mss 1460,nop,wscale 8,nop,nop,sackOK], length 0
+16:41:47.305503 IP 172.20.38.238.57797 > 75.98.93.51.http: Flags [S], seq 3527663600, win 8192, options [mss 1460,nop,wscale 8,nop,nop,sackOK], length 0
+16:41:47.451865 IP 75.98.93.51.http > 172.20.38.238.57796: Flags [S.], seq 3163071821, ack 2205362772, win 4380, options [mss 1380,sackOK,eol], length 0
+16:41:47.452018 IP 172.20.38.238.57796 > 75.98.93.51.http: Flags [.], ack 1, win 64860, length 0
+16:41:47.452548 IP 172.20.38.238.57796 > 75.98.93.51.http: Flags [P.], seq 1:375, ack 1, win 64860, length 374
+16:41:47.533017 IP 75.98.93.51.http > 172.20.38.238.57797: Flags [S.], seq 3196717709, ack 3527663601, win 4380, options [mss 1380,sackOK,eol], length 0
+16:41:47.533172 IP 172.20.38.238.57797 > 75.98.93.51.http: Flags [.], ack 1, win 64860, length 0
+16:41:47.684310 IP 75.98.93.51.http > 172.20.38.238.57796: Flags [P.], seq 1:115, ack 375, win 4140, length 114
+16:41:47.687759 IP 172.20.38.238.57798 > 75.98.93.51.https: Flags [S], seq 300421179, win 8192, options [mss 1460,nop,wscale 8,nop,nop,sackOK], length 0
+16:41:47.732962 IP 172.20.38.238.57796 > 75.98.93.51.http: Flags [.], ack 115, win 64746, length 0
+16:41:47.916907 IP 75.98.93.51.https > 172.20.38.238.57798: Flags [S.], seq 1282174683, ack 300421180, win 4380, options [mss 1380,sackOK,eol], length 0
+16:41:47.917059 IP 172.20.38.238.57798 > 75.98.93.51.https: Flags [.], ack 1, win 64860, length 0
+16:41:47.917518 IP 172.20.38.238.57798 > 75.98.93.51.https: Flags [P.], seq 1:214, ack 1, win 64860, length 213
+16:41:48.147991 IP 75.98.93.51.https > 172.20.38.238.57798: Flags [.], ack 214, win 4353, length 0
+16:41:48.150427 IP 75.98.93.51.https > 172.20.38.238.57798: Flags [.], seq 1:1381, ack 214, win 4353, length 1380
+16:41:48.150430 IP 75.98.93.51.https > 172.20.38.238.57798: Flags [.], seq 1381:2761, ack 214, win 4353, length 1380
+16:41:48.150432 IP 75.98.93.51.https > 172.20.38.238.57798: Flags [P.], seq 2761:3617, ack 214, win 4353, length 856
+16:41:48.150555 IP 172.20.38.238.57798 > 75.98.93.51.https: Flags [.], ack 3617, win 64860, length 0
+16:41:48.157590 IP 172.20.38.238.57798 > 75.98.93.51.https: Flags [P.], seq 214:364, ack 3617, win 64860, length 150
+16:41:48.391280 IP 75.98.93.51.https > 172.20.38.238.57798: Flags [.], ack 364, win 4503, length 0
+16:41:48.391856 IP 75.98.93.51.https > 172.20.38.238.57798: Flags [P.], seq 3617:3692, ack 364, win 4503, length 75
+16:41:48.426755 IP 172.20.38.238.57798 > 75.98.93.51.https: Flags [P.], seq 364:785, ack 3692, win 64785, length 421
+16:41:48.646523 IP 75.98.93.51.https > 172.20.38.238.57798: Flags [.], ack 785, win 4924, length 0
+16:41:48.690130 IP 75.98.93.51.https > 172.20.38.238.57798: Flags [.], seq 3692:5072, ack 785, win 4924, length 1380
+16:41:48.690135 IP 75.98.93.51.https > 172.20.38.238.57798: Flags [.], seq 5072:6452, ack 785, win 4924, length 1380
+16:41:48.690136 IP 75.98.93.51.https > 172.20.38.238.57798: Flags [P.], seq 6452:7697, ack 785, win 4924, length 1245
+16:41:48.690253 IP 172.20.38.238.57798 > 75.98.93.51.https: Flags [.], ack 7697, win 64860, length 0
+16:41:48.695750 IP 172.20.38.238.60794 > resolver2.opendns.com.domain: 29941+ A? www.surveymonkey.com. (38)
+16:41:48.866039 IP resolver2.opendns.com.domain > 172.20.38.238.60794: 29941 1/0/0 A 75.98.93.51 (54)
+16:41:48.867247 IP 172.20.38.238.57799 > 75.98.93.51.https: Flags [S], seq 2548072898, win 8192, options [mss 1460,nop,wscale 8,nop,nop,sackOK], length 0
+16:41:48.945620 IP 172.20.38.238.57800 > 75.98.93.51.https: Flags [S], seq 3633457621, win 8192, options [mss 1460,nop,wscale 8,nop,nop,sackOK], length 0
+16:41:49.183892 IP 75.98.93.51.https > 172.20.38.238.57800: Flags [S.], seq 3213304848, ack 3633457622, win 4380, options [mss 1380,sackOK,eol], length 0
+16:41:49.184046 IP 172.20.38.238.57800 > 75.98.93.51.https: Flags [.], ack 1, win 64860, length 0
+16:41:49.184674 IP 172.20.38.238.57800 > 75.98.93.51.https: Flags [P.], seq 1:218, ack 1, win 64860, length 217
+16:41:49.402177 IP 75.98.93.51.https > 172.20.38.238.57800: Flags [.], ack 218, win 4357, length 0
+16:41:49.407321 IP 75.98.93.51.https > 172.20.38.238.57800: Flags [.], seq 1:1381, ack 218, win 4357, length 1380
+16:41:49.407324 IP 75.98.93.51.https > 172.20.38.238.57800: Flags [.], seq 1381:2761, ack 218, win 4357, length 1380
+16:41:49.407326 IP 75.98.93.51.https > 172.20.38.238.57800: Flags [P.], seq 2761:3621, ack 218, win 4357, length 860
+16:41:49.407440 IP 172.20.38.238.57800 > 75.98.93.51.https: Flags [.], ack 3621, win 64860, length 0
+16:41:49.414466 IP 172.20.38.238.57800 > 75.98.93.51.https: Flags [P.], seq 218:368, ack 3621, win 64860, length 150
+16:41:49.634020 IP 75.98.93.51.https > 172.20.38.238.57800: Flags [.], ack 368, win 4507, length 0
+16:41:49.636426 IP 75.98.93.51.https > 172.20.38.238.57800: Flags [P.], seq 3621:3696, ack 368, win 4507, length 75
+16:41:49.660160 IP 172.20.38.238.57800 > 75.98.93.51.https: Flags [P.], seq 368:1381, ack 3696, win 64785, length 1013
+16:41:49.897039 IP 75.98.93.51.https > 172.20.38.238.57800: Flags [.], ack 1381, win 5520, length 0
+16:41:49.963582 IP 75.98.93.51.https > 172.20.38.238.57800: Flags [.], seq 3696:5076, ack 1381, win 5520, length 1380
+16:41:49.963586 IP 75.98.93.51.https > 172.20.38.238.57800: Flags [.], seq 5076:6456, ack 1381, win 5520, length 1380
+16:41:49.963588 IP 75.98.93.51.https > 172.20.38.238.57800: Flags [.], seq 6456:7836, ack 1381, win 5520, length 1380
+16:41:49.963598 IP 75.98.93.51.https > 172.20.38.238.57800: Flags [.], seq 7836:9216, ack 1381, win 5520, length 1380
+16:41:49.963600 IP 75.98.93.51.https > 172.20.38.238.57800: Flags [P.], seq 9216:10596, ack 1381, win 5520, length 1380
+16:41:49.963737 IP 172.20.38.238.57800 > 75.98.93.51.https: Flags [.], ack 10596, win 64860, length 0
+16:41:50.177077 IP 75.98.93.51.https > 172.20.38.238.57800: Flags [.], seq 10596:11976, ack 1381, win 5520, length 1380
+16:41:50.177080 IP 75.98.93.51.https > 172.20.38.238.57800: Flags [.], seq 11976:13356, ack 1381, win 5520, length 1380
+16:41:50.177083 IP 75.98.93.51.https > 172.20.38.238.57800: Flags [.], seq 13356:14736, ack 1381, win 5520, length 1380
+16:41:50.177088 IP 75.98.93.51.https > 172.20.38.238.57800: Flags [P.], seq 14736:14773, ack 1381, win 5520, length 37
+16:41:50.177213 IP 172.20.38.238.57800 > 75.98.93.51.https: Flags [.], ack 14773, win 64860, length 0
+16:41:50.212959 IP 172.20.38.238.57800 > 75.98.93.51.https: Flags [P.], seq 1381:2378, ack 14773, win 64860, length 997
+16:41:50.214711 IP 172.20.38.238.53986 > resolver2.opendns.com.domain: 37619+ A? secure.surveymonkey.com. (41)
+16:41:50.409996 IP resolver2.opendns.com.domain > 172.20.38.238.53986: 37619 3/0/0 CNAME secure.surveymonkey.com.edgekey.net., CNAME e1403.c.akamaiedge.net., A 23.197.149.215 (139)
+16:41:50.411442 IP 172.20.38.238.57801 > a23-197-149-215.deploy.static.akamaitechnologies.com.https: Flags [S], seq 3546461238, win 8192, options [mss 1460,nop,wscale 8,nop,nop,sackOK], length 0
+16:41:50.411883 IP 172.20.38.238.57802 > a23-197-149-215.deploy.static.akamaitechnologies.com.https: Flags [S], seq 4259920711, win 8192, options [mss 1460,nop,wscale 8,nop,nop,sackOK], length 0
+16:41:50.412174 IP 172.20.38.238.57803 > a23-197-149-215.deploy.static.akamaitechnologies.com.https: Flags [S], seq 536152791, win 8192, options [mss 1460,nop,wscale 8,nop,nop,sackOK], length 0
+16:41:50.412614 IP 172.20.38.238.57804 > a23-197-149-215.deploy.static.akamaitechnologies.com.https: Flags [S], seq 1772431587, win 8192, options [mss 1460,nop,wscale 8,nop,nop,sackOK], length 0
+16:41:50.428488 IP 75.98.93.51.https > 172.20.38.238.57800: Flags [.], ack 2378, win 6517, length 0
+16:41:50.433230 IP 75.98.93.51.https > 172.20.38.238.57800: Flags [P.], seq 14773:15546, ack 2378, win 6517, length 773
+16:41:50.466007 IP 172.20.38.238.57805 > a23-197-149-215.deploy.static.akamaitechnologies.com.https: Flags [S], seq 331700266, win 8192, options [mss 1460,nop,wscale 8,nop,nop,sackOK], length 0
+16:41:50.481525 IP 172.20.38.238.57800 > 75.98.93.51.https: Flags [.], ack 15546, win 64087, length 0
+16:41:50.561518 IP a23-197-149-215.deploy.static.akamaitechnologies.com.https > 172.20.38.238.57801: Flags [S.], seq 410618032, ack 3546461239, win 28480, options [mss 1424,nop,nop,sackOK,nop,wscale 5], length 0
+16:41:50.561682 IP 172.20.38.238.57801 > a23-197-149-215.deploy.static.akamaitechnologies.com.https: Flags [.], ack 1, win 261, length 0
+16:41:50.562146 IP 172.20.38.238.57801 > a23-197-149-215.deploy.static.akamaitechnologies.com.https: Flags [P.], seq 1:221, ack 1, win 261, length 220
+16:41:50.562202 IP a23-197-149-215.deploy.static.akamaitechnologies.com.https > 172.20.38.238.57802: Flags [S.], seq 409974313, ack 4259920712, win 28480, options [mss 1424,nop,nop,sackOK,nop,wscale 5], length 0
+16:41:50.562204 IP a23-197-149-215.deploy.static.akamaitechnologies.com.https > 172.20.38.238.57804: Flags [S.], seq 419334685, ack 1772431588, win 28480, options [mss 1424,nop,nop,sackOK,nop,wscale 5], length 0
+16:41:50.562433 IP 172.20.38.238.57802 > a23-197-149-215.deploy.static.akamaitechnologies.com.https: Flags [.], ack 1, win 261, length 0
+16:41:50.562588 IP 172.20.38.238.57804 > a23-197-149-215.deploy.static.akamaitechnologies.com.https: Flags [.], ack 1, win 261, length 0
+16:41:50.562837 IP a23-197-149-215.deploy.static.akamaitechnologies.com.https > 172.20.38.238.57803: Flags [S.], seq 412701148, ack 536152792, win 29200, options [mss 1460,nop,nop,sackOK,nop,wscale 5], length 0
+16:41:50.562950 IP 172.20.38.238.57803 > a23-197-149-215.deploy.static.akamaitechnologies.com.https: Flags [.], ack 1, win 256, length 0
+16:41:50.563275 IP 172.20.38.238.57802 > a23-197-149-215.deploy.static.akamaitechnologies.com.https: Flags [P.], seq 1:221, ack 1, win 261, length 220
+16:41:50.563604 IP 172.20.38.238.57804 > a23-197-149-215.deploy.static.akamaitechnologies.com.https: Flags [P.], seq 1:221, ack 1, win 261, length 220
+16:41:50.563895 IP 172.20.38.238.57803 > a23-197-149-215.deploy.static.akamaitechnologies.com.https: Flags [P.], seq 1:221, ack 1, win 256, length 220
+16:41:50.624931 IP a23-197-149-215.deploy.static.akamaitechnologies.com.https > 172.20.38.238.57805: Flags [S.], seq 403593698, ack 331700267, win 28480, options [mss 1424,nop,nop,sackOK,nop,wscale 5], length 0
+16:41:50.625134 IP 172.20.38.238.57805 > a23-197-149-215.deploy.static.akamaitechnologies.com.https: Flags [.], ack 1, win 261, length 0
+16:41:50.728629 IP a23-197-149-215.deploy.static.akamaitechnologies.com.https > 172.20.38.238.57801: Flags [.], ack 221, win 924, length 0
+16:41:50.730503 IP a23-197-149-215.deploy.static.akamaitechnologies.com.https > 172.20.38.238.57802: Flags [.], ack 221, win 924, length 0
+16:41:50.731075 IP a23-197-149-215.deploy.static.akamaitechnologies.com.https > 172.20.38.238.57804: Flags [.], ack 221, win 924, length 0
+16:41:50.731077 IP a23-197-149-215.deploy.static.akamaitechnologies.com.https > 172.20.38.238.57803: Flags [.], ack 221, win 946, length 0
+16:41:50.732082 IP a23-197-149-215.deploy.static.akamaitechnologies.com.https > 172.20.38.238.57801: Flags [.], seq 1:1461, ack 221, win 924, length 1460
+16:41:50.732085 IP a23-197-149-215.deploy.static.akamaitechnologies.com.https > 172.20.38.238.57801: Flags [.], seq 1461:2921, ack 221, win 924, length 1460
+16:41:50.732086 IP a23-197-149-215.deploy.static.akamaitechnologies.com.https > 172.20.38.238.57801: Flags [P.], seq 2921:4231, ack 221, win 924, length 1310
+16:41:50.732217 IP 172.20.38.238.57801 > a23-197-149-215.deploy.static.akamaitechnologies.com.https: Flags [.], ack 4231, win 261, length 0
+16:41:50.734155 IP a23-197-149-215.deploy.static.akamaitechnologies.com.https > 172.20.38.238.57802: Flags [.], seq 1:1461, ack 221, win 924, length 1460
+16:41:50.734158 IP a23-197-149-215.deploy.static.akamaitechnologies.com.https > 172.20.38.238.57802: Flags [.], seq 1461:2921, ack 221, win 924, length 1460
+16:41:50.734159 IP a23-197-149-215.deploy.static.akamaitechnologies.com.https > 172.20.38.238.57802: Flags [P.], seq 2921:4231, ack 221, win 924, length 1310
+16:41:50.734165 IP a23-197-149-215.deploy.static.akamaitechnologies.com.https > 172.20.38.238.57803: Flags [.], seq 1:1461, ack 221, win 946, length 1460
+16:41:50.734167 IP a23-197-149-215.deploy.static.akamaitechnologies.com.https > 172.20.38.238.57803: Flags [.], seq 1461:2921, ack 221, win 946, length 1460
+16:41:50.734169 IP a23-197-149-215.deploy.static.akamaitechnologies.com.https > 172.20.38.238.57803: Flags [P.], seq 2921:4231, ack 221, win 946, length 1310
+16:41:50.734307 IP 172.20.38.238.57802 > a23-197-149-215.deploy.static.akamaitechnologies.com.https: Flags [.], ack 4231, win 261, length 0
+16:41:50.734416 IP 172.20.38.238.57803 > a23-197-149-215.deploy.static.akamaitechnologies.com.https: Flags [.], ack 4231, win 256, length 0
+16:41:50.734596 IP a23-197-149-215.deploy.static.akamaitechnologies.com.https > 172.20.38.238.57804: Flags [.], seq 1:1461, ack 221, win 924, length 1460
+16:41:50.735134 IP a23-197-149-215.deploy.static.akamaitechnologies.com.https > 172.20.38.238.57804: Flags [.], seq 1461:2921, ack 221, win 924, length 1460
+16:41:50.735137 IP a23-197-149-215.deploy.static.akamaitechnologies.com.https > 172.20.38.238.57804: Flags [P.], seq 2921:4231, ack 221, win 924, length 1310
+16:41:50.735181 IP 172.20.38.238.57804 > a23-197-149-215.deploy.static.akamaitechnologies.com.https: Flags [.], ack 4231, win 261, length 0
+16:41:50.739408 IP 172.20.38.238.57801 > a23-197-149-215.deploy.static.akamaitechnologies.com.https: Flags [P.], seq 221:347, ack 4231, win 261, length 126
+16:41:50.746502 IP 172.20.38.238.57802 > a23-197-149-215.deploy.static.akamaitechnologies.com.https: Flags [P.], seq 221:347, ack 4231, win 261, length 126
+16:41:50.753356 IP 172.20.38.238.57803 > a23-197-149-215.deploy.static.akamaitechnologies.com.https: Flags [P.], seq 221:347, ack 4231, win 256, length 126
+16:41:50.760105 IP 172.20.38.238.57804 > a23-197-149-215.deploy.static.akamaitechnologies.com.https: Flags [P.], seq 221:347, ack 4231, win 261, length 126
+16:41:50.803007 IP 172.20.38.238.57801 > a23-197-149-215.deploy.static.akamaitechnologies.com.https: Flags [P.], seq 347:1350, ack 4231, win 261, length 1003
+16:41:50.803407 IP 172.20.38.238.57802 > a23-197-149-215.deploy.static.akamaitechnologies.com.https: Flags [P.], seq 347:1348, ack 4231, win 261, length 1001
+16:41:50.803639 IP 172.20.38.238.57803 > a23-197-149-215.deploy.static.akamaitechnologies.com.https: Flags [P.], seq 347:1336, ack 4231, win 256, length 989
+16:41:50.803877 IP 172.20.38.238.57804 > a23-197-149-215.deploy.static.akamaitechnologies.com.https: Flags [P.], seq 347:1381, ack 4231, win 261, length 1034
+16:41:50.891833 IP a23-197-149-215.deploy.static.akamaitechnologies.com.https > 172.20.38.238.57801: Flags [P.], seq 4231:4473, ack 347, win 924, length 242
+16:41:50.895681 IP a23-197-149-215.deploy.static.akamaitechnologies.com.https > 172.20.38.238.57802: Flags [P.], seq 4231:4473, ack 347, win 924, length 242
+16:41:50.902786 IP a23-197-149-215.deploy.static.akamaitechnologies.com.https > 172.20.38.238.57803: Flags [P.], seq 4231:4473, ack 347, win 946, length 242
+16:41:50.910441 IP a23-197-149-215.deploy.static.akamaitechnologies.com.https > 172.20.38.238.57804: Flags [P.], seq 4231:4473, ack 347, win 924, length 242
+16:41:50.941484 IP 172.20.38.238.57801 > a23-197-149-215.deploy.static.akamaitechnologies.com.https: Flags [.], ack 4473, win 260, length 0
+16:41:50.949182 IP a23-197-149-215.deploy.static.akamaitechnologies.com.https > 172.20.38.238.57801: Flags [.], seq 4473:5933, ack 1350, win 987, length 1460
+16:41:50.949185 IP a23-197-149-215.deploy.static.akamaitechnologies.com.https > 172.20.38.238.57801: Flags [.], seq 5933:7393, ack 1350, win 987, length 1460
+16:41:50.949187 IP a23-197-149-215.deploy.static.akamaitechnologies.com.https > 172.20.38.238.57801: Flags [.], seq 7393:8853, ack 1350, win 987, length 1460
+16:41:50.949195 IP a23-197-149-215.deploy.static.akamaitechnologies.com.https > 172.20.38.238.57801: Flags [.], seq 8853:10313, ack 1350, win 987, length 1460
+16:41:50.949198 IP a23-197-149-215.deploy.static.akamaitechnologies.com.https > 172.20.38.238.57801: Flags [.], seq 10313:11773, ack 1350, win 987, length 1460
+16:41:50.949200 IP a23-197-149-215.deploy.static.akamaitechnologies.com.https > 172.20.38.238.57801: Flags [.], seq 11773:13233, ack 1350, win 987, length 1460
+16:41:50.949202 IP a23-197-149-215.deploy.static.akamaitechnologies.com.https > 172.20.38.238.57801: Flags [P.], seq 13233:13608, ack 1350, win 987, length 375
+16:41:50.949361 IP 172.20.38.238.57801 > a23-197-149-215.deploy.static.akamaitechnologies.com.https: Flags [.], ack 13608, win 261, length 0
+16:41:50.951874 IP a23-197-149-215.deploy.static.akamaitechnologies.com.https > 172.20.38.238.57802: Flags [.], seq 4473:5933, ack 1348, win 987, length 1460
+16:41:50.951877 IP a23-197-149-215.deploy.static.akamaitechnologies.com.https > 172.20.38.238.57802: Flags [.], seq 5933:7393, ack 1348, win 987, length 1460
+16:41:50.951879 IP a23-197-149-215.deploy.static.akamaitechnologies.com.https > 172.20.38.238.57802: Flags [P.], seq 7393:8517, ack 1348, win 987, length 1124
+16:41:50.951887 IP a23-197-149-215.deploy.static.akamaitechnologies.com.https > 172.20.38.238.57803: Flags [.], seq 4473:5933, ack 1336, win 1008, length 1460
+16:41:50.951889 IP a23-197-149-215.deploy.static.akamaitechnologies.com.https > 172.20.38.238.57803: Flags [.], seq 5933:7393, ack 1336, win 1008, length 1460
+16:41:50.951890 IP a23-197-149-215.deploy.static.akamaitechnologies.com.https > 172.20.38.238.57803: Flags [.], seq 7393:8853, ack 1336, win 1008, length 1460
+16:41:50.951892 IP a23-197-149-215.deploy.static.akamaitechnologies.com.https > 172.20.38.238.57803: Flags [.], seq 8853:10313, ack 1336, win 1008, length 1460
+16:41:50.951894 IP a23-197-149-215.deploy.static.akamaitechnologies.com.https > 172.20.38.238.57803: Flags [.], seq 10313:11773, ack 1336, win 1008, length 1460
+16:41:50.951896 IP a23-197-149-215.deploy.static.akamaitechnologies.com.https > 172.20.38.238.57804: Flags [.], seq 4473:5933, ack 1381, win 989, length 1460
+16:41:50.951898 IP a23-197-149-215.deploy.static.akamaitechnologies.com.https > 172.20.38.238.57804: Flags [.], seq 5933:7393, ack 1381, win 989, length 1460
+16:41:50.951900 IP a23-197-149-215.deploy.static.akamaitechnologies.com.https > 172.20.38.238.57804: Flags [P.], seq 7393:8529, ack 1381, win 989, length 1136
+16:41:50.951902 IP a23-197-149-215.deploy.static.akamaitechnologies.com.https > 172.20.38.238.57803: Flags [.], seq 11773:13233, ack 1336, win 1008, length 1460
+16:41:50.951903 IP a23-197-149-215.deploy.static.akamaitechnologies.com.https > 172.20.38.238.57803: Flags [.], seq 13233:14693, ack 1336, win 1008, length 1460
+16:41:50.952087 IP 172.20.38.238.57802 > a23-197-149-215.deploy.static.akamaitechnologies.com.https: Flags [.], ack 8517, win 261, length 0
+16:41:50.952200 IP 172.20.38.238.57803 > a23-197-149-215.deploy.static.akamaitechnologies.com.https: Flags [.], ack 14693, win 256, length 0
+16:41:50.952251 IP 172.20.38.238.57804 > a23-197-149-215.deploy.static.akamaitechnologies.com.https: Flags [.], ack 8529, win 261, length 0
+16:41:50.952482 IP a23-197-149-215.deploy.static.akamaitechnologies.com.https > 172.20.38.238.57803: Flags [.], seq 14693:16153, ack 1336, win 1008, length 1460
+16:41:50.952484 IP a23-197-149-215.deploy.static.akamaitechnologies.com.https > 172.20.38.238.57803: Flags [.], seq 16153:17613, ack 1336, win 1008, length 1460
+16:41:50.952486 IP a23-197-149-215.deploy.static.akamaitechnologies.com.https > 172.20.38.238.57803: Flags [.], seq 17613:19073, ack 1336, win 1008, length 1460
+16:41:50.952536 IP 172.20.38.238.57803 > a23-197-149-215.deploy.static.akamaitechnologies.com.https: Flags [.], ack 19073, win 256, length 0
+16:41:50.954048 IP a23-197-149-215.deploy.static.akamaitechnologies.com.https > 172.20.38.238.57803: Flags [.], seq 19073:20533, ack 1336, win 1008, length 1460
+16:41:50.954052 IP a23-197-149-215.deploy.static.akamaitechnologies.com.https > 172.20.38.238.57803: Flags [.], seq 20533:21993, ack 1336, win 1008, length 1460
+16:41:50.954053 IP a23-197-149-215.deploy.static.akamaitechnologies.com.https > 172.20.38.238.57803: Flags [.], seq 21993:23453, ack 1336, win 1008, length 1460
+16:41:50.954062 IP a23-197-149-215.deploy.static.akamaitechnologies.com.https > 172.20.38.238.57803: Flags [.], seq 23453:24913, ack 1336, win 1008, length 1460
+16:41:50.954063 IP a23-197-149-215.deploy.static.akamaitechnologies.com.https > 172.20.38.238.57803: Flags [.], seq 24913:26373, ack 1336, win 1008, length 1460
+16:41:50.954185 IP 172.20.38.238.57803 > a23-197-149-215.deploy.static.akamaitechnologies.com.https: Flags [.], ack 26373, win 256, length 0
+16:41:50.955874 IP 172.20.38.238.57805 > a23-197-149-215.deploy.static.akamaitechnologies.com.https: Flags [P.], seq 1:518, ack 1, win 261, length 517
+16:41:50.957269 IP 172.20.38.238.57806 > a23-197-149-215.deploy.static.akamaitechnologies.com.https: Flags [S], seq 1113451257, win 8192, options [mss 1460,nop,wscale 8,nop,nop,sackOK], length 0
+16:41:50.961145 IP 172.20.38.238.57802 > a23-197-149-215.deploy.static.akamaitechnologies.com.https: Flags [P.], seq 1348:2357, ack 8517, win 261, length 1009
+16:41:50.961599 IP 172.20.38.238.57801 > a23-197-149-215.deploy.static.akamaitechnologies.com.https: Flags [P.], seq 1350:2394, ack 13608, win 261, length 1044
+16:41:50.962224 IP 172.20.38.238.57804 > a23-197-149-215.deploy.static.akamaitechnologies.com.https: Flags [P.], seq 1381:2419, ack 8529, win 261, length 1038
+16:41:51.007670 IP 172.20.38.238.60265 > resolver2.opendns.com.domain: 48140+ A? seal.qualys.com. (33)
+16:41:51.099572 IP a23-197-149-215.deploy.static.akamaitechnologies.com.https > 172.20.38.238.57803: Flags [.], seq 26373:27833, ack 1336, win 1008, length 1460
+16:41:51.099575 IP a23-197-149-215.deploy.static.akamaitechnologies.com.https > 172.20.38.238.57803: Flags [.], seq 27833:29293, ack 1336, win 1008, length 1460
+16:41:51.099576 IP a23-197-149-215.deploy.static.akamaitechnologies.com.https > 172.20.38.238.57803: Flags [.], seq 29293:30753, ack 1336, win 1008, length 1460
+16:41:51.099584 IP a23-197-149-215.deploy.static.akamaitechnologies.com.https > 172.20.38.238.57803: Flags [.], seq 30753:32213, ack 1336, win 1008, length 1460
+16:41:51.099586 IP a23-197-149-215.deploy.static.akamaitechnologies.com.https > 172.20.38.238.57803: Flags [.], seq 32213:33673, ack 1336, win 1008, length 1460
+16:41:51.099587 IP a23-197-149-215.deploy.static.akamaitechnologies.com.https > 172.20.38.238.57803: Flags [.], seq 33673:35133, ack 1336, win 1008, length 1460
+16:41:51.099735 IP 172.20.38.238.57803 > a23-197-149-215.deploy.static.akamaitechnologies.com.https: Flags [.], ack 35133, win 256, length 0
+16:41:51.100684 IP a23-197-149-215.deploy.static.akamaitechnologies.com.https > 172.20.38.238.57803: Flags [.], seq 35133:36593, ack 1336, win 1008, length 1460
+16:41:51.100687 IP a23-197-149-215.deploy.static.akamaitechnologies.com.https > 172.20.38.238.57803: Flags [.], seq 36593:38053, ack 1336, win 1008, length 1460
+16:41:51.100689 IP a23-197-149-215.deploy.static.akamaitechnologies.com.https > 172.20.38.238.57803: Flags [.], seq 38053:39513, ack 1336, win 1008, length 1460
+16:41:51.100694 IP a23-197-149-215.deploy.static.akamaitechnologies.com.https > 172.20.38.238.57803: Flags [.], seq 39513:40973, ack 1336, win 1008, length 1460
+16:41:51.100696 IP a23-197-149-215.deploy.static.akamaitechnologies.com.https > 172.20.38.238.57803: Flags [P.], seq 40973:41197, ack 1336, win 1008, length 224
+16:41:51.100825 IP 172.20.38.238.57803 > a23-197-149-215.deploy.static.akamaitechnologies.com.https: Flags [.], ack 41197, win 256, length 0
+16:41:51.101340 IP a23-197-149-215.deploy.static.akamaitechnologies.com.https > 172.20.38.238.57805: Flags [.], ack 518, win 924, length 0
+16:41:51.102352 IP a23-197-149-215.deploy.static.akamaitechnologies.com.https > 172.20.38.238.57805: Flags [P.], seq 1:153, ack 518, win 924, length 152
+16:41:51.103019 IP a23-197-149-215.deploy.static.akamaitechnologies.com.https > 172.20.38.238.57806: Flags [S.], seq 413730088, ack 1113451258, win 28480, options [mss 1424,nop,nop,sackOK,nop,wscale 5], length 0
+16:41:51.103137 IP 172.20.38.238.57806 > a23-197-149-215.deploy.static.akamaitechnologies.com.https: Flags [.], ack 1, win 261, length 0
+16:41:51.103769 IP 172.20.38.238.57805 > a23-197-149-215.deploy.static.akamaitechnologies.com.https: Flags [P.], seq 518:569, ack 153, win 260, length 51
+16:41:51.104984 IP 172.20.38.238.57803 > a23-197-149-215.deploy.static.akamaitechnologies.com.https: Flags [P.], seq 1336:2373, ack 41197, win 256, length 1037
+16:41:51.105400 IP 172.20.38.238.57806 > a23-197-149-215.deploy.static.akamaitechnologies.com.https: Flags [P.], seq 1:518, ack 1, win 261, length 517
+16:41:51.105878 IP 172.20.38.238.57805 > a23-197-149-215.deploy.static.akamaitechnologies.com.https: Flags [P.], seq 569:1601, ack 153, win 260, length 1032
+16:41:51.106582 IP a23-197-149-215.deploy.static.akamaitechnologies.com.https > 172.20.38.238.57801: Flags [P.], seq 13608:14852, ack 2394, win 1052, length 1244
+16:41:51.107477 IP a23-197-149-215.deploy.static.akamaitechnologies.com.https > 172.20.38.238.57802: Flags [P.], seq 8517:8869, ack 2357, win 1050, length 352
+16:41:51.107479 IP a23-197-149-215.deploy.static.akamaitechnologies.com.https > 172.20.38.238.57804: Flags [P.], seq 8529:9624, ack 2419, win 1053, length 1095
+16:41:51.111302 IP 172.20.38.238.57801 > a23-197-149-215.deploy.static.akamaitechnologies.com.https: Flags [P.], seq 2394:3426, ack 14852, win 256, length 1032
+16:41:51.111738 IP 172.20.38.238.57804 > a23-197-149-215.deploy.static.akamaitechnologies.com.https: Flags [P.], seq 2419:3497, ack 9624, win 257, length 1078
+16:41:51.111935 IP 172.20.38.238.57802 > a23-197-149-215.deploy.static.akamaitechnologies.com.https: Flags [P.], seq 2357:3440, ack 8869, win 260, length 1083
+16:41:51.175571 IP resolver2.opendns.com.domain > 172.20.38.238.60265: 48140 1/0/0 A 64.39.96.42 (49)
+16:41:51.176915 IP 172.20.38.238.57807 > seal.qualys.com.https: Flags [S], seq 443172762, win 8192, options [mss 1460,nop,wscale 8,nop,nop,sackOK], length 0
+16:41:51.245120 IP a23-197-149-215.deploy.static.akamaitechnologies.com.https > 172.20.38.238.57803: Flags [P.], seq 41197:42089, ack 2373, win 1073, length 892
+16:41:51.245667 IP a23-197-149-215.deploy.static.akamaitechnologies.com.https > 172.20.38.238.57806: Flags [.], ack 518, win 924, length 0
+16:41:51.246329 IP a23-197-149-215.deploy.static.akamaitechnologies.com.https > 172.20.38.238.57805: Flags [.], ack 1601, win 988, length 0
+16:41:51.247024 IP a23-197-149-215.deploy.static.akamaitechnologies.com.https > 172.20.38.238.57805: Flags [.], seq 153:1613, ack 1601, win 988, length 1460
+16:41:51.247027 IP a23-197-149-215.deploy.static.akamaitechnologies.com.https > 172.20.38.238.57805: Flags [P.], seq 1613:1675, ack 1601, win 988, length 62
+16:41:51.247102 IP 172.20.38.238.57805 > a23-197-149-215.deploy.static.akamaitechnologies.com.https: Flags [.], ack 1675, win 261, length 0
+16:41:51.256338 IP a23-197-149-215.deploy.static.akamaitechnologies.com.https > 172.20.38.238.57804: Flags [.], seq 9624:11084, ack 3497, win 1121, length 1460
+16:41:51.256340 IP a23-197-149-215.deploy.static.akamaitechnologies.com.https > 172.20.38.238.57804: Flags [.], seq 11084:12544, ack 3497, win 1121, length 1460
+16:41:51.256342 IP a23-197-149-215.deploy.static.akamaitechnologies.com.https > 172.20.38.238.57804: Flags [.], seq 12544:14004, ack 3497, win 1121, length 1460
+16:41:51.256350 IP a23-197-149-215.deploy.static.akamaitechnologies.com.https > 172.20.38.238.57804: Flags [.], seq 14004:15464, ack 3497, win 1121, length 1460
+16:41:51.256497 IP 172.20.38.238.57804 > a23-197-149-215.deploy.static.akamaitechnologies.com.https: Flags [.], ack 15464, win 261, length 0
+16:41:51.258174 IP 172.20.38.238.57808 > seal.qualys.com.https: Flags [S], seq 2130163538, win 8192, options [mss 1460,nop,wscale 8,nop,nop,sackOK], length 0
+16:41:51.259045 IP a23-197-149-215.deploy.static.akamaitechnologies.com.https > 172.20.38.238.57804: Flags [P.], seq 15464:16397, ack 3497, win 1121, length 933
+16:41:51.259047 IP a23-197-149-215.deploy.static.akamaitechnologies.com.https > 172.20.38.238.57802: Flags [.], seq 8869:10329, ack 3440, win 1117, length 1460
+16:41:51.259050 IP a23-197-149-215.deploy.static.akamaitechnologies.com.https > 172.20.38.238.57802: Flags [.], seq 10329:11789, ack 3440, win 1117, length 1460
+16:41:51.259055 IP a23-197-149-215.deploy.static.akamaitechnologies.com.https > 172.20.38.238.57802: Flags [.], seq 11789:13249, ack 3440, win 1117, length 1460
+16:41:51.259057 IP a23-197-149-215.deploy.static.akamaitechnologies.com.https > 172.20.38.238.57802: Flags [.], seq 13249:14709, ack 3440, win 1117, length 1460
+16:41:51.259059 IP a23-197-149-215.deploy.static.akamaitechnologies.com.https > 172.20.38.238.57802: Flags [.], seq 14709:16169, ack 3440, win 1117, length 1460
+16:41:51.259061 IP a23-197-149-215.deploy.static.akamaitechnologies.com.https > 172.20.38.238.57802: Flags [.], seq 16169:17629, ack 3440, win 1117, length 1460
+16:41:51.259063 IP a23-197-149-215.deploy.static.akamaitechnologies.com.https > 172.20.38.238.57802: Flags [.], seq 17629:19089, ack 3440, win 1117, length 1460
+16:41:51.259065 IP a23-197-149-215.deploy.static.akamaitechnologies.com.https > 172.20.38.238.57802: Flags [.], seq 19089:20549, ack 3440, win 1117, length 1460
+16:41:51.259067 IP a23-197-149-215.deploy.static.akamaitechnologies.com.https > 172.20.38.238.57802: Flags [.], seq 20549:22009, ack 3440, win 1117, length 1460
+16:41:51.259071 IP a23-197-149-215.deploy.static.akamaitechnologies.com.https > 172.20.38.238.57802: Flags [.], seq 22009:23469, ack 3440, win 1117, length 1460
+16:41:51.259073 IP a23-197-149-215.deploy.static.akamaitechnologies.com.https > 172.20.38.238.57802: Flags [.], seq 23469:24929, ack 3440, win 1117, length 1460
+16:41:51.259242 IP 172.20.38.238.57802 > a23-197-149-215.deploy.static.akamaitechnologies.com.https: Flags [.], ack 24929, win 261, length 0
+16:41:51.259650 IP a23-197-149-215.deploy.static.akamaitechnologies.com.https > 172.20.38.238.57802: Flags [.], seq 24929:26389, ack 3440, win 1117, length 1460
+16:41:51.259654 IP a23-197-149-215.deploy.static.akamaitechnologies.com.https > 172.20.38.238.57802: Flags [.], seq 26389:27849, ack 3440, win 1117, length 1460
+16:41:51.259656 IP a23-197-149-215.deploy.static.akamaitechnologies.com.https > 172.20.38.238.57802: Flags [.], seq 27849:29309, ack 3440, win 1117, length 1460
+16:41:51.259772 IP 172.20.38.238.57802 > a23-197-149-215.deploy.static.akamaitechnologies.com.https: Flags [.], ack 29309, win 261, length 0
+16:41:51.260670 IP a23-197-149-215.deploy.static.akamaitechnologies.com.https > 172.20.38.238.57802: Flags [.], seq 29309:30769, ack 3440, win 1117, length 1460
+16:41:51.260673 IP a23-197-149-215.deploy.static.akamaitechnologies.com.https > 172.20.38.238.57802: Flags [P.], seq 30769:30954, ack 3440, win 1117, length 185
+16:41:51.260674 IP a23-197-149-215.deploy.static.akamaitechnologies.com.https > 172.20.38.238.57801: Flags [.], seq 14852:16312, ack 3426, win 1117, length 1460
+16:41:51.260676 IP a23-197-149-215.deploy.static.akamaitechnologies.com.https > 172.20.38.238.57801: Flags [P.], seq 16312:16913, ack 3426, win 1117, length 601
+16:41:51.260755 IP 172.20.38.238.57802 > a23-197-149-215.deploy.static.akamaitechnologies.com.https: Flags [.], ack 30954, win 261, length 0
+16:41:51.260829 IP 172.20.38.238.57801 > a23-197-149-215.deploy.static.akamaitechnologies.com.https: Flags [.], ack 16913, win 261, length 0
+16:41:51.264106 IP a23-197-149-215.deploy.static.akamaitechnologies.com.https > 172.20.38.238.57806: Flags [P.], seq 1:153, ack 518, win 924, length 152
+16:41:51.264624 IP 172.20.38.238.57806 > a23-197-149-215.deploy.static.akamaitechnologies.com.https: Flags [P.], seq 518:569, ack 153, win 260, length 51
+16:41:51.299852 IP 172.20.38.238.57802 > a23-197-149-215.deploy.static.akamaitechnologies.com.https: Flags [P.], seq 3440:4546, ack 30954, win 261, length 1106
+16:41:51.303587 IP 172.20.38.238.57803 > a23-197-149-215.deploy.static.akamaitechnologies.com.https: Flags [.], ack 42089, win 253, length 0
+16:41:51.309452 IP 172.20.38.238.57804 > a23-197-149-215.deploy.static.akamaitechnologies.com.https: Flags [.], ack 16397, win 257, length 0
+16:41:51.389090 IP seal.qualys.com.https > 172.20.38.238.57807: Flags [S.], seq 820329413, ack 443172763, win 8190, options [mss 1360], length 0
+16:41:51.389234 IP 172.20.38.238.57807 > seal.qualys.com.https: Flags [.], ack 1, win 65280, length 0
+16:41:51.389697 IP 172.20.38.238.57807 > seal.qualys.com.https: Flags [P.], seq 1:213, ack 1, win 65280, length 212
+16:41:51.444304 IP a23-197-149-215.deploy.static.akamaitechnologies.com.https > 172.20.38.238.57802: Flags [.], seq 30954:32414, ack 4546, win 1209, length 1460
+16:41:51.444308 IP a23-197-149-215.deploy.static.akamaitechnologies.com.https > 172.20.38.238.57802: Flags [.], seq 32414:33874, ack 4546, win 1209, length 1460
+16:41:51.444310 IP a23-197-149-215.deploy.static.akamaitechnologies.com.https > 172.20.38.238.57802: Flags [.], seq 33874:35334, ack 4546, win 1209, length 1460
+16:41:51.444315 IP a23-197-149-215.deploy.static.akamaitechnologies.com.https > 172.20.38.238.57802: Flags [.], seq 35334:36794, ack 4546, win 1209, length 1460
+16:41:51.444317 IP a23-197-149-215.deploy.static.akamaitechnologies.com.https > 172.20.38.238.57802: Flags [P.], seq 36794:38198, ack 4546, win 1209, length 1404
+16:41:51.444450 IP 172.20.38.238.57802 > a23-197-149-215.deploy.static.akamaitechnologies.com.https: Flags [.], ack 38198, win 261, length 0
+16:41:51.449447 IP a23-197-149-215.deploy.static.akamaitechnologies.com.https > 172.20.38.238.57806: Flags [.], ack 569, win 924, length 0
+16:41:51.464215 IP seal.qualys.com.https > 172.20.38.238.57808: Flags [S.], seq 1880178892, ack 2130163539, win 8190, options [mss 1360], length 0
+16:41:51.464381 IP 172.20.38.238.57808 > seal.qualys.com.https: Flags [.], ack 1, win 65280, length 0
+16:41:51.593385 IP seal.qualys.com.https > 172.20.38.238.57807: Flags [P.], seq 1:1361, ack 213, win 35264, length 1360
+16:41:51.593387 IP seal.qualys.com.https > 172.20.38.238.57807: Flags [P.], seq 1361:2721, ack 213, win 35264, length 1360
+16:41:51.593389 IP seal.qualys.com.https > 172.20.38.238.57807: Flags [P.], seq 2721:2968, ack 213, win 35264, length 247
+16:41:51.593480 IP 172.20.38.238.57807 > seal.qualys.com.https: Flags [.], ack 2968, win 65280, length 0
+16:41:51.594585 IP 172.20.38.238.57807 > seal.qualys.com.https: Flags [P.], seq 213:539, ack 2968, win 65280, length 326
+16:41:51.792469 IP seal.qualys.com.https > 172.20.38.238.57807: Flags [.], ack 539, win 34938, length 0
+16:41:51.793765 IP seal.qualys.com.https > 172.20.38.238.57807: Flags [P.], seq 2968:3027, ack 539, win 34938, length 59
+16:41:51.804297 IP 172.20.38.238.57807 > seal.qualys.com.https: Flags [P.], seq 539:1032, ack 3027, win 65221, length 493
+16:41:51.873538 IP 172.20.38.238.57799 > 75.98.93.51.https: Flags [S], seq 2548072898, win 8192, options [mss 1460,nop,wscale 8,nop,nop,sackOK], length 0
+16:41:52.009581 IP seal.qualys.com.https > 172.20.38.238.57807: Flags [.], ack 1032, win 34445, length 0
+16:41:52.010502 IP seal.qualys.com.https > 172.20.38.238.57807: Flags [.], seq 3027:4387, ack 1032, win 65535, length 1360
+16:41:52.010505 IP seal.qualys.com.https > 172.20.38.238.57807: Flags [P.], seq 4387:4776, ack 1032, win 65535, length 389
+16:41:52.010624 IP 172.20.38.238.57807 > seal.qualys.com.https: Flags [.], ack 4776, win 65280, length 0
+16:41:52.024651 IP 172.20.38.238.57800 > 75.98.93.51.https: Flags [P.], seq 2378:3327, ack 15546, win 64087, length 949
+16:41:52.100600 IP 75.98.93.51.https > 172.20.38.238.57799: Flags [S.], seq 3180715725, ack 2548072899, win 4380, options [mss 1380,sackOK,eol], length 0
+16:41:52.100757 IP 172.20.38.238.57799 > 75.98.93.51.https: Flags [.], ack 1, win 64860, length 0
+16:41:52.243837 IP 75.98.93.51.https > 172.20.38.238.57800: Flags [.], ack 3327, win 7466, length 0
+16:41:52.253033 IP 75.98.93.51.https > 172.20.38.238.57800: Flags [.], seq 15546:16926, ack 3327, win 7466, length 1380
+16:41:52.253035 IP 75.98.93.51.https > 172.20.38.238.57800: Flags [P.], seq 16926:17279, ack 3327, win 7466, length 353
+16:41:52.253132 IP 172.20.38.238.57800 > 75.98.93.51.https: Flags [.], ack 17279, win 64860, length 0
+16:41:52.476451 IP 75.98.93.51.https > 172.20.38.238.57800: Flags [P.], seq 17279:17348, ack 3327, win 7466, length 69
+16:41:52.536565 IP 172.20.38.238.57800 > 75.98.93.51.https: Flags [.], ack 17348, win 64791, length 0
+16:41:55.138487 IP 75.98.93.51.https > 172.20.38.238.57799: Flags [S.], seq 3180715725, ack 2548072899, win 4380, options [mss 1380,sackOK,eol], length 0
+16:41:55.138562 IP 172.20.38.238.57799 > 75.98.93.51.https: Flags [.], ack 1, win 64860, options [nop,nop,sack 1 {0:1}], length 0

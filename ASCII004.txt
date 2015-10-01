@@ -1,0 +1,544 @@
+15:58:54.907250 IP ord30s22-in-f14.1e100.net.https > 172.20.38.238.57047: Flags [.], ack 4112538723, win 1494, length 0
+15:58:54.955095 IP 172.20.38.238.57044 > il-in-f95.1e100.net.https: Flags [F.], seq 2510185108, ack 730254212, win 255, length 0
+15:58:54.955239 IP 172.20.38.238.57044 > il-in-f95.1e100.net.https: Flags [R.], seq 1, ack 1, win 0, length 0
+15:58:55.033128 IP 172.20.38.238.57048 > ord30s22-in-f99.1e100.net.https: Flags [F.], seq 1940657642, ack 1371971070, win 256, length 0
+15:58:55.039333 IP ord30s22-in-f14.1e100.net.https > 172.20.38.238.57074: Flags [.], ack 276374286, win 419, length 0
+15:58:55.047470 IP ord30s22-in-f14.1e100.net.https > 172.20.38.238.57074: Flags [.], ack 129, win 441, length 0
+15:58:55.048868 IP 172.20.38.238.51368 > ord30s22-in-f14.1e100.net.https: UDP, length 1350
+15:58:55.090883 IP ord30s22-in-f14.1e100.net.https > 172.20.38.238.57074: Flags [P.], seq 0:69, ack 129, win 441, length 69
+15:58:55.093210 IP ord30s22-in-f14.1e100.net.https > 172.20.38.238.57074: Flags [P.], seq 69:440, ack 129, win 441, length 371
+15:58:55.093290 IP 172.20.38.238.57074 > ord30s22-in-f14.1e100.net.https: Flags [.], ack 440, win 256, length 0
+15:58:55.104114 IP ord30s22-in-f14.1e100.net.https > 172.20.38.238.57074: Flags [P.], seq 440:703, ack 129, win 441, length 263
+15:58:55.104475 IP ord30s22-in-f14.1e100.net.https > 172.20.38.238.57074: Flags [P.], seq 703:749, ack 129, win 441, length 46
+15:58:55.104538 IP 172.20.38.238.57074 > ord30s22-in-f14.1e100.net.https: Flags [.], ack 749, win 255, length 0
+15:58:55.105245 IP 172.20.38.238.57074 > ord30s22-in-f14.1e100.net.https: Flags [P.], seq 129:175, ack 749, win 255, length 46
+15:58:55.126051 IP il-in-f95.1e100.net.https > 172.20.38.238.57044: Flags [F.], seq 1, ack 1, win 344, length 0
+15:58:55.147377 IP 172.20.38.238.57074 > ord30s22-in-f14.1e100.net.https: Flags [P.], seq 175:321, ack 749, win 255, length 146
+15:58:55.151455 IP 172.20.38.238.57047 > ord30s22-in-f14.1e100.net.https: Flags [P.], seq 1:102, ack 0, win 251, length 101
+15:58:55.211877 IP ord30s22-in-f99.1e100.net.https > 172.20.38.238.57048: Flags [F.], seq 1, ack 1, win 336, length 0
+15:58:55.211934 IP 172.20.38.238.57048 > ord30s22-in-f99.1e100.net.https: Flags [.], ack 2, win 256, length 0
+15:58:55.275091 IP ord30s22-in-f14.1e100.net.https > 172.20.38.238.57074: Flags [.], ack 175, win 441, length 0
+15:58:55.309661 IP ord30s22-in-f14.1e100.net.https > 172.20.38.238.57074: Flags [.], ack 321, win 464, length 0
+15:58:55.311790 IP ord30s22-in-f14.1e100.net.https > 172.20.38.238.57047: Flags [.], ack 102, win 1494, length 0
+15:58:55.335898 IP ord30s22-in-f14.1e100.net.https > 172.20.38.238.57074: Flags [P.], seq 749:922, ack 321, win 464, length 173
+15:58:55.336331 IP ord30s22-in-f14.1e100.net.https > 172.20.38.238.57074: Flags [P.], seq 922:1350, ack 321, win 464, length 428
+15:58:55.336333 IP ord30s22-in-f14.1e100.net.https > 172.20.38.238.57074: Flags [P.], seq 1350:1396, ack 321, win 464, length 46
+15:58:55.336386 IP 172.20.38.238.57074 > ord30s22-in-f14.1e100.net.https: Flags [.], ack 1396, win 253, length 0
+15:58:55.336921 IP 172.20.38.238.57074 > ord30s22-in-f14.1e100.net.https: Flags [P.], seq 321:367, ack 1396, win 253, length 46
+15:58:55.347546 IP 172.20.38.238.57074 > ord30s22-in-f14.1e100.net.https: Flags [P.], seq 367:467, ack 1396, win 253, length 100
+15:58:55.348857 IP 172.20.38.238.51368 > ord30s22-in-f14.1e100.net.https: UDP, length 1350
+15:58:55.367078 IP ord30s22-in-f14.1e100.net.https > 172.20.38.238.57047: Flags [P.], seq 0:74, ack 102, win 1494, length 74
+15:58:55.367080 IP ord30s22-in-f14.1e100.net.https > 172.20.38.238.57047: Flags [P.], seq 74:581, ack 102, win 1494, length 507
+15:58:55.367165 IP 172.20.38.238.57047 > ord30s22-in-f14.1e100.net.https: Flags [.], ack 581, win 256, length 0
+15:58:55.368374 IP ord30s22-in-f14.1e100.net.https > 172.20.38.238.57047: Flags [P.], seq 581:794, ack 102, win 1494, length 213
+15:58:55.368375 IP ord30s22-in-f14.1e100.net.https > 172.20.38.238.57047: Flags [P.], seq 794:840, ack 102, win 1494, length 46
+15:58:55.368427 IP 172.20.38.238.57047 > ord30s22-in-f14.1e100.net.https: Flags [.], ack 840, win 255, length 0
+15:58:55.368627 IP 172.20.38.238.57047 > ord30s22-in-f14.1e100.net.https: Flags [P.], seq 102:148, ack 840, win 255, length 46
+15:58:55.408161 IP 172.20.38.238.57047 > ord30s22-in-f14.1e100.net.https: Flags [P.], seq 148:247, ack 840, win 255, length 99
+15:58:55.410643 IP 172.20.38.238.57047 > ord30s22-in-f14.1e100.net.https: Flags [P.], seq 247:382, ack 840, win 255, length 135
+15:58:55.525436 IP ord30s22-in-f14.1e100.net.https > 172.20.38.238.57074: Flags [.], ack 467, win 464, length 0
+15:58:55.540150 IP ord30s22-in-f14.1e100.net.https > 172.20.38.238.57047: Flags [.], ack 148, win 1494, length 0
+15:58:55.544441 IP ord30s22-in-f14.1e100.net.https > 172.20.38.238.57074: Flags [P.], seq 1396:1499, ack 467, win 464, length 103
+15:58:55.544443 IP ord30s22-in-f14.1e100.net.https > 172.20.38.238.57074: Flags [P.], seq 1499:1884, ack 467, win 464, length 385
+15:58:55.544444 IP ord30s22-in-f14.1e100.net.https > 172.20.38.238.57074: Flags [P.], seq 1884:1930, ack 467, win 464, length 46
+15:58:55.544535 IP 172.20.38.238.57074 > ord30s22-in-f14.1e100.net.https: Flags [.], ack 1930, win 256, length 0
+15:58:55.545429 IP 172.20.38.238.57074 > ord30s22-in-f14.1e100.net.https: Flags [P.], seq 467:513, ack 1930, win 256, length 46
+15:58:55.564012 IP ie-in-f141.1e100.net.https > 172.20.38.238.57052: Flags [F.], seq 1555306062, ack 3686534282, win 336, length 0
+15:58:55.564082 IP 172.20.38.238.57052 > ie-in-f141.1e100.net.https: Flags [.], ack 1, win 256, length 0
+15:58:55.579149 IP ord30s22-in-f14.1e100.net.https > 172.20.38.238.57047: Flags [.], ack 247, win 1494, length 0
+15:58:55.581994 IP ord30s22-in-f14.1e100.net.https > 172.20.38.238.57047: Flags [.], ack 382, win 1516, length 0
+15:58:55.581995 IP ord30s22-in-f14.1e100.net.https > 172.20.38.238.57047: Flags [P.], seq 840:999, ack 382, win 1516, length 159
+15:58:55.581996 IP ord30s22-in-f14.1e100.net.https > 172.20.38.238.57047: Flags [P.], seq 999:1037, ack 382, win 1516, length 38
+15:58:55.581997 IP ord30s22-in-f14.1e100.net.https > 172.20.38.238.57047: Flags [P.], seq 1037:1083, ack 382, win 1516, length 46
+15:58:55.582083 IP 172.20.38.238.57047 > ord30s22-in-f14.1e100.net.https: Flags [.], ack 1083, win 254, length 0
+15:58:55.583696 IP 172.20.38.238.57047 > ord30s22-in-f14.1e100.net.https: Flags [P.], seq 382:428, ack 1083, win 254, length 46
+15:58:55.592849 IP 172.20.38.238.57074 > ord30s22-in-f14.1e100.net.https: Flags [P.], seq 513:614, ack 1930, win 256, length 101
+15:58:55.593183 IP 172.20.38.238.57047 > ord30s22-in-f14.1e100.net.https: Flags [P.], seq 428:514, ack 1083, win 254, length 86
+15:58:55.608782 IP ord30s22-in-f14.1e100.net.https > 172.20.38.238.57046: Flags [F.], seq 157445749, ack 3472633936, win 336, length 0
+15:58:55.608830 IP 172.20.38.238.57046 > ord30s22-in-f14.1e100.net.https: Flags [.], ack 1, win 256, length 0
+15:58:55.628174 IP ord30s22-in-f14.1e100.net.https > 172.20.38.238.57047: Flags [P.], seq 1083:1152, ack 382, win 1516, length 69
+15:58:55.628175 IP ord30s22-in-f14.1e100.net.https > 172.20.38.238.57047: Flags [P.], seq 1152:2582, ack 382, win 1516, length 1430
+15:58:55.628176 IP ord30s22-in-f14.1e100.net.https > 172.20.38.238.57047: Flags [P.], seq 2582:3456, ack 382, win 1516, length 874
+15:58:55.628235 IP 172.20.38.238.57047 > ord30s22-in-f14.1e100.net.https: Flags [.], ack 3456, win 256, length 0
+15:58:55.631086 IP ord30s22-in-f14.1e100.net.https > 172.20.38.238.57047: Flags [P.], seq 3456:3706, ack 382, win 1516, length 250
+15:58:55.631136 IP 172.20.38.238.57047 > ord30s22-in-f14.1e100.net.https: Flags [.], ack 3706, win 255, length 0
+15:58:55.632273 IP ord30s22-in-f14.1e100.net.https > 172.20.38.238.57047: Flags [P.], seq 3706:3752, ack 382, win 1516, length 46
+15:58:55.632436 IP 172.20.38.238.57047 > ord30s22-in-f14.1e100.net.https: Flags [P.], seq 514:560, ack 3752, win 255, length 46
+15:58:55.700714 IP 172.20.38.238.57047 > ord30s22-in-f14.1e100.net.https: Flags [P.], seq 560:644, ack 3752, win 255, length 84
+15:58:55.756501 IP ord30s22-in-f14.1e100.net.https > 172.20.38.238.57074: Flags [.], ack 513, win 464, length 0
+15:58:55.764258 IP ord30s22-in-f14.1e100.net.https > 172.20.38.238.57074: Flags [.], ack 614, win 464, length 0
+15:58:55.764259 IP ord30s22-in-f14.1e100.net.https > 172.20.38.238.57047: Flags [.], ack 514, win 1516, length 0
+15:58:55.794626 IP ord30s22-in-f14.1e100.net.https > 172.20.38.238.57074: Flags [P.], seq 1930:2006, ack 614, win 464, length 76
+15:58:55.795949 IP ord30s22-in-f14.1e100.net.https > 172.20.38.238.57074: Flags [P.], seq 2006:3436, ack 614, win 464, length 1430
+15:58:55.795951 IP ord30s22-in-f14.1e100.net.https > 172.20.38.238.57074: Flags [P.], seq 3436:4866, ack 614, win 464, length 1430
+15:58:55.795952 IP ord30s22-in-f14.1e100.net.https > 172.20.38.238.57074: Flags [P.], seq 4866:5669, ack 614, win 464, length 803
+15:58:55.796034 IP 172.20.38.238.57074 > ord30s22-in-f14.1e100.net.https: Flags [.], ack 5669, win 256, length 0
+15:58:55.828549 IP ord30s22-in-f14.1e100.net.https > 172.20.38.238.57047: Flags [P.], seq 3752:3821, ack 560, win 1516, length 69
+15:58:55.828891 IP ord30s22-in-f14.1e100.net.https > 172.20.38.238.57047: Flags [P.], seq 3821:4235, ack 560, win 1516, length 414
+15:58:55.828951 IP 172.20.38.238.57047 > ord30s22-in-f14.1e100.net.https: Flags [.], ack 4235, win 253, length 0
+15:58:55.829390 IP ord30s22-in-f14.1e100.net.https > 172.20.38.238.57047: Flags [P.], seq 4235:4441, ack 560, win 1516, length 206
+15:58:55.829392 IP ord30s22-in-f14.1e100.net.https > 172.20.38.238.57047: Flags [P.], seq 4441:4487, ack 560, win 1516, length 46
+15:58:55.829461 IP 172.20.38.238.57047 > ord30s22-in-f14.1e100.net.https: Flags [.], ack 4487, win 252, length 0
+15:58:55.830039 IP 172.20.38.238.57047 > ord30s22-in-f14.1e100.net.https: Flags [P.], seq 644:690, ack 4487, win 252, length 46
+15:58:55.836437 IP 172.20.38.238.57047 > ord30s22-in-f14.1e100.net.https: Flags [P.], seq 690:791, ack 4487, win 252, length 101
+15:58:55.909092 IP ord30s22-in-f14.1e100.net.https > 172.20.38.238.57047: Flags [.], ack 644, win 1516, length 0
+15:58:55.911726 IP ord30s22-in-f14.1e100.net.https > 172.20.38.238.57047: Flags [P.], seq 4487:4538, ack 644, win 1516, length 51
+15:58:55.912963 IP ord30s22-in-f14.1e100.net.https > 172.20.38.238.57047: Flags [P.], seq 4538:4991, ack 644, win 1516, length 453
+15:58:55.913035 IP 172.20.38.238.57047 > ord30s22-in-f14.1e100.net.https: Flags [.], ack 4991, win 256, length 0
+15:58:55.914244 IP ord30s22-in-f14.1e100.net.https > 172.20.38.238.57047: Flags [P.], seq 4991:5152, ack 644, win 1516, length 161
+15:58:55.914698 IP ord30s22-in-f14.1e100.net.https > 172.20.38.238.57047: Flags [P.], seq 5152:5198, ack 644, win 1516, length 46
+15:58:55.914746 IP 172.20.38.238.57047 > ord30s22-in-f14.1e100.net.https: Flags [.], ack 5198, win 256, length 0
+15:58:55.914894 IP 172.20.38.238.57047 > ord30s22-in-f14.1e100.net.https: Flags [P.], seq 791:837, ack 5198, win 256, length 46
+15:58:55.960681 IP 172.20.38.238.51368 > ord30s22-in-f14.1e100.net.https: UDP, length 1350
+15:58:55.990161 IP ord30s22-in-f14.1e100.net.https > 172.20.38.238.57047: Flags [.], ack 690, win 1516, length 0
+15:58:55.995710 IP ord30s22-in-f14.1e100.net.https > 172.20.38.238.57047: Flags [.], ack 791, win 1516, length 0
+15:58:56.040976 IP ord30s22-in-f14.1e100.net.https > 172.20.38.238.57047: Flags [P.], seq 5198:5249, ack 791, win 1516, length 51
+15:58:56.040978 IP ord30s22-in-f14.1e100.net.https > 172.20.38.238.57047: Flags [P.], seq 5249:5646, ack 791, win 1516, length 397
+15:58:56.041071 IP 172.20.38.238.57047 > ord30s22-in-f14.1e100.net.https: Flags [.], ack 5646, win 254, length 0
+15:58:56.042039 IP ord30s22-in-f14.1e100.net.https > 172.20.38.238.57047: Flags [P.], seq 5646:5728, ack 791, win 1516, length 82
+15:58:56.042603 IP ord30s22-in-f14.1e100.net.https > 172.20.38.238.57047: Flags [P.], seq 5728:5774, ack 791, win 1516, length 46
+15:58:56.042673 IP 172.20.38.238.57047 > ord30s22-in-f14.1e100.net.https: Flags [.], ack 5774, win 253, length 0
+15:58:56.044054 IP 172.20.38.238.57047 > ord30s22-in-f14.1e100.net.https: Flags [P.], seq 837:883, ack 5774, win 253, length 46
+15:58:56.046493 IP ord30s22-in-f109.1e100.net.https > 172.20.38.238.57058: Flags [F.], seq 3968413941, ack 1580353851, win 336, length 0
+15:58:56.046555 IP 172.20.38.238.57058 > ord30s22-in-f109.1e100.net.https: Flags [.], ack 1, win 256, length 0
+15:58:56.089250 IP ord30s22-in-f14.1e100.net.https > 172.20.38.238.57047: Flags [.], ack 837, win 1516, length 0
+15:58:56.227527 IP ord30s22-in-f14.1e100.net.https > 172.20.38.238.57047: Flags [.], ack 883, win 1516, length 0
+15:58:56.370879 IP ord30s22-in-f14.1e100.net.https > 172.20.38.238.57074: Flags [P.], seq 5669:5715, ack 614, win 464, length 46
+15:58:56.371171 IP 172.20.38.238.57074 > ord30s22-in-f14.1e100.net.https: Flags [P.], seq 614:660, ack 5715, win 256, length 46
+15:58:56.594078 IP ord30s22-in-f14.1e100.net.https > 172.20.38.238.57074: Flags [.], ack 660, win 464, length 0
+15:58:57.175496 IP 172.20.38.238.51368 > ord30s22-in-f14.1e100.net.https: UDP, length 1350
+15:58:58.143609 IP 172.20.38.238.57060 > ord30s22-in-f14.1e100.net.https: Flags [P.], seq 934623092:934623219, ack 2523539764, win 253, length 127
+15:58:58.143851 IP 172.20.38.238.57060 > ord30s22-in-f14.1e100.net.https: Flags [P.], seq 127:173, ack 1, win 253, length 46
+15:58:58.143947 IP 172.20.38.238.57060 > ord30s22-in-f14.1e100.net.https: Flags [.], seq 173:1603, ack 1, win 253, length 1430
+15:58:58.143960 IP 172.20.38.238.57060 > ord30s22-in-f14.1e100.net.https: Flags [.], seq 1603:3033, ack 1, win 253, length 1430
+15:58:58.143973 IP 172.20.38.238.57060 > ord30s22-in-f14.1e100.net.https: Flags [P.], seq 3033:3063, ack 1, win 253, length 30
+15:58:58.144140 IP 172.20.38.238.57060 > ord30s22-in-f14.1e100.net.https: Flags [.], seq 3063:4493, ack 1, win 253, length 1430
+15:58:58.144162 IP 172.20.38.238.57060 > ord30s22-in-f14.1e100.net.https: Flags [P.], seq 4493:5033, ack 1, win 253, length 540
+15:58:58.268892 IP ie-in-f189.1e100.net.https > 172.20.38.238.57066: Flags [F.], seq 4154277733, ack 3518714668, win 336, length 0
+15:58:58.268960 IP 172.20.38.238.57066 > ie-in-f189.1e100.net.https: Flags [.], ack 1, win 256, length 0
+15:58:58.314043 IP ord30s22-in-f14.1e100.net.https > 172.20.38.238.57060: Flags [.], ack 127, win 529, length 0
+15:58:58.314045 IP ord30s22-in-f14.1e100.net.https > 172.20.38.238.57060: Flags [.], ack 173, win 529, length 0
+15:58:58.314045 IP ord30s22-in-f14.1e100.net.https > 172.20.38.238.57060: Flags [.], ack 1603, win 551, length 0
+15:58:58.314046 IP ord30s22-in-f14.1e100.net.https > 172.20.38.238.57060: Flags [.], ack 3063, win 574, length 0
+15:58:58.314046 IP ord30s22-in-f14.1e100.net.https > 172.20.38.238.57060: Flags [.], ack 5033, win 605, length 0
+15:58:58.314934 IP ord30s22-in-f14.1e100.net.https > 172.20.38.238.57060: Flags [P.], seq 1:47, ack 5033, win 605, length 46
+15:58:58.335796 IP ord30s22-in-f14.1e100.net.https > 172.20.38.238.57060: Flags [P.], seq 47:161, ack 5033, win 605, length 114
+15:58:58.335877 IP 172.20.38.238.57060 > ord30s22-in-f14.1e100.net.https: Flags [.], ack 161, win 252, length 0
+15:58:58.337995 IP ord30s22-in-f14.1e100.net.https > 172.20.38.238.57060: Flags [P.], seq 161:1591, ack 5033, win 605, length 1430
+15:58:58.337997 IP ord30s22-in-f14.1e100.net.https > 172.20.38.238.57060: Flags [P.], seq 1591:3021, ack 5033, win 605, length 1430
+15:58:58.337999 IP ord30s22-in-f14.1e100.net.https > 172.20.38.238.57060: Flags [P.], seq 3021:4355, ack 5033, win 605, length 1334
+15:58:58.338087 IP 172.20.38.238.57060 > ord30s22-in-f14.1e100.net.https: Flags [.], ack 4355, win 256, length 0
+15:58:58.338639 IP ord30s22-in-f14.1e100.net.https > 172.20.38.238.57060: Flags [P.], seq 4355:4964, ack 5033, win 605, length 609
+15:58:58.338641 IP ord30s22-in-f14.1e100.net.https > 172.20.38.238.57060: Flags [P.], seq 4964:5010, ack 5033, win 605, length 46
+15:58:58.338720 IP 172.20.38.238.57060 > ord30s22-in-f14.1e100.net.https: Flags [.], ack 5010, win 254, length 0
+15:58:58.340931 IP 172.20.38.238.57060 > ord30s22-in-f14.1e100.net.https: Flags [P.], seq 5033:5079, ack 5010, win 254, length 46
+15:58:58.570631 IP ord30s22-in-f14.1e100.net.https > 172.20.38.238.57060: Flags [.], ack 5079, win 605, length 0
+15:58:58.888121 IP 172.20.38.238.51368 > ord30s22-in-f14.1e100.net.https: UDP, length 43
+15:59:01.417114 IP 141.101.113.230.https > 172.20.38.238.57062: Flags [F.], seq 694175901, ack 2958903692, win 29, length 0
+15:59:01.417183 IP 172.20.38.238.57062 > 141.101.113.230.https: Flags [.], ack 1, win 256, length 0
+15:59:02.067471 IP 172.20.38.238.50984 > resolver2.opendns.com.domain: 18273+ A? www.baidu.com. (31)
+15:59:02.257233 IP resolver2.opendns.com.domain > 172.20.38.238.50984: 18273 2/0/0 CNAME www.a.shifen.com., A 103.235.46.39 (74)
+15:59:02.258278 IP 172.20.38.238.57075 > 103.235.46.39.http: Flags [S], seq 3006552434, win 8192, options [mss 1460,nop,wscale 8,nop,nop,sackOK], length 0
+15:59:02.288863 IP 172.20.38.238.57073 > ord30s22-in-f99.1e100.net.https: Flags [F.], seq 3442641342, ack 1122566232, win 255, length 0
+15:59:02.289054 IP 172.20.38.238.57073 > ord30s22-in-f99.1e100.net.https: Flags [R.], seq 1, ack 1, win 0, length 0
+15:59:02.317091 IP 172.20.38.238.57076 > 103.235.46.39.http: Flags [S], seq 276488839, win 8192, options [mss 1460,nop,wscale 8,nop,nop,sackOK], length 0
+15:59:02.641908 IP 103.235.46.39.http > 172.20.38.238.57075: Flags [S.], seq 296160700, ack 3006552435, win 8192, options [mss 1452,nop,wscale 5,nop,nop,sackOK], length 0
+15:59:02.642030 IP 172.20.38.238.57075 > 103.235.46.39.http: Flags [.], ack 1, win 260, length 0
+15:59:02.642563 IP 172.20.38.238.57075 > 103.235.46.39.http: Flags [P.], seq 1:372, ack 1, win 260, length 371
+15:59:02.690031 IP 103.235.46.39.http > 172.20.38.238.57076: Flags [S.], seq 1120664450, ack 276488840, win 8192, options [mss 1452,nop,wscale 5,nop,nop,sackOK], length 0
+15:59:02.690155 IP 172.20.38.238.57076 > 103.235.46.39.http: Flags [.], ack 1, win 260, length 0
+15:59:03.022749 IP 103.235.46.39.http > 172.20.38.238.57075: Flags [.], ack 372, win 812, length 0
+15:59:03.119457 IP 103.235.46.39.http > 172.20.38.238.57075: Flags [P.], seq 1:1086, ack 372, win 812, length 1085
+15:59:03.120511 IP 103.235.46.39.http > 172.20.38.238.57075: Flags [.], seq 1086:2546, ack 372, win 812, length 1460
+15:59:03.120513 IP 103.235.46.39.http > 172.20.38.238.57075: Flags [P.], seq 2546:3966, ack 372, win 812, length 1420
+15:59:03.120514 IP 103.235.46.39.http > 172.20.38.238.57075: Flags [.], seq 3966:5426, ack 372, win 812, length 1460
+15:59:03.120520 IP 103.235.46.39.http > 172.20.38.238.57075: Flags [.], seq 5426:6886, ack 372, win 812, length 1460
+15:59:03.120599 IP 172.20.38.238.57075 > 103.235.46.39.http: Flags [.], ack 6886, win 260, length 0
+15:59:03.125907 IP 103.235.46.39.http > 172.20.38.238.57075: Flags [.], seq 6886:8346, ack 372, win 812, length 1460
+15:59:03.125910 IP 103.235.46.39.http > 172.20.38.238.57075: Flags [.], seq 8346:9806, ack 372, win 812, length 1460
+15:59:03.125912 IP 103.235.46.39.http > 172.20.38.238.57075: Flags [.], seq 9806:11266, ack 372, win 812, length 1460
+15:59:03.125916 IP 103.235.46.39.http > 172.20.38.238.57075: Flags [P.], seq 11266:12606, ack 372, win 812, length 1340
+15:59:03.125918 IP 103.235.46.39.http > 172.20.38.238.57075: Flags [.], seq 12606:14066, ack 372, win 812, length 1460
+15:59:03.125920 IP 103.235.46.39.http > 172.20.38.238.57075: Flags [.], seq 14066:15526, ack 372, win 812, length 1460
+15:59:03.125922 IP 103.235.46.39.http > 172.20.38.238.57075: Flags [.], seq 15526:16986, ack 372, win 812, length 1460
+15:59:03.125923 IP 103.235.46.39.http > 172.20.38.238.57075: Flags [.], seq 16986:18446, ack 372, win 812, length 1460
+15:59:03.125925 IP 103.235.46.39.http > 172.20.38.238.57075: Flags [.], seq 18446:19906, ack 372, win 812, length 1460
+15:59:03.125927 IP 103.235.46.39.http > 172.20.38.238.57075: Flags [P.], seq 19906:21246, ack 372, win 812, length 1340
+15:59:03.125928 IP 103.235.46.39.http > 172.20.38.238.57075: Flags [.], seq 21246:22706, ack 372, win 812, length 1460
+15:59:03.126070 IP 172.20.38.238.57075 > 103.235.46.39.http: Flags [.], ack 22706, win 260, length 0
+15:59:03.126501 IP 103.235.46.39.http > 172.20.38.238.57075: Flags [P.], seq 22706:24126, ack 372, win 812, length 1420
+15:59:03.142030 IP 172.20.38.238.57076 > 103.235.46.39.http: Flags [P.], seq 1:594, ack 1, win 260, length 593
+15:59:03.144325 IP 172.20.38.238.53287 > resolver2.opendns.com.domain: 30944+ A? s1.bdstatic.com. (33)
+15:59:03.160555 IP 172.20.38.238.57077 > 103.235.46.39.http: Flags [S], seq 3018789868, win 8192, options [mss 1460,nop,wscale 8,nop,nop,sackOK], length 0
+15:59:03.169914 IP 103.235.46.39.http > 172.20.38.238.57075: Flags [.], seq 24126:25586, ack 372, win 812, length 1460
+15:59:03.169916 IP 103.235.46.39.http > 172.20.38.238.57075: Flags [.], seq 25586:27046, ack 372, win 812, length 1460
+15:59:03.169917 IP 103.235.46.39.http > 172.20.38.238.57075: Flags [P.], seq 27046:27398, ack 372, win 812, length 352
+15:59:03.169994 IP 172.20.38.238.57075 > 103.235.46.39.http: Flags [.], ack 27398, win 260, length 0
+15:59:03.170721 IP 172.20.38.238.57075 > 103.235.46.39.http: Flags [P.], seq 372:971, ack 27398, win 260, length 599
+15:59:03.310708 IP 103.235.46.39.http > 172.20.38.238.57075: Flags [P.], seq 1:1086, ack 372, win 812, length 1085
+15:59:03.310756 IP 172.20.38.238.57075 > 103.235.46.39.http: Flags [.], ack 27398, win 260, options [nop,nop,sack 1 {1:1086}], length 0
+15:59:03.393997 IP 172.20.38.238.53287 > resolver1.opendns.com.domain: 30944+ A? s1.bdstatic.com. (33)
+15:59:03.522352 IP 103.235.46.39.http > 172.20.38.238.57075: Flags [.], seq 6886:8346, ack 372, win 812, length 1460
+15:59:03.522354 IP 103.235.46.39.http > 172.20.38.238.57075: Flags [.], seq 8346:9806, ack 372, win 812, length 1460
+15:59:03.522395 IP 172.20.38.238.57075 > 103.235.46.39.http: Flags [.], ack 27398, win 260, options [nop,nop,sack 1 {6886:8346}], length 0
+15:59:03.522476 IP 172.20.38.238.57075 > 103.235.46.39.http: Flags [.], ack 27398, win 260, options [nop,nop,sack 1 {8346:9806}], length 0
+15:59:03.523327 IP 103.235.46.39.http > 172.20.38.238.57075: Flags [P.], seq 22706:24126, ack 372, win 812, length 1420
+15:59:03.523365 IP 172.20.38.238.57075 > 103.235.46.39.http: Flags [.], ack 27398, win 260, options [nop,nop,sack 1 {22706:24126}], length 0
+15:59:03.523821 IP 103.235.46.39.http > 172.20.38.238.57075: Flags [.], seq 24126:25586, ack 372, win 812, length 1460
+15:59:03.523862 IP 172.20.38.238.57075 > 103.235.46.39.http: Flags [.], ack 27398, win 260, options [nop,nop,sack 1 {24126:25586}], length 0
+15:59:03.537353 IP 103.235.46.39.http > 172.20.38.238.57076: Flags [.], ack 594, win 816, length 0
+15:59:03.538938 IP 103.235.46.39.http > 172.20.38.238.57076: Flags [P.], seq 1:314, ack 594, win 816, length 313
+15:59:03.540293 IP 103.235.46.39.http > 172.20.38.238.57076: Flags [.], seq 314:1774, ack 594, win 816, length 1460
+15:59:03.540295 IP 103.235.46.39.http > 172.20.38.238.57076: Flags [.], seq 1774:3234, ack 594, win 816, length 1460
+15:59:03.540311 IP 103.235.46.39.http > 172.20.38.238.57076: Flags [.], seq 3234:4694, ack 594, win 816, length 1460
+15:59:03.540312 IP 103.235.46.39.http > 172.20.38.238.57076: Flags [.], seq 4694:6154, ack 594, win 816, length 1460
+15:59:03.540313 IP 103.235.46.39.http > 172.20.38.238.57076: Flags [.], seq 6154:7614, ack 594, win 816, length 1460
+15:59:03.540314 IP 103.235.46.39.http > 172.20.38.238.57076: Flags [P.], seq 7614:8191, ack 594, win 816, length 577
+15:59:03.540386 IP 172.20.38.238.57076 > 103.235.46.39.http: Flags [.], ack 8191, win 260, length 0
+15:59:03.560798 IP 103.235.46.39.http > 172.20.38.238.57075: Flags [.], ack 971, win 848, length 0
+15:59:03.565426 IP 103.235.46.39.http > 172.20.38.238.57077: Flags [S.], seq 2518992793, ack 3018789869, win 8192, options [mss 1452,nop,wscale 5,nop,nop,sackOK], length 0
+15:59:03.565509 IP 172.20.38.238.57077 > 103.235.46.39.http: Flags [.], ack 1, win 260, length 0
+15:59:03.573958 IP 103.235.46.39.http > 172.20.38.238.57075: Flags [P.], seq 27398:27709, ack 971, win 848, length 311
+15:59:03.575665 IP 103.235.46.39.http > 172.20.38.238.57075: Flags [P.], seq 27709:28414, ack 971, win 848, length 705
+15:59:03.575715 IP 172.20.38.238.57075 > 103.235.46.39.http: Flags [.], ack 28414, win 256, length 0
+15:59:03.746490 IP 103.235.46.39.http > 172.20.38.238.57076: Flags [P.], seq 1:314, ack 594, win 816, length 313
+15:59:03.746549 IP 172.20.38.238.57076 > 103.235.46.39.http: Flags [.], ack 8191, win 260, options [nop,nop,sack 1 {1:314}], length 0
+15:59:03.821595 IP resolver2.opendns.com.domain > 172.20.38.238.53287: 30944 3/0/0 CNAME wwwbaidu.jomodns.com., CNAME wwwstatic1.wshifen.com., A 63.217.158.168 (113)
+15:59:03.822676 IP 172.20.38.238.57078 > 63.217.158.168.http: Flags [S], seq 1349916220, win 8192, options [mss 1460,nop,wscale 8,nop,nop,sackOK], length 0
+15:59:03.823068 IP 172.20.38.238.57079 > 63.217.158.168.http: Flags [S], seq 317064219, win 8192, options [mss 1460,nop,wscale 8,nop,nop,sackOK], length 0
+15:59:03.894613 IP 172.20.38.238.57080 > 63.217.158.168.http: Flags [S], seq 3312323193, win 8192, options [mss 1460,nop,wscale 8,nop,nop,sackOK], length 0
+15:59:04.008939 IP 63.217.158.168.http > 172.20.38.238.57079: Flags [S.], seq 3028312101, ack 317064220, win 8192, options [mss 1452,nop,wscale 2,nop,nop,sackOK], length 0
+15:59:04.008941 IP 63.217.158.168.http > 172.20.38.238.57078: Flags [S.], seq 1307225940, ack 1349916221, win 8192, options [mss 1452,nop,wscale 2,nop,nop,sackOK], length 0
+15:59:04.009104 IP 172.20.38.238.57079 > 63.217.158.168.http: Flags [.], ack 1, win 260, length 0
+15:59:04.009230 IP 172.20.38.238.57078 > 63.217.158.168.http: Flags [.], ack 1, win 260, length 0
+15:59:04.009585 IP 172.20.38.238.57079 > 63.217.158.168.http: Flags [P.], seq 1:360, ack 1, win 260, length 359
+15:59:04.009877 IP 172.20.38.238.57078 > 63.217.158.168.http: Flags [P.], seq 1:378, ack 1, win 260, length 377
+15:59:04.075750 IP 63.217.158.168.http > 172.20.38.238.57080: Flags [S.], seq 575897119, ack 3312323194, win 8192, options [mss 1452,nop,wscale 2,nop,nop,sackOK], length 0
+15:59:04.075877 IP 172.20.38.238.57080 > 63.217.158.168.http: Flags [.], ack 1, win 260, length 0
+15:59:04.192026 IP 63.217.158.168.http > 172.20.38.238.57079: Flags [.], ack 360, win 3918, length 0
+15:59:04.192027 IP 63.217.158.168.http > 172.20.38.238.57078: Flags [.], ack 378, win 3918, length 0
+15:59:04.195370 IP 63.217.158.168.http > 172.20.38.238.57078: Flags [.], seq 1:1453, ack 378, win 3918, length 1452
+15:59:04.195373 IP 63.217.158.168.http > 172.20.38.238.57078: Flags [.], seq 1453:2905, ack 378, win 3918, length 1452
+15:59:04.195374 IP 63.217.158.168.http > 172.20.38.238.57078: Flags [.], seq 2905:4357, ack 378, win 3918, length 1452
+15:59:04.195380 IP 63.217.158.168.http > 172.20.38.238.57078: Flags [.], seq 4357:5809, ack 378, win 3918, length 1452
+15:59:04.195382 IP 63.217.158.168.http > 172.20.38.238.57078: Flags [.], seq 5809:7261, ack 378, win 3918, length 1452
+15:59:04.195383 IP 63.217.158.168.http > 172.20.38.238.57078: Flags [.], seq 7261:8713, ack 378, win 3918, length 1452
+15:59:04.195385 IP 63.217.158.168.http > 172.20.38.238.57078: Flags [.], seq 8713:10165, ack 378, win 3918, length 1452
+15:59:04.195491 IP 172.20.38.238.57078 > 63.217.158.168.http: Flags [.], ack 10165, win 260, length 0
+15:59:04.197528 IP 63.217.158.168.http > 172.20.38.238.57078: Flags [.], seq 10165:11617, ack 378, win 3918, length 1452
+15:59:04.197531 IP 63.217.158.168.http > 172.20.38.238.57078: Flags [.], seq 11617:13069, ack 378, win 3918, length 1452
+15:59:04.197533 IP 63.217.158.168.http > 172.20.38.238.57078: Flags [.], seq 13069:14521, ack 378, win 3918, length 1452
+15:59:04.197538 IP 63.217.158.168.http > 172.20.38.238.57079: Flags [.], seq 1:1453, ack 360, win 3918, length 1452
+15:59:04.197539 IP 63.217.158.168.http > 172.20.38.238.57079: Flags [.], seq 1453:2905, ack 360, win 3918, length 1452
+15:59:04.197541 IP 63.217.158.168.http > 172.20.38.238.57079: Flags [.], seq 2905:4357, ack 360, win 3918, length 1452
+15:59:04.197542 IP 63.217.158.168.http > 172.20.38.238.57079: Flags [.], seq 4357:5809, ack 360, win 3918, length 1452
+15:59:04.197544 IP 63.217.158.168.http > 172.20.38.238.57079: Flags [.], seq 5809:7261, ack 360, win 3918, length 1452
+15:59:04.197545 IP 63.217.158.168.http > 172.20.38.238.57079: Flags [.], seq 7261:8713, ack 360, win 3918, length 1452
+15:59:04.197547 IP 63.217.158.168.http > 172.20.38.238.57079: Flags [.], seq 8713:10165, ack 360, win 3918, length 1452
+15:59:04.197549 IP 63.217.158.168.http > 172.20.38.238.57079: Flags [.], seq 10165:11617, ack 360, win 3918, length 1452
+15:59:04.197550 IP 63.217.158.168.http > 172.20.38.238.57079: Flags [P.], seq 11617:12332, ack 360, win 3918, length 715
+15:59:04.197698 IP 172.20.38.238.57078 > 63.217.158.168.http: Flags [.], ack 14521, win 260, length 0
+15:59:04.197817 IP 172.20.38.238.57079 > 63.217.158.168.http: Flags [.], ack 12332, win 260, length 0
+15:59:04.372072 IP 63.217.158.168.http > 172.20.38.238.57078: Flags [P.], seq 14521:14656, ack 378, win 3918, length 135
+15:59:04.412877 IP 172.20.38.238.57078 > 63.217.158.168.http: Flags [.], ack 14656, win 260, length 0
+15:59:04.954786 IP 172.20.38.238.57067 > ec2-54-210-217-83.compute-1.amazonaws.com.https: Flags [F.], seq 3190757048, ack 3659441630, win 256, length 0
+15:59:05.032747 IP 172.20.38.238.57069 > ec2-52-7-53-69.compute-1.amazonaws.com.https: Flags [F.], seq 2622978228, ack 3656635954, win 256, length 0
+15:59:05.032924 IP 172.20.38.238.57070 > ec2-54-210-217-83.compute-1.amazonaws.com.https: Flags [F.], seq 2439357478, ack 1322757319, win 256, length 0
+15:59:05.032974 IP 172.20.38.238.57066 > ie-in-f189.1e100.net.https: Flags [F.], seq 1, ack 1, win 256, length 0
+15:59:05.033028 IP 172.20.38.238.57058 > ord30s22-in-f109.1e100.net.https: Flags [F.], seq 1, ack 1, win 256, length 0
+15:59:05.033077 IP 172.20.38.238.57064 > ec2-54-164-30-219.compute-1.amazonaws.com.https: Flags [F.], seq 2669561075, ack 3768790728, win 256, length 0
+15:59:05.033124 IP 172.20.38.238.57046 > ord30s22-in-f14.1e100.net.https: Flags [F.], seq 1, ack 1, win 256, length 0
+15:59:05.033168 IP 172.20.38.238.57054 > server-54-230-103-150.iad2.r.cloudfront.net.https: Flags [F.], seq 167843334, ack 285281318, win 256, length 0
+15:59:05.033231 IP 172.20.38.238.57062 > 141.101.113.230.https: Flags [F.], seq 1, ack 1, win 256, length 0
+15:59:05.033279 IP 172.20.38.238.57052 > ie-in-f141.1e100.net.https: Flags [F.], seq 1, ack 1, win 256, length 0
+15:59:05.033326 IP 172.20.38.238.57053 > server-54-230-102-191.iad2.r.cloudfront.net.https: Flags [F.], seq 1655977719, ack 1177074061, win 256, length 0
+15:59:05.143624 IP ec2-54-210-217-83.compute-1.amazonaws.com.https > 172.20.38.238.57067: Flags [F.], seq 1, ack 1, win 75, length 0
+15:59:05.143678 IP 172.20.38.238.57067 > ec2-54-210-217-83.compute-1.amazonaws.com.https: Flags [.], ack 2, win 256, length 0
+15:59:05.204437 IP server-54-230-102-191.iad2.r.cloudfront.net.https > 172.20.38.238.57053: Flags [F.], seq 1, ack 1, win 58, length 0
+15:59:05.204438 IP ec2-52-7-53-69.compute-1.amazonaws.com.https > 172.20.38.238.57069: Flags [F.], seq 1, ack 1, win 71, length 0
+15:59:05.204509 IP 172.20.38.238.57053 > server-54-230-102-191.iad2.r.cloudfront.net.https: Flags [.], ack 2, win 256, length 0
+15:59:05.204639 IP 172.20.38.238.57069 > ec2-52-7-53-69.compute-1.amazonaws.com.https: Flags [.], ack 2, win 256, length 0
+15:59:05.207523 IP 141.101.113.230.https > 172.20.38.238.57062: Flags [.], ack 2, win 29, length 0
+15:59:05.209256 IP ec2-54-164-30-219.compute-1.amazonaws.com.https > 172.20.38.238.57064: Flags [F.], seq 1, ack 1, win 71, length 0
+15:59:05.209327 IP 172.20.38.238.57064 > ec2-54-164-30-219.compute-1.amazonaws.com.https: Flags [.], ack 2, win 256, length 0
+15:59:05.211677 IP ie-in-f141.1e100.net.https > 172.20.38.238.57052: Flags [.], ack 2, win 336, length 0
+15:59:05.212640 IP ec2-54-210-217-83.compute-1.amazonaws.com.https > 172.20.38.238.57070: Flags [F.], seq 1, ack 1, win 71, length 0
+15:59:05.212714 IP 172.20.38.238.57070 > ec2-54-210-217-83.compute-1.amazonaws.com.https: Flags [.], ack 2, win 256, length 0
+15:59:05.214682 IP server-54-230-103-150.iad2.r.cloudfront.net.https > 172.20.38.238.57054: Flags [.], ack 1, win 58, length 0
+15:59:05.214683 IP server-54-230-103-150.iad2.r.cloudfront.net.https > 172.20.38.238.57054: Flags [F.], seq 1, ack 1, win 58, length 0
+15:59:05.214773 IP 172.20.38.238.57054 > server-54-230-103-150.iad2.r.cloudfront.net.https: Flags [.], ack 2, win 256, length 0
+15:59:05.216193 IP ord30s22-in-f14.1e100.net.https > 172.20.38.238.57046: Flags [.], ack 2, win 336, length 0
+15:59:05.216195 IP ord30s22-in-f109.1e100.net.https > 172.20.38.238.57058: Flags [R], seq 3968413942, win 0, length 0
+15:59:05.222096 IP ie-in-f189.1e100.net.https > 172.20.38.238.57066: Flags [.], ack 2, win 336, length 0
+15:59:07.569074 IP 63.217.158.168.http > 172.20.38.238.57079: Flags [.], seq 1:1453, ack 360, win 3918, length 1452
+15:59:07.569135 IP 172.20.38.238.57079 > 63.217.158.168.http: Flags [.], ack 12332, win 260, options [nop,nop,sack 1 {1:1453}], length 0
+15:59:07.754334 IP 63.217.158.168.http > 172.20.38.238.57079: Flags [.], seq 12332:13784, ack 360, win 3918, length 1452
+15:59:07.754337 IP 63.217.158.168.http > 172.20.38.238.57079: Flags [.], seq 13784:15236, ack 360, win 3918, length 1452
+15:59:07.754339 IP 63.217.158.168.http > 172.20.38.238.57079: Flags [.], seq 15236:16688, ack 360, win 3918, length 1452
+15:59:07.754345 IP 63.217.158.168.http > 172.20.38.238.57079: Flags [.], seq 16688:18140, ack 360, win 3918, length 1452
+15:59:07.754348 IP 63.217.158.168.http > 172.20.38.238.57079: Flags [.], seq 18140:19592, ack 360, win 3918, length 1452
+15:59:07.754349 IP 63.217.158.168.http > 172.20.38.238.57079: Flags [.], seq 19592:21044, ack 360, win 3918, length 1452
+15:59:07.754457 IP 172.20.38.238.57079 > 63.217.158.168.http: Flags [.], ack 21044, win 260, length 0
+15:59:07.754804 IP 63.217.158.168.http > 172.20.38.238.57079: Flags [.], seq 21044:22496, ack 360, win 3918, length 1452
+15:59:07.755798 IP 63.217.158.168.http > 172.20.38.238.57079: Flags [.], seq 22496:23948, ack 360, win 3918, length 1452
+15:59:07.755801 IP 63.217.158.168.http > 172.20.38.238.57079: Flags [.], seq 23948:25400, ack 360, win 3918, length 1452
+15:59:07.755803 IP 63.217.158.168.http > 172.20.38.238.57079: Flags [.], seq 25400:26852, ack 360, win 3918, length 1452
+15:59:07.755886 IP 172.20.38.238.57079 > 63.217.158.168.http: Flags [.], ack 26852, win 260, length 0
+15:59:07.930432 IP 63.217.158.168.http > 172.20.38.238.57079: Flags [.], seq 26852:28304, ack 360, win 3918, length 1452
+15:59:07.930434 IP 63.217.158.168.http > 172.20.38.238.57079: Flags [.], seq 28304:29756, ack 360, win 3918, length 1452
+15:59:07.930436 IP 63.217.158.168.http > 172.20.38.238.57079: Flags [.], seq 29756:31208, ack 360, win 3918, length 1452
+15:59:07.930442 IP 63.217.158.168.http > 172.20.38.238.57079: Flags [.], seq 31208:32660, ack 360, win 3918, length 1452
+15:59:07.930453 IP 63.217.158.168.http > 172.20.38.238.57079: Flags [P.], seq 32660:33454, ack 360, win 3918, length 794
+15:59:07.930572 IP 172.20.38.238.57079 > 63.217.158.168.http: Flags [.], ack 33454, win 260, length 0
+15:59:08.001824 IP 172.20.38.238.57079 > 63.217.158.168.http: Flags [P.], seq 360:721, ack 33454, win 260, length 361
+15:59:08.192410 IP 63.217.158.168.http > 172.20.38.238.57079: Flags [.], ack 721, win 4186, length 0
+15:59:08.197334 IP 63.217.158.168.http > 172.20.38.238.57079: Flags [.], seq 33454:34906, ack 721, win 4186, length 1452
+15:59:08.198813 IP 63.217.158.168.http > 172.20.38.238.57079: Flags [.], seq 34906:36358, ack 721, win 4186, length 1452
+15:59:08.198815 IP 63.217.158.168.http > 172.20.38.238.57079: Flags [.], seq 36358:37810, ack 721, win 4186, length 1452
+15:59:08.198817 IP 63.217.158.168.http > 172.20.38.238.57079: Flags [.], seq 37810:39262, ack 721, win 4186, length 1452
+15:59:08.198823 IP 63.217.158.168.http > 172.20.38.238.57079: Flags [.], seq 39262:40714, ack 721, win 4186, length 1452
+15:59:08.198824 IP 63.217.158.168.http > 172.20.38.238.57079: Flags [.], seq 40714:42166, ack 721, win 4186, length 1452
+15:59:08.198826 IP 63.217.158.168.http > 172.20.38.238.57079: Flags [.], seq 43618:45070, ack 721, win 4186, length 1452
+15:59:08.198924 IP 172.20.38.238.57079 > 63.217.158.168.http: Flags [.], ack 42166, win 260, options [nop,nop,sack 1 {43618:45070}], length 0
+15:59:08.204251 IP 63.217.158.168.http > 172.20.38.238.57079: Flags [.], seq 45787:47239, ack 721, win 4186, length 1452
+15:59:08.204316 IP 172.20.38.238.57079 > 63.217.158.168.http: Flags [.], ack 42166, win 260, options [nop,nop,sack 2 {45787:47239}{43618:45070}], length 0
+15:59:08.376778 IP 63.217.158.168.http > 172.20.38.238.57079: Flags [.], seq 47239:48691, ack 721, win 4186, length 1452
+15:59:08.376780 IP 63.217.158.168.http > 172.20.38.238.57079: Flags [.], seq 48691:50143, ack 721, win 4186, length 1452
+15:59:08.376782 IP 63.217.158.168.http > 172.20.38.238.57079: Flags [.], seq 50143:51595, ack 721, win 4186, length 1452
+15:59:08.376858 IP 172.20.38.238.57079 > 63.217.158.168.http: Flags [.], ack 42166, win 260, options [nop,nop,sack 2 {45787:48691}{43618:45070}], length 0
+15:59:08.377013 IP 172.20.38.238.57079 > 63.217.158.168.http: Flags [.], ack 42166, win 260, options [nop,nop,sack 2 {45787:50143}{43618:45070}], length 0
+15:59:08.377064 IP 172.20.38.238.57079 > 63.217.158.168.http: Flags [.], ack 42166, win 260, options [nop,nop,sack 2 {45787:51595}{43618:45070}], length 0
+15:59:08.382418 IP 63.217.158.168.http > 172.20.38.238.57079: Flags [.], seq 42166:43618, ack 721, win 4186, length 1452
+15:59:08.382507 IP 172.20.38.238.57079 > 63.217.158.168.http: Flags [.], ack 45070, win 260, options [nop,nop,sack 1 {45787:51595}], length 0
+15:59:08.567292 IP 63.217.158.168.http > 172.20.38.238.57079: Flags [P.], seq 45070:45787, ack 721, win 4186, length 717
+15:59:08.567294 IP 63.217.158.168.http > 172.20.38.238.57079: Flags [.], seq 51595:53047, ack 721, win 4186, length 1452
+15:59:08.567399 IP 172.20.38.238.57079 > 63.217.158.168.http: Flags [.], ack 51595, win 260, length 0
+15:59:08.568523 IP 63.217.158.168.http > 172.20.38.238.57079: Flags [.], seq 53047:54499, ack 721, win 4186, length 1452
+15:59:08.568577 IP 172.20.38.238.57079 > 63.217.158.168.http: Flags [.], ack 54499, win 260, length 0
+15:59:08.746440 IP 63.217.158.168.http > 172.20.38.238.57079: Flags [.], seq 54499:55951, ack 721, win 4186, length 1452
+15:59:08.747810 IP 63.217.158.168.http > 172.20.38.238.57079: Flags [.], seq 55951:57403, ack 721, win 4186, length 1452
+15:59:08.747891 IP 172.20.38.238.57079 > 63.217.158.168.http: Flags [.], ack 57403, win 260, length 0
+15:59:08.748632 IP 63.217.158.168.http > 172.20.38.238.57079: Flags [.], seq 57403:58855, ack 721, win 4186, length 1452
+15:59:08.748634 IP 63.217.158.168.http > 172.20.38.238.57079: Flags [.], seq 58855:60307, ack 721, win 4186, length 1452
+15:59:08.748693 IP 172.20.38.238.57079 > 63.217.158.168.http: Flags [.], ack 60307, win 260, length 0
+15:59:08.930981 IP 63.217.158.168.http > 172.20.38.238.57079: Flags [.], seq 60307:61759, ack 721, win 4186, length 1452
+15:59:08.932319 IP 63.217.158.168.http > 172.20.38.238.57079: Flags [.], seq 61759:63211, ack 721, win 4186, length 1452
+15:59:08.932322 IP 63.217.158.168.http > 172.20.38.238.57079: Flags [.], seq 63211:64663, ack 721, win 4186, length 1452
+15:59:08.932324 IP 63.217.158.168.http > 172.20.38.238.57079: Flags [.], seq 64663:66115, ack 721, win 4186, length 1452
+15:59:08.932412 IP 172.20.38.238.57079 > 63.217.158.168.http: Flags [.], ack 66115, win 260, length 0
+15:59:09.127930 IP 63.217.158.168.http > 172.20.38.238.57079: Flags [.], seq 66115:67567, ack 721, win 4186, length 1452
+15:59:09.127933 IP 63.217.158.168.http > 172.20.38.238.57079: Flags [.], seq 67567:69019, ack 721, win 4186, length 1452
+15:59:09.128024 IP 172.20.38.238.57079 > 63.217.158.168.http: Flags [.], ack 69019, win 260, length 0
+15:59:09.128642 IP 63.217.158.168.http > 172.20.38.238.57079: Flags [.], seq 69019:70471, ack 721, win 4186, length 1452
+15:59:09.128644 IP 63.217.158.168.http > 172.20.38.238.57079: Flags [.], seq 70471:71923, ack 721, win 4186, length 1452
+15:59:09.128714 IP 172.20.38.238.57079 > 63.217.158.168.http: Flags [.], ack 71923, win 260, length 0
+15:59:09.315174 IP 63.217.158.168.http > 172.20.38.238.57079: Flags [.], seq 71923:73375, ack 721, win 4186, length 1452
+15:59:09.315177 IP 63.217.158.168.http > 172.20.38.238.57079: Flags [.], seq 73375:74827, ack 721, win 4186, length 1452
+15:59:09.315272 IP 172.20.38.238.57079 > 63.217.158.168.http: Flags [.], ack 74827, win 260, length 0
+15:59:09.316128 IP 63.217.158.168.http > 172.20.38.238.57079: Flags [.], seq 74827:76279, ack 721, win 4186, length 1452
+15:59:09.316131 IP 63.217.158.168.http > 172.20.38.238.57079: Flags [.], seq 76279:77731, ack 721, win 4186, length 1452
+15:59:09.316132 IP 63.217.158.168.http > 172.20.38.238.57079: Flags [.], seq 77731:79183, ack 721, win 4186, length 1452
+15:59:09.316197 IP 172.20.38.238.57079 > 63.217.158.168.http: Flags [.], ack 79183, win 260, length 0
+15:59:09.498519 IP 63.217.158.168.http > 172.20.38.238.57079: Flags [.], seq 79183:80635, ack 721, win 4186, length 1452
+15:59:09.498521 IP 63.217.158.168.http > 172.20.38.238.57079: Flags [.], seq 80635:82087, ack 721, win 4186, length 1452
+15:59:09.498614 IP 172.20.38.238.57079 > 63.217.158.168.http: Flags [.], ack 82087, win 260, length 0
+15:59:09.499557 IP 63.217.158.168.http > 172.20.38.238.57079: Flags [.], seq 82087:83539, ack 721, win 4186, length 1452
+15:59:09.499560 IP 63.217.158.168.http > 172.20.38.238.57079: Flags [.], seq 83539:84991, ack 721, win 4186, length 1452
+15:59:09.499561 IP 63.217.158.168.http > 172.20.38.238.57079: Flags [.], seq 84991:86443, ack 721, win 4186, length 1452
+15:59:09.499659 IP 172.20.38.238.57079 > 63.217.158.168.http: Flags [.], ack 86443, win 260, length 0
+15:59:09.677077 IP 63.217.158.168.http > 172.20.38.238.57079: Flags [.], seq 86443:87895, ack 721, win 4186, length 1452
+15:59:09.678144 IP 63.217.158.168.http > 172.20.38.238.57079: Flags [.], seq 87895:89347, ack 721, win 4186, length 1452
+15:59:09.678147 IP 63.217.158.168.http > 172.20.38.238.57079: Flags [.], seq 89347:90799, ack 721, win 4186, length 1452
+15:59:09.678148 IP 63.217.158.168.http > 172.20.38.238.57079: Flags [.], seq 90799:92251, ack 721, win 4186, length 1452
+15:59:09.678157 IP 63.217.158.168.http > 172.20.38.238.57079: Flags [.], seq 92251:93703, ack 721, win 4186, length 1452
+15:59:09.678236 IP 172.20.38.238.57079 > 63.217.158.168.http: Flags [.], ack 93703, win 260, length 0
+15:59:09.845751 IP 63.217.158.168.http > 172.20.38.238.57079: Flags [.], seq 93703:95155, ack 721, win 4186, length 1452
+15:59:09.846845 IP 63.217.158.168.http > 172.20.38.238.57079: Flags [.], seq 95155:96607, ack 721, win 4186, length 1452
+15:59:09.846847 IP 63.217.158.168.http > 172.20.38.238.57079: Flags [.], seq 96607:98059, ack 721, win 4186, length 1452
+15:59:09.846849 IP 63.217.158.168.http > 172.20.38.238.57079: Flags [.], seq 98059:99511, ack 721, win 4186, length 1452
+15:59:09.846940 IP 172.20.38.238.57079 > 63.217.158.168.http: Flags [.], ack 99511, win 260, length 0
+15:59:09.848122 IP 63.217.158.168.http > 172.20.38.238.57079: Flags [.], seq 99511:100963, ack 721, win 4186, length 1452
+15:59:09.895263 IP 172.20.38.238.57079 > 63.217.158.168.http: Flags [.], ack 100963, win 260, length 0
+15:59:10.026246 IP 63.217.158.168.http > 172.20.38.238.57079: Flags [.], seq 100963:102415, ack 721, win 4186, length 1452
+15:59:10.026249 IP 63.217.158.168.http > 172.20.38.238.57079: Flags [P.], seq 102415:103124, ack 721, win 4186, length 709
+15:59:10.026335 IP 172.20.38.238.57079 > 63.217.158.168.http: Flags [.], ack 103124, win 260, length 0
+15:59:10.081712 IP 172.20.38.238.57079 > 63.217.158.168.http: Flags [P.], seq 721:1081, ack 103124, win 260, length 360
+15:59:10.090457 IP 172.20.38.238.57078 > 63.217.158.168.http: Flags [P.], seq 378:761, ack 14656, win 260, length 383
+15:59:10.167180 IP 172.20.38.238.57080 > 63.217.158.168.http: Flags [P.], seq 1:354, ack 1, win 260, length 353
+15:59:10.191104 IP 172.20.38.238.57081 > 63.217.158.168.http: Flags [S], seq 808885273, win 8192, options [mss 1460,nop,wscale 8,nop,nop,sackOK], length 0
+15:59:10.192875 IP 172.20.38.238.50910 > resolver2.opendns.com.domain: 64933+ A? safebrowsing.google.com. (41)
+15:59:10.248712 IP 63.217.158.168.http > 172.20.38.238.57079: Flags [.], ack 1081, win 4454, length 0
+15:59:10.250010 IP 63.217.158.168.http > 172.20.38.238.57079: Flags [.], seq 103124:104576, ack 1081, win 4454, length 1452
+15:59:10.251273 IP 63.217.158.168.http > 172.20.38.238.57079: Flags [.], seq 104576:106028, ack 1081, win 4454, length 1452
+15:59:10.251275 IP 63.217.158.168.http > 172.20.38.238.57079: Flags [.], seq 106028:107480, ack 1081, win 4454, length 1452
+15:59:10.251276 IP 63.217.158.168.http > 172.20.38.238.57079: Flags [.], seq 107480:108932, ack 1081, win 4454, length 1452
+15:59:10.251279 IP 63.217.158.168.http > 172.20.38.238.57079: Flags [.], seq 108932:110384, ack 1081, win 4454, length 1452
+15:59:10.251280 IP 63.217.158.168.http > 172.20.38.238.57079: Flags [P.], seq 110384:110716, ack 1081, win 4454, length 332
+15:59:10.251341 IP 172.20.38.238.57079 > 63.217.158.168.http: Flags [.], ack 110716, win 260, length 0
+15:59:10.252043 IP 172.20.38.238.57079 > 63.217.158.168.http: Flags [P.], seq 1081:1431, ack 110716, win 260, length 350
+15:59:10.255232 IP 63.217.158.168.http > 172.20.38.238.57078: Flags [.], ack 761, win 4186, length 0
+15:59:10.256588 IP 63.217.158.168.http > 172.20.38.238.57078: Flags [.], seq 14656:16108, ack 761, win 4186, length 1452
+15:59:10.256589 IP 63.217.158.168.http > 172.20.38.238.57078: Flags [P.], seq 16108:16150, ack 761, win 4186, length 42
+15:59:10.256647 IP 172.20.38.238.57078 > 63.217.158.168.http: Flags [.], ack 16150, win 260, length 0
+15:59:10.329812 IP 63.217.158.168.http > 172.20.38.238.57080: Flags [.], ack 354, win 3918, length 0
+15:59:10.331930 IP 63.217.158.168.http > 172.20.38.238.57080: Flags [.], seq 1:1453, ack 354, win 3918, length 1452
+15:59:10.331932 IP 63.217.158.168.http > 172.20.38.238.57080: Flags [.], seq 1453:2905, ack 354, win 3918, length 1452
+15:59:10.331990 IP 172.20.38.238.57080 > 63.217.158.168.http: Flags [.], ack 2905, win 260, length 0
+15:59:10.334491 IP 63.217.158.168.http > 172.20.38.238.57080: Flags [.], seq 2905:4357, ack 354, win 3918, length 1452
+15:59:10.334492 IP 63.217.158.168.http > 172.20.38.238.57080: Flags [.], seq 4357:5809, ack 354, win 3918, length 1452
+15:59:10.334493 IP 63.217.158.168.http > 172.20.38.238.57080: Flags [.], seq 5809:7261, ack 354, win 3918, length 1452
+15:59:10.334508 IP 63.217.158.168.http > 172.20.38.238.57080: Flags [.], seq 7261:8713, ack 354, win 3918, length 1452
+15:59:10.334509 IP 63.217.158.168.http > 172.20.38.238.57080: Flags [.], seq 8713:10165, ack 354, win 3918, length 1452
+15:59:10.334510 IP 63.217.158.168.http > 172.20.38.238.57080: Flags [P.], seq 10165:11330, ack 354, win 3918, length 1165
+15:59:10.334588 IP 172.20.38.238.57080 > 63.217.158.168.http: Flags [.], ack 11330, win 260, length 0
+15:59:10.361564 IP 63.217.158.168.http > 172.20.38.238.57081: Flags [S.], seq 3061359524, ack 808885274, win 8192, options [mss 1452,nop,wscale 2,nop,nop,sackOK], length 0
+15:59:10.361660 IP 172.20.38.238.57081 > 63.217.158.168.http: Flags [.], ack 1, win 260, length 0
+15:59:10.388099 IP resolver2.opendns.com.domain > 172.20.38.238.50910: 64933 2/0/0 CNAME sb.l.google.com., A 216.58.192.206 (76)
+15:59:10.389170 IP 172.20.38.238.57082 > 216.58.192.206.https: Flags [S], seq 371623843, win 8192, options [mss 1460,nop,wscale 8,nop,nop,sackOK], length 0
+15:59:10.411995 IP 172.20.38.238.57045 > ord30s22-in-f99.1e100.net.https: Flags [P.], seq 3736675902:3736675991, ack 141251425, win 253, length 89
+15:59:10.412134 IP 172.20.38.238.57045 > ord30s22-in-f99.1e100.net.https: Flags [P.], seq 89:135, ack 1, win 253, length 46
+15:59:10.420737 IP 172.20.38.238.50911 > ord30s22-in-f99.1e100.net.https: UDP, length 1350
+15:59:10.425416 IP 172.20.38.238.64135 > resolver2.opendns.com.domain: 34876+ A? suggestion.baidu.com. (38)
+15:59:10.431813 IP 63.217.158.168.http > 172.20.38.238.57079: Flags [.], ack 1431, win 4722, length 0
+15:59:10.434305 IP 63.217.158.168.http > 172.20.38.238.57079: Flags [.], seq 110716:112168, ack 1431, win 4722, length 1452
+15:59:10.434307 IP 63.217.158.168.http > 172.20.38.238.57079: Flags [.], seq 112168:113620, ack 1431, win 4722, length 1452
+15:59:10.434308 IP 63.217.158.168.http > 172.20.38.238.57079: Flags [.], seq 113620:115072, ack 1431, win 4722, length 1452
+15:59:10.434312 IP 63.217.158.168.http > 172.20.38.238.57079: Flags [.], seq 115072:116524, ack 1431, win 4722, length 1452
+15:59:10.434314 IP 63.217.158.168.http > 172.20.38.238.57079: Flags [P.], seq 116524:117195, ack 1431, win 4722, length 671
+15:59:10.434383 IP 172.20.38.238.57079 > 63.217.158.168.http: Flags [.], ack 117195, win 260, length 0
+15:59:10.442694 IP 172.20.38.238.57083 > 216.58.192.206.https: Flags [S], seq 266433693, win 8192, options [mss 1460,nop,wscale 8,nop,nop,sackOK], length 0
+15:59:10.567334 IP 216.58.192.206.https > 172.20.38.238.57082: Flags [S.], seq 3272099263, ack 371623844, win 42900, options [mss 1430,nop,nop,sackOK,nop,wscale 7], length 0
+15:59:10.567427 IP 172.20.38.238.57082 > 216.58.192.206.https: Flags [.], ack 1, win 256, length 0
+15:59:10.567800 IP 172.20.38.238.57082 > 216.58.192.206.https: Flags [P.], seq 1:221, ack 1, win 256, length 220
+15:59:10.570368 IP 172.20.38.238.50911 > ord30s22-in-f99.1e100.net.https: UDP, length 1350
+15:59:10.588704 IP ord30s22-in-f99.1e100.net.https > 172.20.38.238.57045: Flags [.], ack 89, win 361, length 0
+15:59:10.589072 IP ord30s22-in-f99.1e100.net.https > 172.20.38.238.57045: Flags [.], ack 135, win 361, length 0
+15:59:10.589708 IP ord30s22-in-f99.1e100.net.https > 172.20.38.238.57045: Flags [P.], seq 1:47, ack 135, win 361, length 46
+15:59:10.620157 IP ord30s22-in-f99.1e100.net.https > 172.20.38.238.57045: Flags [P.], seq 47:144, ack 135, win 361, length 97
+15:59:10.620217 IP 172.20.38.238.57045 > ord30s22-in-f99.1e100.net.https: Flags [.], ack 144, win 253, length 0
+15:59:10.620718 IP ord30s22-in-f99.1e100.net.https > 172.20.38.238.57045: Flags [P.], seq 144:225, ack 135, win 361, length 81
+15:59:10.620719 IP ord30s22-in-f99.1e100.net.https > 172.20.38.238.57045: Flags [P.], seq 225:271, ack 135, win 361, length 46
+15:59:10.620720 IP 216.58.192.206.https > 172.20.38.238.57083: Flags [S.], seq 3521760820, ack 266433694, win 42900, options [mss 1430,nop,nop,sackOK,nop,wscale 7], length 0
+15:59:10.620799 IP 172.20.38.238.57045 > ord30s22-in-f99.1e100.net.https: Flags [.], ack 271, win 252, length 0
+15:59:10.620840 IP 172.20.38.238.57083 > 216.58.192.206.https: Flags [.], ack 1, win 256, length 0
+15:59:10.621694 IP 172.20.38.238.57045 > ord30s22-in-f99.1e100.net.https: Flags [P.], seq 135:181, ack 271, win 252, length 46
+15:59:10.633452 IP 172.20.38.238.57079 > 63.217.158.168.http: Flags [P.], seq 1431:1832, ack 117195, win 260, length 401
+15:59:10.675196 IP 172.20.38.238.64135 > resolver1.opendns.com.domain: 34876+ A? suggestion.baidu.com. (38)
+15:59:10.736747 IP 216.58.192.206.https > 172.20.38.238.57082: Flags [.], ack 221, win 344, length 0
+15:59:10.736748 IP 216.58.192.206.https > 172.20.38.238.57082: Flags [.], seq 1:1431, ack 221, win 344, length 1430
+15:59:10.736749 IP 216.58.192.206.https > 172.20.38.238.57082: Flags [.], seq 1431:2861, ack 221, win 344, length 1430
+15:59:10.736750 IP 216.58.192.206.https > 172.20.38.238.57082: Flags [P.], seq 2861:4097, ack 221, win 344, length 1236
+15:59:10.736836 IP 172.20.38.238.57082 > 216.58.192.206.https: Flags [.], ack 4097, win 256, length 0
+15:59:10.737205 IP 216.58.192.206.https > 172.20.38.238.57082: Flags [P.], seq 4097:4413, ack 221, win 344, length 316
+15:59:10.737258 IP 172.20.38.238.57082 > 216.58.192.206.https: Flags [.], ack 4413, win 255, length 0
+15:59:10.745161 IP 172.20.38.238.57082 > 216.58.192.206.https: Flags [P.], seq 221:512, ack 4413, win 255, length 291
+15:59:10.752289 IP 172.20.38.238.57082 > 216.58.192.206.https: Flags [P.], seq 512:565, ack 4413, win 255, length 53
+15:59:10.752446 IP 172.20.38.238.57082 > 216.58.192.206.https: Flags [P.], seq 565:615, ack 4413, win 255, length 50
+15:59:10.752491 IP 172.20.38.238.57082 > 216.58.192.206.https: Flags [P.], seq 615:657, ack 4413, win 255, length 42
+15:59:10.752708 IP 172.20.38.238.57082 > 216.58.192.206.https: Flags [P.], seq 657:1078, ack 4413, win 255, length 421
+15:59:10.752759 IP 172.20.38.238.57082 > 216.58.192.206.https: Flags [P.], seq 1078:1124, ack 4413, win 255, length 46
+15:59:10.827720 IP 63.217.158.168.http > 172.20.38.238.57079: Flags [.], ack 1832, win 4990, length 0
+15:59:10.831686 IP 63.217.158.168.http > 172.20.38.238.57079: Flags [.], seq 117195:118647, ack 1832, win 4990, length 1452
+15:59:10.831690 IP 63.217.158.168.http > 172.20.38.238.57079: Flags [P.], seq 118647:119409, ack 1832, win 4990, length 762
+15:59:10.831756 IP 172.20.38.238.57079 > 63.217.158.168.http: Flags [.], ack 119409, win 260, length 0
+15:59:10.832265 IP ord30s22-in-f99.1e100.net.https > 172.20.38.238.57045: Flags [.], ack 181, win 361, length 0
+15:59:10.869663 IP 172.20.38.238.50911 > ord30s22-in-f99.1e100.net.https: UDP, length 1350
+15:59:10.895699 IP 172.20.38.238.58063 > resolver2.opendns.com.domain: 61469+ A? formi.baidu.com. (33)
+15:59:10.917353 IP 216.58.192.206.https > 172.20.38.238.57082: Flags [P.], seq 4413:4707, ack 512, win 352, length 294
+15:59:10.917856 IP 216.58.192.206.https > 172.20.38.238.57082: Flags [P.], seq 4707:4763, ack 512, win 352, length 56
+15:59:10.917858 IP 216.58.192.206.https > 172.20.38.238.57082: Flags [P.], seq 4763:4805, ack 512, win 352, length 42
+15:59:10.917930 IP 172.20.38.238.57082 > 216.58.192.206.https: Flags [.], ack 4805, win 254, length 0
+15:59:10.918083 IP 172.20.38.238.57082 > 216.58.192.206.https: Flags [P.], seq 1124:1162, ack 4805, win 254, length 38
+15:59:10.925112 IP 216.58.192.206.https > 172.20.38.238.57082: Flags [.], ack 657, win 352, length 0
+15:59:10.925797 IP 216.58.192.206.https > 172.20.38.238.57082: Flags [P.], seq 4805:4843, ack 657, win 352, length 38
+15:59:10.926235 IP 216.58.192.206.https > 172.20.38.238.57082: Flags [.], ack 1124, win 361, length 0
+15:59:10.938730 IP 216.58.192.206.https > 172.20.38.238.57082: Flags [P.], seq 4843:5078, ack 1124, win 361, length 235
+15:59:10.938783 IP 172.20.38.238.57082 > 216.58.192.206.https: Flags [.], ack 5078, win 253, length 0
+15:59:10.939182 IP 216.58.192.206.https > 172.20.38.238.57082: Flags [P.], seq 5078:5233, ack 1124, win 361, length 155
+15:59:10.939183 IP 216.58.192.206.https > 172.20.38.238.57082: Flags [P.], seq 5233:5279, ack 1124, win 361, length 46
+15:59:10.939236 IP 172.20.38.238.57082 > 216.58.192.206.https: Flags [.], ack 5279, win 252, length 0
+15:59:10.950363 IP 172.20.38.238.57082 > 216.58.192.206.https: Flags [P.], seq 1162:1208, ack 5279, win 252, length 46
+15:59:10.950590 IP 172.20.38.238.57079 > 63.217.158.168.http: Flags [P.], seq 1832:2187, ack 119409, win 260, length 355
+15:59:11.064956 IP resolver2.opendns.com.domain > 172.20.38.238.58063: 61469 2/0/0 A 180.149.131.55, A 61.135.169.120 (65)
+15:59:11.065724 IP 172.20.38.238.57084 > 180.149.131.55.843: Flags [S], seq 669369035, win 8192, options [mss 1460,nop,wscale 8,nop,nop,sackOK], length 0
+15:59:11.121832 IP 63.217.158.168.http > 172.20.38.238.57079: Flags [.], ack 2187, win 5258, length 0
+15:59:11.127448 IP 63.217.158.168.http > 172.20.38.238.57079: Flags [.], seq 119409:120861, ack 2187, win 5258, length 1452
+15:59:11.127450 IP 63.217.158.168.http > 172.20.38.238.57079: Flags [.], seq 120861:122313, ack 2187, win 5258, length 1452
+15:59:11.127451 IP 63.217.158.168.http > 172.20.38.238.57079: Flags [.], seq 122313:123765, ack 2187, win 5258, length 1452
+15:59:11.127454 IP 63.217.158.168.http > 172.20.38.238.57079: Flags [.], seq 123765:125217, ack 2187, win 5258, length 1452
+15:59:11.127455 IP 63.217.158.168.http > 172.20.38.238.57079: Flags [P.], seq 125217:125378, ack 2187, win 5258, length 161
+15:59:11.127519 IP 172.20.38.238.57079 > 63.217.158.168.http: Flags [.], ack 125378, win 260, length 0
+15:59:11.132999 IP 216.58.192.206.https > 172.20.38.238.57082: Flags [.], ack 1208, win 361, length 0
+15:59:11.248491 IP resolver2.opendns.com.domain > 172.20.38.238.64135: 34876 2/0/0 CNAME suggestion.a.shifen.com., A 123.125.114.101 (88)
+15:59:11.249203 IP 172.20.38.238.57085 > 123.125.114.101.http: Flags [S], seq 927098371, win 8192, options [mss 1460,nop,wscale 8,nop,nop,sackOK], length 0
+15:59:11.265727 IP resolver1.opendns.com.domain > 172.20.38.238.64135: 34876 2/0/0 CNAME suggestion.a.shifen.com., A 123.125.114.101 (88)
+15:59:11.426908 IP 172.20.38.238.57086 > 123.125.114.101.http: Flags [S], seq 673650885, win 8192, options [mss 1460,nop,wscale 8,nop,nop,sackOK], length 0
+15:59:11.470541 IP 172.20.38.238.50911 > ord30s22-in-f99.1e100.net.https: UDP, length 1350
+15:59:11.665129 IP 123.125.114.101.http > 172.20.38.238.57085: Flags [S.], seq 2811083078, ack 927098372, win 8192, options [mss 1440,nop,wscale 7,nop,nop,sackOK], length 0
+15:59:11.665223 IP 172.20.38.238.57085 > 123.125.114.101.http: Flags [.], ack 1, win 258, length 0
+15:59:11.665533 IP 172.20.38.238.57085 > 123.125.114.101.http: Flags [P.], seq 1:733, ack 1, win 258, length 732
+15:59:11.843434 IP 123.125.114.101.http > 172.20.38.238.57086: Flags [S.], seq 450168201, ack 673650886, win 8192, options [mss 1440,nop,wscale 7,nop,nop,sackOK], length 0
+15:59:11.843524 IP 172.20.38.238.57086 > 123.125.114.101.http: Flags [.], ack 1, win 258, length 0
+15:59:12.097083 IP 123.125.114.101.http > 172.20.38.238.57085: Flags [.], ack 733, win 126, length 0
+15:59:12.098561 IP 123.125.114.101.http > 172.20.38.238.57085: Flags [P.], seq 1:202, ack 733, win 126, length 201
+15:59:12.098562 IP 123.125.114.101.http > 172.20.38.238.57085: Flags [P.], seq 202:289, ack 733, win 126, length 87
+15:59:12.098645 IP 172.20.38.238.57085 > 123.125.114.101.http: Flags [.], ack 289, win 257, length 0
+15:59:12.153736 IP 172.20.38.238.57075 > 103.235.46.39.http: Flags [P.], seq 971:1542, ack 28414, win 256, length 571
+15:59:12.167855 IP 172.20.38.238.57079 > 63.217.158.168.http: Flags [P.], seq 2187:2579, ack 125378, win 260, length 392
+15:59:12.289989 IP 123.125.114.101.http > 172.20.38.238.57085: Flags [P.], seq 1:202, ack 733, win 126, length 201
+15:59:12.290027 IP 172.20.38.238.57085 > 123.125.114.101.http: Flags [.], ack 289, win 257, options [nop,nop,sack 1 {1:202}], length 0
+15:59:12.353211 IP 63.217.158.168.http > 172.20.38.238.57079: Flags [.], ack 2579, win 5526, length 0
+15:59:12.354309 IP 63.217.158.168.http > 172.20.38.238.57079: Flags [.], seq 125378:126830, ack 2579, win 5526, length 1452
+15:59:12.354311 IP 63.217.158.168.http > 172.20.38.238.57079: Flags [P.], seq 126830:127097, ack 2579, win 5526, length 267
+15:59:12.354374 IP 172.20.38.238.57079 > 63.217.158.168.http: Flags [.], ack 127097, win 260, length 0
+15:59:12.408534 IP 172.20.38.238.55867 > resolver2.opendns.com.domain: 63986+ A? sclick.baidu.com. (34)
+15:59:12.547015 IP 103.235.46.39.http > 172.20.38.238.57075: Flags [.], ack 1542, win 884, length 0
+15:59:12.547016 IP 103.235.46.39.http > 172.20.38.238.57075: Flags [P.], seq 28414:28714, ack 1542, win 884, length 300
+15:59:12.547017 IP 103.235.46.39.http > 172.20.38.238.57075: Flags [P.], seq 28714:29768, ack 1542, win 884, length 1054
+15:59:12.547130 IP 172.20.38.238.57075 > 103.235.46.39.http: Flags [.], ack 29768, win 260, length 0
+15:59:12.660973 IP 172.20.38.238.55867 > resolver1.opendns.com.domain: 63986+ A? sclick.baidu.com. (34)
+15:59:12.676870 IP 172.20.38.238.50911 > ord30s22-in-f99.1e100.net.https: UDP, length 1350
+15:59:12.895021 IP resolver2.opendns.com.domain > 172.20.38.238.55867: 63986 2/0/0 CNAME s.a.shifen.com., A 123.125.115.95 (75)
+15:59:12.895779 IP 172.20.38.238.57087 > 123.125.115.95.http: Flags [S], seq 3123723063, win 8192, options [mss 1460,nop,wscale 8,nop,nop,sackOK], length 0
+15:59:12.926507 IP 172.20.38.238.57088 > 123.125.115.95.http: Flags [S], seq 1288694074, win 8192, options [mss 1460,nop,wscale 8,nop,nop,sackOK], length 0
+15:59:13.209222 IP resolver1.opendns.com.domain > 172.20.38.238.55867: 63986 2/0/0 CNAME s.a.shifen.com., A 123.125.115.95 (75)
+15:59:13.286816 IP 123.125.115.95.http > 172.20.38.238.57087: Flags [S.], seq 261568727, ack 3123723064, win 8192, options [mss 1440,nop,wscale 7,nop,nop,sackOK], length 0
+15:59:13.286937 IP 172.20.38.238.57087 > 123.125.115.95.http: Flags [.], ack 1, win 258, length 0
+15:59:13.287318 IP 172.20.38.238.57087 > 123.125.115.95.http: Flags [P.], seq 1:1040, ack 1, win 258, length 1039
+15:59:13.328127 IP 123.125.115.95.http > 172.20.38.238.57088: Flags [S.], seq 551311983, ack 1288694075, win 8192, options [mss 1440,nop,wscale 7,nop,nop,sackOK], length 0
+15:59:13.328206 IP 172.20.38.238.57088 > 123.125.115.95.http: Flags [.], ack 1, win 258, length 0
+15:59:13.662791 IP 123.125.115.95.http > 172.20.38.238.57087: Flags [.], ack 1040, win 211, length 0
+15:59:13.663167 IP 123.125.115.95.http > 172.20.38.238.57087: Flags [P.], seq 1:308, ack 1040, win 211, length 307
+15:59:13.663169 IP 123.125.115.95.http > 172.20.38.238.57087: Flags [F.], seq 308, ack 1040, win 211, length 0
+15:59:13.663262 IP 172.20.38.238.57087 > 123.125.115.95.http: Flags [.], ack 309, win 257, length 0
+15:59:13.664101 IP 172.20.38.238.57087 > 123.125.115.95.http: Flags [F.], seq 1040, ack 309, win 257, length 0
+15:59:13.874820 IP 123.125.115.95.http > 172.20.38.238.57087: Flags [P.], seq 1:308, ack 1040, win 211, length 307
+15:59:13.874882 IP 172.20.38.238.57087 > 123.125.115.95.http: Flags [.], ack 309, win 257, options [nop,nop,sack 1 {1:308}], length 0
+15:59:13.946589 IP 172.20.38.238.57089 > 180.149.131.55.8843: Flags [S], seq 559908643, win 8192, options [mss 1460,nop,wscale 8,nop,nop,sackOK], length 0
+15:59:14.044802 IP 123.125.115.95.http > 172.20.38.238.57087: Flags [.], ack 1041, win 211, length 0
+15:59:14.165744 ARP, Request who-has 172.20.38.238 tell 172.20.32.3, length 46
+15:59:14.165778 ARP, Reply 172.20.38.238 is-at 24:fd:52:62:80:09 (oui Unknown), length 28
+15:59:14.419685 IP 172.20.38.238.50911 > ord30s22-in-f99.1e100.net.https: UDP, length 43
+15:59:15.296320 IP 172.20.38.238.56270 > ie-in-f125.1e100.net.xmpp-client: Flags [P.], seq 3737585706:3737585732, ack 4037280163, win 254, length 26
+15:59:15.469730 IP ie-in-f125.1e100.net.xmpp-client > 172.20.38.238.56270: Flags [.], ack 26, win 520, length 0
+15:59:15.587112 IP 63.217.158.168.http > 172.20.38.238.57080: Flags [.], seq 2905:4357, ack 354, win 3918, length 1452
+15:59:15.587171 IP 172.20.38.238.57080 > 63.217.158.168.http: Flags [.], ack 11330, win 260, options [nop,nop,sack 1 {2905:4357}], length 0
+15:59:15.887051 IP 172.20.38.238.57049 > ie-in-f141.1e100.net.https: Flags [P.], seq 3744868426:3744868558, ack 3387841601, win 255, length 132
+15:59:15.887259 IP 172.20.38.238.57049 > ie-in-f141.1e100.net.https: Flags [P.], seq 132:178, ack 1, win 255, length 46
+15:59:16.058244 IP ie-in-f141.1e100.net.https > 172.20.38.238.57049: Flags [.], ack 132, win 442, length 0
+15:59:16.058734 IP ie-in-f141.1e100.net.https > 172.20.38.238.57049: Flags [.], ack 178, win 442, length 0
+15:59:16.058736 IP ie-in-f141.1e100.net.https > 172.20.38.238.57049: Flags [P.], seq 1:47, ack 178, win 442, length 46
+15:59:16.110532 IP 172.20.38.238.57049 > ie-in-f141.1e100.net.https: Flags [.], ack 47, win 255, length 0
+15:59:16.183293 IP ie-in-f189.1e100.net.https > 172.20.38.238.57065: Flags [P.], seq 2940256117:2940256677, ack 242212358, win 494, length 560
+15:59:16.201802 IP ie-in-f141.1e100.net.https > 172.20.38.238.57049: Flags [P.], seq 47:1422, ack 178, win 442, length 1375
+15:59:16.201805 IP ie-in-f141.1e100.net.https > 172.20.38.238.57049: Flags [P.], seq 1422:1762, ack 178, win 442, length 340
+15:59:16.201806 IP ie-in-f141.1e100.net.https > 172.20.38.238.57049: Flags [P.], seq 1762:1808, ack 178, win 442, length 46
+15:59:16.201897 IP 172.20.38.238.57049 > ie-in-f141.1e100.net.https: Flags [.], ack 1808, win 256, length 0
+15:59:16.204406 IP 172.20.38.238.57049 > ie-in-f141.1e100.net.https: Flags [P.], seq 178:224, ack 1808, win 256, length 46
+15:59:16.238575 IP 172.20.38.238.57065 > ie-in-f189.1e100.net.https: Flags [.], ack 560, win 252, length 0
+15:59:16.568225 IP 172.20.38.238.57049 > ie-in-f141.1e100.net.https: Flags [P.], seq 178:224, ack 1808, win 256, length 46
+15:59:16.747636 IP ie-in-f141.1e100.net.https > 172.20.38.238.57049: Flags [.], ack 224, win 442, options [nop,nop,sack 1 {178:224}], length 0
+15:59:16.958712 IP 172.20.38.238.57089 > 180.149.131.55.8843: Flags [S], seq 559908643, win 8192, options [mss 1460,nop,wscale 8,nop,nop,sackOK], length 0
+15:59:20.631164 IP 172.20.38.238.57083 > 216.58.192.206.https: Flags [F.], seq 1, ack 1, win 256, length 0
+15:59:20.788198 IP 216.58.192.206.https > 172.20.38.238.57083: Flags [F.], seq 1, ack 2, win 336, length 0
+15:59:20.788274 IP 172.20.38.238.57083 > 216.58.192.206.https: Flags [.], ack 2, win 256, length 0

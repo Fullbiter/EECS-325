@@ -1,0 +1,304 @@
+16:43:32.919552 IP 172.20.38.238.57770 > ord30s22-in-f14.1e100.net.https: Flags [.], seq 3362735197:3362735198, ack 2883928050, win 254, length 1
+16:43:33.051681 IP ord30s22-in-f14.1e100.net.https > 172.20.38.238.57770: Flags [.], ack 1, win 352, options [nop,nop,sack 1 {0:1}], length 0
+16:43:33.060533 IP 172.20.38.238.57771 > ord30s22-in-f109.1e100.net.https: Flags [.], seq 3881767400:3881767401, ack 160773091, win 251, length 1
+16:43:33.123031 IP 172.20.38.238.57772 > ord30s22-in-f106.1e100.net.https: Flags [.], seq 2985644654:2985644655, ack 2457413230, win 252, length 1
+16:43:33.193084 IP ord30s22-in-f109.1e100.net.https > 172.20.38.238.57771: Flags [.], ack 1, win 394, options [nop,nop,sack 1 {0:1}], length 0
+16:43:33.286533 IP ord30s22-in-f106.1e100.net.https > 172.20.38.238.57772: Flags [.], ack 1, win 352, options [nop,nop,sack 1 {0:1}], length 0
+16:43:33.887209 IP 172.20.38.238.57774 > ord31s22-in-f234.1e100.net.https: Flags [.], seq 2072170791:2072170792, ack 1934819227, win 256, length 1
+16:43:34.044939 IP ord31s22-in-f234.1e100.net.https > 172.20.38.238.57774: Flags [.], ack 1, win 352, options [nop,nop,sack 1 {0:1}], length 0
+16:43:34.453471 IP 172.20.38.238.57766 > ord30s22-in-f106.1e100.net.https: Flags [.], seq 3320559389:3320559390, ack 2469796021, win 252, length 1
+16:43:34.593210 IP 172.20.38.238.59697 > resolver2.opendns.com.domain: 63911+ A? torcache.net. (30)
+16:43:34.615665 IP ord30s22-in-f106.1e100.net.https > 172.20.38.238.57766: Flags [.], ack 1, win 403, options [nop,nop,sack 1 {0:1}], length 0
+16:43:34.810643 IP 172.20.38.238.59697 > resolver1.opendns.com.domain: 63911+ A? torcache.net. (30)
+16:43:34.886778 IP resolver2.opendns.com.domain > 172.20.38.238.59697: 63911 3/0/0 A 95.215.61.199, A 109.163.226.148, A 94.242.255.194 (78)
+16:43:34.887980 IP 172.20.38.238.57828 > 95.215.61.199.http: Flags [S], seq 2913140152, win 8192, options [mss 1460,nop,wscale 8,nop,nop,sackOK], length 0
+16:43:34.938434 IP 172.20.38.238.57821 > ord30s22-in-f97.1e100.net.https: Flags [.], seq 3686880515:3686880516, ack 1510692351, win 675, length 1
+16:43:34.953807 IP resolver1.opendns.com.domain > 172.20.38.238.59697: 63911 3/0/0 A 109.163.226.148, A 94.242.255.194, A 95.215.61.199 (78)
+16:43:35.095014 IP 172.20.38.238.57829 > 95.215.61.199.http: Flags [S], seq 3905988478, win 8192, options [mss 1460,nop,wscale 8,nop,nop,sackOK], length 0
+16:43:35.104602 IP ord30s22-in-f97.1e100.net.https > 172.20.38.238.57821: Flags [.], ack 1, win 352, options [nop,nop,sack 1 {0:1}], length 0
+16:43:35.161426 IP 95.215.61.199.http > 172.20.38.238.57828: Flags [S.], seq 2665751042, ack 2913140153, win 42340, options [mss 1460,nop,nop,sackOK,nop,wscale 14], length 0
+16:43:35.161601 IP 172.20.38.238.57828 > 95.215.61.199.http: Flags [.], ack 1, win 256, length 0
+16:43:35.162095 IP 172.20.38.238.57828 > 95.215.61.199.http: Flags [P.], seq 1:371, ack 1, win 256, length 370
+16:43:35.254991 IP 172.20.38.238.57634 > ie-in-f125.1e100.net.xmpp-client: Flags [P.], seq 1369678963:1369678989, ack 1649369269, win 251, length 26
+16:43:35.358812 IP 95.215.61.199.http > 172.20.38.238.57829: Flags [S.], seq 1554754481, ack 3905988479, win 42340, options [mss 1460,nop,nop,sackOK,nop,wscale 14], length 0
+16:43:35.358973 IP 172.20.38.238.57829 > 95.215.61.199.http: Flags [.], ack 1, win 256, length 0
+16:43:35.426877 IP 95.215.61.199.http > 172.20.38.238.57828: Flags [.], ack 371, win 3, length 0
+16:43:35.430539 IP 95.215.61.199.http > 172.20.38.238.57828: Flags [P.], seq 1461:2727, ack 371, win 3, length 1266
+16:43:35.430633 IP 172.20.38.238.57828 > 95.215.61.199.http: Flags [.], ack 1, win 256, options [nop,nop,sack 1 {1461:2727}], length 0
+16:43:35.430911 IP 95.215.61.199.http > 172.20.38.238.57828: Flags [F.], seq 2727, ack 371, win 3, length 0
+16:43:35.430948 IP 172.20.38.238.57828 > 95.215.61.199.http: Flags [.], ack 1, win 256, options [nop,nop,sack 1 {1461:2727}], length 0
+16:43:35.438473 IP ie-in-f125.1e100.net.xmpp-client > 172.20.38.238.57634: Flags [.], ack 26, win 403, length 0
+16:43:35.526700 IP 172.20.38.238.57826 > edge-star-shv-01-ord1.facebook.com.https: Flags [.], seq 1333482619:1333482620, ack 2499912497, win 258, length 1
+16:43:35.590663 IP 172.20.38.238.57778 > ie-in-f141.1e100.net.https: Flags [.], seq 2196261437:2196261438, ack 3456886117, win 252, length 1
+16:43:35.710694 IP edge-star-shv-01-ord1.facebook.com.https > 172.20.38.238.57826: Flags [.], ack 1, win 68, length 0
+16:43:35.782259 IP ie-in-f141.1e100.net.https > 172.20.38.238.57778: Flags [.], ack 1, win 361, options [nop,nop,sack 1 {0:1}], length 0
+16:43:35.791793 IP 95.215.61.199.http > 172.20.38.238.57828: Flags [.], seq 1:1461, ack 371, win 3, length 1460
+16:43:35.791907 IP 172.20.38.238.57828 > 95.215.61.199.http: Flags [.], ack 2728, win 256, length 0
+16:43:35.793401 IP 172.20.38.238.57828 > 95.215.61.199.http: Flags [F.], seq 371, ack 2728, win 256, length 0
+16:43:35.808421 IP 172.20.38.238.57829 > 95.215.61.199.http: Flags [P.], seq 1:891, ack 1, win 256, length 890
+16:43:35.810640 IP 172.20.38.238.57830 > 95.215.61.199.http: Flags [S], seq 3837622040, win 8192, options [mss 1460,nop,wscale 8,nop,nop,sackOK], length 0
+16:43:35.812117 IP 172.20.38.238.57831 > 95.215.61.199.http: Flags [S], seq 18234650, win 8192, options [mss 1460,nop,wscale 8,nop,nop,sackOK], length 0
+16:43:35.813386 IP 172.20.38.238.57832 > 95.215.61.199.http: Flags [S], seq 1806395564, win 8192, options [mss 1460,nop,wscale 8,nop,nop,sackOK], length 0
+16:43:35.814682 IP 172.20.38.238.57833 > 95.215.61.199.http: Flags [S], seq 1546166432, win 8192, options [mss 1460,nop,wscale 8,nop,nop,sackOK], length 0
+16:43:36.094739 IP 95.215.61.199.http > 172.20.38.238.57828: Flags [.], ack 372, win 3, length 0
+16:43:36.112038 IP 95.215.61.199.http > 172.20.38.238.57829: Flags [.], ack 891, win 3, length 0
+16:43:36.114552 IP 95.215.61.199.http > 172.20.38.238.57829: Flags [.], seq 1:1461, ack 891, win 3, length 1460
+16:43:36.116752 IP 95.215.61.199.http > 172.20.38.238.57829: Flags [.], seq 1461:2921, ack 891, win 3, length 1460
+16:43:36.116754 IP 95.215.61.199.http > 172.20.38.238.57829: Flags [.], seq 2921:4381, ack 891, win 3, length 1460
+16:43:36.116756 IP 95.215.61.199.http > 172.20.38.238.57829: Flags [.], seq 4381:5841, ack 891, win 3, length 1460
+16:43:36.116763 IP 95.215.61.199.http > 172.20.38.238.57829: Flags [.], seq 5841:7301, ack 891, win 3, length 1460
+16:43:36.116766 IP 95.215.61.199.http > 172.20.38.238.57829: Flags [.], seq 7301:8761, ack 891, win 3, length 1460
+16:43:36.116770 IP 95.215.61.199.http > 172.20.38.238.57829: Flags [.], seq 8761:10221, ack 891, win 3, length 1460
+16:43:36.116773 IP 95.215.61.199.http > 172.20.38.238.57829: Flags [.], seq 10221:11681, ack 891, win 3, length 1460
+16:43:36.116775 IP 95.215.61.199.http > 172.20.38.238.57829: Flags [.], seq 11681:13141, ack 891, win 3, length 1460
+16:43:36.116777 IP 95.215.61.199.http > 172.20.38.238.57830: Flags [S.], seq 3864776218, ack 3837622041, win 42340, options [mss 1460,nop,nop,sackOK,nop,wscale 14], length 0
+16:43:36.116779 IP 95.215.61.199.http > 172.20.38.238.57829: Flags [.], seq 13141:14601, ack 891, win 3, length 1460
+16:43:36.117025 IP 172.20.38.238.57829 > 95.215.61.199.http: Flags [.], ack 14601, win 256, length 0
+16:43:36.117188 IP 172.20.38.238.57830 > 95.215.61.199.http: Flags [.], ack 1, win 256, length 0
+16:43:36.117499 IP 95.215.61.199.http > 172.20.38.238.57832: Flags [S.], seq 2423218422, ack 1806395565, win 42340, options [mss 1460,nop,nop,sackOK,nop,wscale 14], length 0
+16:43:36.117646 IP 172.20.38.238.57832 > 95.215.61.199.http: Flags [.], ack 1, win 256, length 0
+16:43:36.117864 IP 95.215.61.199.http > 172.20.38.238.57833: Flags [S.], seq 1357195173, ack 1546166433, win 42340, options [mss 1460,nop,nop,sackOK,nop,wscale 14], length 0
+16:43:36.117943 IP 172.20.38.238.57833 > 95.215.61.199.http: Flags [.], ack 1, win 256, length 0
+16:43:36.119209 IP 172.20.38.238.57830 > 95.215.61.199.http: Flags [P.], seq 1:885, ack 1, win 256, length 884
+16:43:36.119603 IP 172.20.38.238.57832 > 95.215.61.199.http: Flags [P.], seq 1:902, ack 1, win 256, length 901
+16:43:36.119889 IP 172.20.38.238.57833 > 95.215.61.199.http: Flags [P.], seq 1:877, ack 1, win 256, length 876
+16:43:36.414740 IP 172.20.38.238.57785 > ord30s22-in-f99.1e100.net.https: Flags [.], seq 1956123454:1956123455, ack 2873623510, win 256, length 1
+16:43:36.422647 IP 95.215.61.199.http > 172.20.38.238.57829: Flags [.], seq 14601:16061, ack 891, win 3, length 1460
+16:43:36.422650 IP 95.215.61.199.http > 172.20.38.238.57829: Flags [.], seq 16061:17521, ack 891, win 3, length 1460
+16:43:36.422652 IP 95.215.61.199.http > 172.20.38.238.57829: Flags [FP.], seq 17521:17870, ack 891, win 3, length 349
+16:43:36.422770 IP 172.20.38.238.57829 > 95.215.61.199.http: Flags [.], ack 17871, win 256, length 0
+16:43:36.423034 IP 95.215.61.199.http > 172.20.38.238.57833: Flags [.], ack 877, win 3, length 0
+16:43:36.423035 IP 95.215.61.199.http > 172.20.38.238.57830: Flags [.], ack 885, win 3, length 0
+16:43:36.423315 IP 172.20.38.238.57829 > 95.215.61.199.http: Flags [F.], seq 891, ack 17871, win 256, length 0
+16:43:36.424327 IP 95.215.61.199.http > 172.20.38.238.57833: Flags [.], seq 1:1461, ack 877, win 3, length 1460
+16:43:36.424329 IP 95.215.61.199.http > 172.20.38.238.57833: Flags [.], seq 1461:2921, ack 877, win 3, length 1460
+16:43:36.424331 IP 95.215.61.199.http > 172.20.38.238.57830: Flags [FP.], seq 1:334, ack 885, win 3, length 333
+16:43:36.424331 IP 95.215.61.199.http > 172.20.38.238.57833: Flags [.], seq 2921:4381, ack 877, win 3, length 1460
+16:43:36.424443 IP 172.20.38.238.57833 > 95.215.61.199.http: Flags [.], ack 4381, win 256, length 0
+16:43:36.424531 IP 172.20.38.238.57830 > 95.215.61.199.http: Flags [.], ack 335, win 255, length 0
+16:43:36.424891 IP 95.215.61.199.http > 172.20.38.238.57833: Flags [.], seq 4381:5841, ack 877, win 3, length 1460
+16:43:36.424979 IP 172.20.38.238.57833 > 95.215.61.199.http: Flags [.], ack 5841, win 256, length 0
+16:43:36.425950 IP 172.20.38.238.57830 > 95.215.61.199.http: Flags [F.], seq 885, ack 335, win 255, length 0
+16:43:36.426686 IP 95.215.61.199.http > 172.20.38.238.57833: Flags [.], seq 5841:7301, ack 877, win 3, length 1460
+16:43:36.426689 IP 95.215.61.199.http > 172.20.38.238.57833: Flags [.], seq 7301:8761, ack 877, win 3, length 1460
+16:43:36.426691 IP 95.215.61.199.http > 172.20.38.238.57833: Flags [.], seq 8761:10221, ack 877, win 3, length 1460
+16:43:36.426700 IP 95.215.61.199.http > 172.20.38.238.57833: Flags [.], seq 10221:11681, ack 877, win 3, length 1460
+16:43:36.426702 IP 95.215.61.199.http > 172.20.38.238.57832: Flags [.], ack 902, win 3, length 0
+16:43:36.426703 IP 95.215.61.199.http > 172.20.38.238.57833: Flags [.], seq 11681:13141, ack 877, win 3, length 1460
+16:43:36.426705 IP 95.215.61.199.http > 172.20.38.238.57833: Flags [.], seq 13141:14601, ack 877, win 3, length 1460
+16:43:36.426706 IP 95.215.61.199.http > 172.20.38.238.57832: Flags [.], seq 1:1461, ack 902, win 3, length 1460
+16:43:36.426849 IP 172.20.38.238.57833 > 95.215.61.199.http: Flags [.], ack 14601, win 256, length 0
+16:43:36.427104 IP 95.215.61.199.http > 172.20.38.238.57832: Flags [.], seq 1461:2921, ack 902, win 3, length 1460
+16:43:36.427142 IP 172.20.38.238.57832 > 95.215.61.199.http: Flags [.], ack 2921, win 256, length 0
+16:43:36.427427 IP 95.215.61.199.http > 172.20.38.238.57832: Flags [FP.], seq 2921:3259, ack 902, win 3, length 338
+16:43:36.427461 IP 172.20.38.238.57832 > 95.215.61.199.http: Flags [.], ack 3260, win 255, length 0
+16:43:36.428009 IP 172.20.38.238.57832 > 95.215.61.199.http: Flags [F.], seq 902, ack 3260, win 255, length 0
+16:43:36.587179 IP ord30s22-in-f99.1e100.net.https > 172.20.38.238.57785: Flags [.], ack 1, win 369, options [nop,nop,sack 1 {0:1}], length 0
+16:43:36.590681 IP 172.20.38.238.57784 > ord30s22-in-f100.1e100.net.https: Flags [.], seq 2498452619:2498452620, ack 3391904279, win 837, length 1
+16:43:36.718882 IP 95.215.61.199.http > 172.20.38.238.57829: Flags [.], ack 892, win 3, length 0
+16:43:36.720974 IP 95.215.61.199.http > 172.20.38.238.57833: Flags [.], seq 14601:16061, ack 877, win 3, length 1460
+16:43:36.720977 IP 95.215.61.199.http > 172.20.38.238.57833: Flags [.], seq 16061:17521, ack 877, win 3, length 1460
+16:43:36.720979 IP 95.215.61.199.http > 172.20.38.238.57833: Flags [.], seq 17521:18981, ack 877, win 3, length 1460
+16:43:36.721118 IP 172.20.38.238.57833 > 95.215.61.199.http: Flags [.], ack 18981, win 256, length 0
+16:43:36.723645 IP 95.215.61.199.http > 172.20.38.238.57833: Flags [.], seq 18981:20441, ack 877, win 3, length 1460
+16:43:36.723648 IP 95.215.61.199.http > 172.20.38.238.57833: Flags [.], seq 20441:21901, ack 877, win 3, length 1460
+16:43:36.723650 IP 95.215.61.199.http > 172.20.38.238.57833: Flags [.], seq 21901:23361, ack 877, win 3, length 1460
+16:43:36.723654 IP 95.215.61.199.http > 172.20.38.238.57833: Flags [.], seq 23361:24821, ack 877, win 3, length 1460
+16:43:36.723656 IP 95.215.61.199.http > 172.20.38.238.57833: Flags [.], seq 24821:26281, ack 877, win 3, length 1460
+16:43:36.723784 IP 172.20.38.238.57833 > 95.215.61.199.http: Flags [.], ack 26281, win 256, length 0
+16:43:36.724054 IP 95.215.61.199.http > 172.20.38.238.57833: Flags [.], seq 26281:27741, ack 877, win 3, length 1460
+16:43:36.726145 IP 95.215.61.199.http > 172.20.38.238.57833: Flags [.], seq 27741:29201, ack 877, win 3, length 1460
+16:43:36.726148 IP 95.215.61.199.http > 172.20.38.238.57833: Flags [.], seq 29201:30661, ack 877, win 3, length 1460
+16:43:36.726149 IP 95.215.61.199.http > 172.20.38.238.57833: Flags [.], seq 30661:32121, ack 877, win 3, length 1460
+16:43:36.726156 IP 95.215.61.199.http > 172.20.38.238.57833: Flags [.], seq 32121:33581, ack 877, win 3, length 1460
+16:43:36.726157 IP 95.215.61.199.http > 172.20.38.238.57830: Flags [.], ack 886, win 3, length 0
+16:43:36.726158 IP 95.215.61.199.http > 172.20.38.238.57833: Flags [.], seq 33581:35041, ack 877, win 3, length 1460
+16:43:36.726160 IP 95.215.61.199.http > 172.20.38.238.57833: Flags [.], seq 35041:36501, ack 877, win 3, length 1460
+16:43:36.726161 IP 95.215.61.199.http > 172.20.38.238.57833: Flags [.], seq 36501:37961, ack 877, win 3, length 1460
+16:43:36.726163 IP 95.215.61.199.http > 172.20.38.238.57833: Flags [.], seq 37961:39421, ack 877, win 3, length 1460
+16:43:36.726165 IP 95.215.61.199.http > 172.20.38.238.57833: Flags [.], seq 39421:40881, ack 877, win 3, length 1460
+16:43:36.726166 IP 95.215.61.199.http > 172.20.38.238.57833: Flags [.], seq 40881:42341, ack 877, win 3, length 1460
+16:43:36.726306 IP 172.20.38.238.57833 > 95.215.61.199.http: Flags [.], ack 42341, win 256, length 0
+16:43:36.726652 IP 95.215.61.199.http > 172.20.38.238.57833: Flags [.], seq 42341:43801, ack 877, win 3, length 1460
+16:43:36.726756 IP 172.20.38.238.57833 > 95.215.61.199.http: Flags [.], ack 43801, win 256, length 0
+16:43:36.727155 IP 95.215.61.199.http > 172.20.38.238.57832: Flags [.], ack 903, win 3, length 0
+16:43:36.756006 IP ord30s22-in-f100.1e100.net.https > 172.20.38.238.57784: Flags [.], ack 1, win 352, options [nop,nop,sack 1 {0:1}], length 0
+16:43:37.010375 IP 95.215.61.199.http > 172.20.38.238.57833: Flags [.], seq 43801:45261, ack 877, win 3, length 1460
+16:43:37.010378 IP 95.215.61.199.http > 172.20.38.238.57833: Flags [.], seq 45261:46721, ack 877, win 3, length 1460
+16:43:37.010380 IP 95.215.61.199.http > 172.20.38.238.57833: Flags [.], seq 46721:48181, ack 877, win 3, length 1460
+16:43:37.010386 IP 95.215.61.199.http > 172.20.38.238.57833: Flags [.], seq 48181:49641, ack 877, win 3, length 1460
+16:43:37.010529 IP 172.20.38.238.57833 > 95.215.61.199.http: Flags [.], ack 49641, win 256, length 0
+16:43:37.011126 IP 95.215.61.199.http > 172.20.38.238.57833: Flags [.], seq 49641:51101, ack 877, win 3, length 1460
+16:43:37.011130 IP 95.215.61.199.http > 172.20.38.238.57833: Flags [.], seq 51101:52561, ack 877, win 3, length 1460
+16:43:37.011240 IP 172.20.38.238.57833 > 95.215.61.199.http: Flags [.], ack 52561, win 256, length 0
+16:43:37.015745 IP 95.215.61.199.http > 172.20.38.238.57833: Flags [.], seq 52561:54021, ack 877, win 3, length 1460
+16:43:37.015747 IP 95.215.61.199.http > 172.20.38.238.57833: Flags [.], seq 54021:55481, ack 877, win 3, length 1460
+16:43:37.015749 IP 95.215.61.199.http > 172.20.38.238.57833: Flags [.], seq 55481:56941, ack 877, win 3, length 1460
+16:43:37.015757 IP 95.215.61.199.http > 172.20.38.238.57833: Flags [.], seq 56941:58401, ack 877, win 3, length 1460
+16:43:37.015760 IP 95.215.61.199.http > 172.20.38.238.57833: Flags [.], seq 58401:59861, ack 877, win 3, length 1460
+16:43:37.015762 IP 95.215.61.199.http > 172.20.38.238.57833: Flags [.], seq 59861:61321, ack 877, win 3, length 1460
+16:43:37.015765 IP 95.215.61.199.http > 172.20.38.238.57833: Flags [.], seq 61321:62781, ack 877, win 3, length 1460
+16:43:37.015769 IP 95.215.61.199.http > 172.20.38.238.57833: Flags [.], seq 62781:64241, ack 877, win 3, length 1460
+16:43:37.015772 IP 95.215.61.199.http > 172.20.38.238.57833: Flags [.], seq 64241:65701, ack 877, win 3, length 1460
+16:43:37.015773 IP 95.215.61.199.http > 172.20.38.238.57833: Flags [.], seq 65701:67161, ack 877, win 3, length 1460
+16:43:37.015947 IP 172.20.38.238.57833 > 95.215.61.199.http: Flags [.], ack 67161, win 256, length 0
+16:43:37.018100 IP 95.215.61.199.http > 172.20.38.238.57833: Flags [.], seq 67161:68621, ack 877, win 3, length 1460
+16:43:37.018103 IP 95.215.61.199.http > 172.20.38.238.57833: Flags [.], seq 68621:70081, ack 877, win 3, length 1460
+16:43:37.018106 IP 95.215.61.199.http > 172.20.38.238.57833: Flags [.], seq 70081:71541, ack 877, win 3, length 1460
+16:43:37.018121 IP 95.215.61.199.http > 172.20.38.238.57833: Flags [.], seq 71541:73001, ack 877, win 3, length 1460
+16:43:37.018123 IP 95.215.61.199.http > 172.20.38.238.57833: Flags [.], seq 73001:74461, ack 877, win 3, length 1460
+16:43:37.018126 IP 95.215.61.199.http > 172.20.38.238.57833: Flags [.], seq 74461:75921, ack 877, win 3, length 1460
+16:43:37.018128 IP 95.215.61.199.http > 172.20.38.238.57833: Flags [.], seq 75921:77381, ack 877, win 3, length 1460
+16:43:37.018130 IP 95.215.61.199.http > 172.20.38.238.57833: Flags [.], seq 77381:78841, ack 877, win 3, length 1460
+16:43:37.018132 IP 95.215.61.199.http > 172.20.38.238.57833: Flags [.], seq 78841:80301, ack 877, win 3, length 1460
+16:43:37.018134 IP 95.215.61.199.http > 172.20.38.238.57833: Flags [.], seq 80301:81761, ack 877, win 3, length 1460
+16:43:37.018136 IP 95.215.61.199.http > 172.20.38.238.57833: Flags [.], seq 81761:83221, ack 877, win 3, length 1460
+16:43:37.018306 IP 172.20.38.238.57833 > 95.215.61.199.http: Flags [.], ack 83221, win 256, length 0
+16:43:37.018655 IP 95.215.61.199.http > 172.20.38.238.57833: Flags [.], seq 83221:84681, ack 877, win 3, length 1460
+16:43:37.018659 IP 95.215.61.199.http > 172.20.38.238.57833: Flags [.], seq 84681:86141, ack 877, win 3, length 1460
+16:43:37.018661 IP 95.215.61.199.http > 172.20.38.238.57833: Flags [.], seq 86141:87601, ack 877, win 3, length 1460
+16:43:37.018728 IP 172.20.38.238.57833 > 95.215.61.199.http: Flags [.], ack 87601, win 256, length 0
+16:43:37.020107 IP 95.215.61.199.http > 172.20.38.238.57833: Flags [.], seq 87601:89061, ack 877, win 3, length 1460
+16:43:37.020110 IP 95.215.61.199.http > 172.20.38.238.57833: Flags [.], seq 89061:90521, ack 877, win 3, length 1460
+16:43:37.020112 IP 95.215.61.199.http > 172.20.38.238.57833: Flags [.], seq 90521:91981, ack 877, win 3, length 1460
+16:43:37.020118 IP 95.215.61.199.http > 172.20.38.238.57833: Flags [FP.], seq 91981:92800, ack 877, win 3, length 819
+16:43:37.020236 IP 172.20.38.238.57833 > 95.215.61.199.http: Flags [.], ack 92801, win 256, length 0
+16:43:37.020701 IP 172.20.38.238.57833 > 95.215.61.199.http: Flags [F.], seq 877, ack 92801, win 256, length 0
+16:43:37.100975 IP 95.215.61.199.http > 172.20.38.238.57831: Flags [S.], seq 92571693, ack 18234651, win 42340, options [mss 1460,nop,nop,sackOK,nop,wscale 14], length 0
+16:43:37.101130 IP 172.20.38.238.57831 > 95.215.61.199.http: Flags [.], ack 1, win 256, length 0
+16:43:37.101659 IP 172.20.38.238.57831 > 95.215.61.199.http: Flags [P.], seq 1:874, ack 1, win 256, length 873
+16:43:37.310521 IP 95.215.61.199.http > 172.20.38.238.57833: Flags [.], ack 878, win 3, length 0
+16:43:37.408371 IP 95.215.61.199.http > 172.20.38.238.57831: Flags [.], ack 874, win 3, length 0
+16:43:37.409943 IP 95.215.61.199.http > 172.20.38.238.57831: Flags [.], seq 1:1461, ack 874, win 3, length 1460
+16:43:37.409946 IP 95.215.61.199.http > 172.20.38.238.57831: Flags [.], seq 1461:2921, ack 874, win 3, length 1460
+16:43:37.409948 IP 95.215.61.199.http > 172.20.38.238.57831: Flags [.], seq 2921:4381, ack 874, win 3, length 1460
+16:43:37.409966 IP 95.215.61.199.http > 172.20.38.238.57831: Flags [.], seq 4381:5841, ack 874, win 3, length 1460
+16:43:37.410084 IP 172.20.38.238.57831 > 95.215.61.199.http: Flags [.], ack 5841, win 256, length 0
+16:43:37.411156 IP 95.215.61.199.http > 172.20.38.238.57831: Flags [.], seq 5841:7301, ack 874, win 3, length 1460
+16:43:37.411159 IP 95.215.61.199.http > 172.20.38.238.57831: Flags [.], seq 7301:8761, ack 874, win 3, length 1460
+16:43:37.411161 IP 95.215.61.199.http > 172.20.38.238.57831: Flags [.], seq 8761:10221, ack 874, win 3, length 1460
+16:43:37.411239 IP 172.20.38.238.57831 > 95.215.61.199.http: Flags [.], ack 10221, win 256, length 0
+16:43:37.562739 IP 172.20.38.238.57790 > ord30s22-in-f14.1e100.net.https: Flags [.], seq 3216435080:3216435081, ack 2021880076, win 256, length 1
+16:43:37.702654 IP 95.215.61.199.http > 172.20.38.238.57831: Flags [.], seq 14601:16061, ack 874, win 3, length 1460
+16:43:37.702657 IP 95.215.61.199.http > 172.20.38.238.57831: Flags [.], seq 16061:17521, ack 874, win 3, length 1460
+16:43:37.702659 IP 95.215.61.199.http > 172.20.38.238.57831: Flags [.], seq 17521:18981, ack 874, win 3, length 1460
+16:43:37.702662 IP 95.215.61.199.http > 172.20.38.238.57831: Flags [.], seq 18981:20441, ack 874, win 3, length 1460
+16:43:37.702664 IP 95.215.61.199.http > 172.20.38.238.57831: Flags [.], seq 20441:21901, ack 874, win 3, length 1460
+16:43:37.702666 IP 95.215.61.199.http > 172.20.38.238.57831: Flags [FP.], seq 23361:24496, ack 874, win 3, length 1135
+16:43:37.702771 IP 172.20.38.238.57831 > 95.215.61.199.http: Flags [.], ack 10221, win 256, options [nop,nop,sack 1 {14601:16061}], length 0
+16:43:37.702955 IP 172.20.38.238.57831 > 95.215.61.199.http: Flags [.], ack 10221, win 256, options [nop,nop,sack 1 {14601:17521}], length 0
+16:43:37.703008 IP 172.20.38.238.57831 > 95.215.61.199.http: Flags [.], ack 10221, win 256, options [nop,nop,sack 1 {14601:18981}], length 0
+16:43:37.703058 IP 172.20.38.238.57831 > 95.215.61.199.http: Flags [.], ack 10221, win 256, options [nop,nop,sack 1 {14601:20441}], length 0
+16:43:37.703109 IP 172.20.38.238.57831 > 95.215.61.199.http: Flags [.], ack 10221, win 256, options [nop,nop,sack 1 {14601:21901}], length 0
+16:43:37.703168 IP 172.20.38.238.57831 > 95.215.61.199.http: Flags [.], ack 10221, win 256, options [nop,nop,sack 2 {23361:24496}{14601:21901}], length 0
+16:43:37.727016 IP ord30s22-in-f14.1e100.net.https > 172.20.38.238.57790: Flags [.], ack 1, win 361, options [nop,nop,sack 1 {0:1}], length 0
+16:43:37.989372 IP 95.215.61.199.http > 172.20.38.238.57831: Flags [.], seq 10221:11681, ack 874, win 3, length 1460
+16:43:37.989375 IP 95.215.61.199.http > 172.20.38.238.57831: Flags [.], seq 11681:13141, ack 874, win 3, length 1460
+16:43:37.989377 IP 95.215.61.199.http > 172.20.38.238.57831: Flags [.], seq 13141:14601, ack 874, win 3, length 1460
+16:43:37.989490 IP 172.20.38.238.57831 > 95.215.61.199.http: Flags [.], ack 11681, win 256, options [nop,nop,sack 2 {23361:24496}{14601:21901}], length 0
+16:43:37.989687 IP 172.20.38.238.57831 > 95.215.61.199.http: Flags [.], ack 13141, win 256, options [nop,nop,sack 2 {23361:24496}{14601:21901}], length 0
+16:43:37.989764 IP 172.20.38.238.57831 > 95.215.61.199.http: Flags [.], ack 21901, win 256, options [nop,nop,sack 1 {23361:24496}], length 0
+16:43:38.214693 IP 172.20.38.238.57775 > ord30s22-in-f100.1e100.net.https: Flags [.], seq 2368652118:2368652119, ack 2690198485, win 592, length 1
+16:43:38.381686 IP ord30s22-in-f100.1e100.net.https > 172.20.38.238.57775: Flags [.], ack 1, win 398, options [nop,nop,sack 1 {0:1}], length 0
+16:43:39.476084 IP 95.215.61.199.http > 172.20.38.238.57831: Flags [.], seq 21901:23361, ack 874, win 3, length 1460
+16:43:39.476196 IP 172.20.38.238.57831 > 95.215.61.199.http: Flags [.], ack 24497, win 256, length 0
+16:43:39.476543 IP 172.20.38.238.57831 > 95.215.61.199.http: Flags [F.], seq 874, ack 24497, win 256, length 0
+16:43:39.498716 IP 172.20.38.238.62581 > resolver2.opendns.com.domain: 12370+ A? ijncw.tv. (26)
+16:43:39.513526 IP 172.20.38.238.57834 > 95.215.61.199.http: Flags [S], seq 487266077, win 8192, options [mss 1460,nop,wscale 8,nop,nop,sackOK], length 0
+16:43:39.680044 IP resolver2.opendns.com.domain > 172.20.38.238.62581: 12370 1/0/0 A 94.242.214.106 (42)
+16:43:39.681041 IP 172.20.38.238.57835 > ip-static-94-242-214-106.server.lu.http: Flags [S], seq 1007921219, win 8192, options [mss 1460,nop,wscale 8,nop,nop,sackOK], length 0
+16:43:39.748548 IP 172.20.38.238.57836 > ip-static-94-242-214-106.server.lu.http: Flags [S], seq 2069561659, win 8192, options [mss 1460,nop,wscale 8,nop,nop,sackOK], length 0
+16:43:39.764495 IP 172.20.38.238.57837 > 95.215.61.199.http: Flags [S], seq 3882477464, win 8192, options [mss 1460,nop,wscale 8,nop,nop,sackOK], length 0
+16:43:39.780086 IP 95.215.61.199.http > 172.20.38.238.57831: Flags [.], ack 875, win 3, length 0
+16:43:39.813959 IP 95.215.61.199.http > 172.20.38.238.57834: Flags [S.], seq 2554431871, ack 487266078, win 42340, options [mss 1460,nop,nop,sackOK,nop,wscale 14], length 0
+16:43:39.814098 IP 172.20.38.238.57834 > 95.215.61.199.http: Flags [.], ack 1, win 256, length 0
+16:43:39.814742 IP 172.20.38.238.57834 > 95.215.61.199.http: Flags [P.], seq 1:956, ack 1, win 256, length 955
+16:43:40.002847 IP ip-static-94-242-214-106.server.lu.http > 172.20.38.238.57835: Flags [S.], seq 2548779509, ack 1007921220, win 42340, options [mss 1460,nop,nop,sackOK,nop,wscale 14], length 0
+16:43:40.003019 IP 172.20.38.238.57835 > ip-static-94-242-214-106.server.lu.http: Flags [.], ack 1, win 256, length 0
+16:43:40.003625 IP 172.20.38.238.57835 > ip-static-94-242-214-106.server.lu.http: Flags [P.], seq 1:302, ack 1, win 256, length 301
+16:43:40.009748 IP ip-static-94-242-214-106.server.lu.http > 172.20.38.238.57836: Flags [S.], seq 3211078914, ack 2069561660, win 42340, options [mss 1460,nop,nop,sackOK,nop,wscale 14], length 0
+16:43:40.009904 IP 172.20.38.238.57836 > ip-static-94-242-214-106.server.lu.http: Flags [.], ack 1, win 256, length 0
+16:43:40.050710 IP 95.215.61.199.http > 172.20.38.238.57837: Flags [S.], seq 3179423807, ack 3882477465, win 42340, options [mss 1460,nop,nop,sackOK,nop,wscale 14], length 0
+16:43:40.050864 IP 172.20.38.238.57837 > 95.215.61.199.http: Flags [.], ack 1, win 256, length 0
+16:43:40.107417 IP 95.215.61.199.http > 172.20.38.238.57834: Flags [.], ack 956, win 3, length 0
+16:43:40.117254 IP 95.215.61.199.http > 172.20.38.238.57834: Flags [.], seq 1:1461, ack 956, win 3, length 1460
+16:43:40.117257 IP 95.215.61.199.http > 172.20.38.238.57834: Flags [.], seq 1461:2921, ack 956, win 3, length 1460
+16:43:40.117259 IP 95.215.61.199.http > 172.20.38.238.57834: Flags [.], seq 2921:4381, ack 956, win 3, length 1460
+16:43:40.117266 IP 95.215.61.199.http > 172.20.38.238.57834: Flags [.], seq 4381:5841, ack 956, win 3, length 1460
+16:43:40.117269 IP 95.215.61.199.http > 172.20.38.238.57834: Flags [.], seq 5841:7301, ack 956, win 3, length 1460
+16:43:40.117273 IP 95.215.61.199.http > 172.20.38.238.57834: Flags [.], seq 7301:8761, ack 956, win 3, length 1460
+16:43:40.117275 IP 95.215.61.199.http > 172.20.38.238.57834: Flags [FP.], seq 8761:9006, ack 956, win 3, length 245
+16:43:40.117427 IP 172.20.38.238.57834 > 95.215.61.199.http: Flags [.], ack 9007, win 256, length 0
+16:43:40.118440 IP 172.20.38.238.57834 > 95.215.61.199.http: Flags [F.], seq 956, ack 9007, win 256, length 0
+16:43:40.275125 IP ip-static-94-242-214-106.server.lu.http > 172.20.38.238.57835: Flags [.], ack 302, win 3, length 0
+16:43:40.276681 IP ip-static-94-242-214-106.server.lu.http > 172.20.38.238.57835: Flags [.], seq 1:1461, ack 302, win 3, length 1460
+16:43:40.276684 IP ip-static-94-242-214-106.server.lu.http > 172.20.38.238.57835: Flags [.], seq 1461:2921, ack 302, win 3, length 1460
+16:43:40.276686 IP ip-static-94-242-214-106.server.lu.http > 172.20.38.238.57835: Flags [.], seq 2921:4381, ack 302, win 3, length 1460
+16:43:40.276693 IP ip-static-94-242-214-106.server.lu.http > 172.20.38.238.57835: Flags [.], seq 4381:5841, ack 302, win 3, length 1460
+16:43:40.276694 IP ip-static-94-242-214-106.server.lu.http > 172.20.38.238.57835: Flags [.], seq 5841:7301, ack 302, win 3, length 1460
+16:43:40.276697 IP ip-static-94-242-214-106.server.lu.http > 172.20.38.238.57835: Flags [.], seq 7301:8761, ack 302, win 3, length 1460
+16:43:40.276835 IP 172.20.38.238.57835 > ip-static-94-242-214-106.server.lu.http: Flags [.], ack 8761, win 256, length 0
+16:43:40.277938 IP ip-static-94-242-214-106.server.lu.http > 172.20.38.238.57835: Flags [.], seq 8761:10221, ack 302, win 3, length 1460
+16:43:40.277941 IP ip-static-94-242-214-106.server.lu.http > 172.20.38.238.57835: Flags [.], seq 10221:11681, ack 302, win 3, length 1460
+16:43:40.277943 IP ip-static-94-242-214-106.server.lu.http > 172.20.38.238.57835: Flags [.], seq 11681:13141, ack 302, win 3, length 1460
+16:43:40.277950 IP ip-static-94-242-214-106.server.lu.http > 172.20.38.238.57835: Flags [.], seq 13141:14601, ack 302, win 3, length 1460
+16:43:40.278058 IP 172.20.38.238.57835 > ip-static-94-242-214-106.server.lu.http: Flags [.], ack 14601, win 256, length 0
+16:43:40.417483 IP 95.215.61.199.http > 172.20.38.238.57834: Flags [.], ack 957, win 3, length 0
+16:43:40.547295 IP ip-static-94-242-214-106.server.lu.http > 172.20.38.238.57835: Flags [.], seq 14601:16061, ack 302, win 3, length 1460
+16:43:40.548192 IP ip-static-94-242-214-106.server.lu.http > 172.20.38.238.57835: Flags [.], seq 17521:18981, ack 302, win 3, length 1460
+16:43:40.548195 IP ip-static-94-242-214-106.server.lu.http > 172.20.38.238.57835: Flags [.], seq 18981:20441, ack 302, win 3, length 1460
+16:43:40.548197 IP ip-static-94-242-214-106.server.lu.http > 172.20.38.238.57835: Flags [.], seq 20441:21901, ack 302, win 3, length 1460
+16:43:40.548279 IP 172.20.38.238.57835 > ip-static-94-242-214-106.server.lu.http: Flags [.], ack 16061, win 256, options [nop,nop,sack 1 {17521:18981}], length 0
+16:43:40.548411 IP 172.20.38.238.57835 > ip-static-94-242-214-106.server.lu.http: Flags [.], ack 16061, win 256, options [nop,nop,sack 1 {17521:20441}], length 0
+16:43:40.548462 IP 172.20.38.238.57835 > ip-static-94-242-214-106.server.lu.http: Flags [.], ack 16061, win 256, options [nop,nop,sack 1 {17521:21901}], length 0
+16:43:40.550265 IP ip-static-94-242-214-106.server.lu.http > 172.20.38.238.57835: Flags [.], seq 21901:23361, ack 302, win 3, length 1460
+16:43:40.550267 IP ip-static-94-242-214-106.server.lu.http > 172.20.38.238.57835: Flags [.], seq 23361:24821, ack 302, win 3, length 1460
+16:43:40.550269 IP ip-static-94-242-214-106.server.lu.http > 172.20.38.238.57835: Flags [.], seq 24821:26281, ack 302, win 3, length 1460
+16:43:40.550275 IP ip-static-94-242-214-106.server.lu.http > 172.20.38.238.57835: Flags [.], seq 26281:27741, ack 302, win 3, length 1460
+16:43:40.550277 IP ip-static-94-242-214-106.server.lu.http > 172.20.38.238.57835: Flags [.], seq 27741:29201, ack 302, win 3, length 1460
+16:43:40.550279 IP ip-static-94-242-214-106.server.lu.http > 172.20.38.238.57835: Flags [.], seq 29201:30661, ack 302, win 3, length 1460
+16:43:40.550280 IP ip-static-94-242-214-106.server.lu.http > 172.20.38.238.57835: Flags [.], seq 30661:32121, ack 302, win 3, length 1460
+16:43:40.550372 IP 172.20.38.238.57835 > ip-static-94-242-214-106.server.lu.http: Flags [.], ack 16061, win 256, options [nop,nop,sack 1 {17521:23361}], length 0
+16:43:40.550482 IP 172.20.38.238.57835 > ip-static-94-242-214-106.server.lu.http: Flags [.], ack 16061, win 256, options [nop,nop,sack 1 {17521:24821}], length 0
+16:43:40.550543 IP 172.20.38.238.57835 > ip-static-94-242-214-106.server.lu.http: Flags [.], ack 16061, win 256, options [nop,nop,sack 1 {17521:26281}], length 0
+16:43:40.550600 IP 172.20.38.238.57835 > ip-static-94-242-214-106.server.lu.http: Flags [.], ack 16061, win 256, options [nop,nop,sack 1 {17521:27741}], length 0
+16:43:40.550657 IP 172.20.38.238.57835 > ip-static-94-242-214-106.server.lu.http: Flags [.], ack 16061, win 256, options [nop,nop,sack 1 {17521:29201}], length 0
+16:43:40.550715 IP 172.20.38.238.57835 > ip-static-94-242-214-106.server.lu.http: Flags [.], ack 16061, win 256, options [nop,nop,sack 1 {17521:30661}], length 0
+16:43:40.550776 IP 172.20.38.238.57835 > ip-static-94-242-214-106.server.lu.http: Flags [.], ack 16061, win 256, options [nop,nop,sack 1 {17521:32121}], length 0
+16:43:40.809460 IP ip-static-94-242-214-106.server.lu.http > 172.20.38.238.57835: Flags [.], seq 32121:33581, ack 302, win 3, length 1460
+16:43:40.809463 IP ip-static-94-242-214-106.server.lu.http > 172.20.38.238.57835: Flags [.], seq 33581:35041, ack 302, win 3, length 1460
+16:43:40.809464 IP ip-static-94-242-214-106.server.lu.http > 172.20.38.238.57835: Flags [.], seq 35041:36501, ack 302, win 3, length 1460
+16:43:40.809575 IP 172.20.38.238.57835 > ip-static-94-242-214-106.server.lu.http: Flags [.], ack 16061, win 256, options [nop,nop,sack 1 {17521:33581}], length 0
+16:43:40.809715 IP 172.20.38.238.57835 > ip-static-94-242-214-106.server.lu.http: Flags [.], ack 16061, win 256, options [nop,nop,sack 1 {17521:35041}], length 0
+16:43:40.809769 IP 172.20.38.238.57835 > ip-static-94-242-214-106.server.lu.http: Flags [.], ack 16061, win 256, options [nop,nop,sack 1 {17521:36501}], length 0
+16:43:40.809931 IP ip-static-94-242-214-106.server.lu.http > 172.20.38.238.57835: Flags [.], seq 36501:37961, ack 302, win 3, length 1460
+16:43:40.809969 IP 172.20.38.238.57835 > ip-static-94-242-214-106.server.lu.http: Flags [.], ack 16061, win 256, options [nop,nop,sack 1 {17521:37961}], length 0
+16:43:40.810680 IP ip-static-94-242-214-106.server.lu.http > 172.20.38.238.57835: Flags [.], seq 16061:17521, ack 302, win 3, length 1460
+16:43:40.810683 IP ip-static-94-242-214-106.server.lu.http > 172.20.38.238.57835: Flags [.], seq 37961:39421, ack 302, win 3, length 1460
+16:43:40.810834 IP 172.20.38.238.57835 > ip-static-94-242-214-106.server.lu.http: Flags [.], ack 37961, win 256, length 0
+16:43:40.811189 IP ip-static-94-242-214-106.server.lu.http > 172.20.38.238.57835: Flags [.], seq 39421:40881, ack 302, win 3, length 1460
+16:43:40.811287 IP 172.20.38.238.57835 > ip-static-94-242-214-106.server.lu.http: Flags [.], ack 40881, win 256, length 0
+16:43:40.811638 IP ip-static-94-242-214-106.server.lu.http > 172.20.38.238.57835: Flags [.], seq 40881:42341, ack 302, win 3, length 1460
+16:43:40.811641 IP ip-static-94-242-214-106.server.lu.http > 172.20.38.238.57835: Flags [P.], seq 42341:43453, ack 302, win 3, length 1112
+16:43:40.811696 IP 172.20.38.238.57835 > ip-static-94-242-214-106.server.lu.http: Flags [.], ack 43453, win 256, length 0
+16:43:40.870995 IP 172.20.38.238.57835 > ip-static-94-242-214-106.server.lu.http: Flags [P.], seq 302:987, ack 43453, win 256, length 685
+16:43:40.873484 IP 172.20.38.238.57837 > 95.215.61.199.http: Flags [P.], seq 1:888, ack 1, win 256, length 887
+16:43:41.144645 IP ip-static-94-242-214-106.server.lu.http > 172.20.38.238.57835: Flags [P.], seq 43453:43877, ack 987, win 3, length 424
+16:43:41.146002 IP 95.215.61.199.http > 172.20.38.238.57837: Flags [.], ack 888, win 3, length 0
+16:43:41.146652 IP 95.215.61.199.http > 172.20.38.238.57837: Flags [FP.], seq 1:1381, ack 888, win 3, length 1380
+16:43:41.146762 IP 172.20.38.238.57837 > 95.215.61.199.http: Flags [.], ack 1382, win 251, length 0
+16:43:41.147225 IP 172.20.38.238.57837 > 95.215.61.199.http: Flags [F.], seq 888, ack 1382, win 251, length 0
+16:43:41.193667 IP 172.20.38.238.57835 > ip-static-94-242-214-106.server.lu.http: Flags [.], ack 43877, win 254, length 0
+16:43:41.429414 IP 95.215.61.199.http > 172.20.38.238.57837: Flags [.], ack 889, win 3, length 0
+16:43:42.540806 IP 172.20.38.238.57792 > ord30s22-in-f99.1e100.net.https: Flags [.], seq 2715683607:2715683608, ack 2673840723, win 388, length 1
+16:43:42.681373 IP 172.20.38.238.57794 > ord30s22-in-f100.1e100.net.https: Flags [.], seq 537482530:537482531, ack 2398976349, win 252, length 1
+16:43:42.718258 IP ord30s22-in-f99.1e100.net.https > 172.20.38.238.57792: Flags [.], ack 1, win 361, options [nop,nop,sack 1 {0:1}], length 0
+16:43:42.837724 IP ord30s22-in-f100.1e100.net.https > 172.20.38.238.57794: Flags [.], ack 1, win 374, options [nop,nop,sack 1 {0:1}], length 0
+16:43:43.024987 IP 172.20.38.238.57767 > 209.85.145.188.5228: Flags [.], seq 866617662:866617663, ack 780954303, win 252, length 1
+16:43:43.200478 IP 209.85.145.188.5228 > 172.20.38.238.57767: Flags [.], ack 1, win 361, options [nop,nop,sack 1 {0:1}], length 0
+16:43:43.697083 IP 172.20.38.238.57777 > ord30s22-in-f14.1e100.net.https: Flags [.], seq 1803420078:1803420079, ack 1109470994, win 252, length 1
+16:43:43.862352 IP ord30s22-in-f14.1e100.net.https > 172.20.38.238.57777: Flags [.], ack 1, win 536, options [nop,nop,sack 1 {0:1}], length 0
+16:43:43.868853 IP 172.20.38.238.57795 > ord30s22-in-f14.1e100.net.https: Flags [.], seq 2537091378:2537091379, ack 2101073395, win 256, length 1
+16:43:44.038420 IP ord30s22-in-f14.1e100.net.https > 172.20.38.238.57795: Flags [.], ack 1, win 622, options [nop,nop,sack 1 {0:1}], length 0
+16:43:49.303803 IP 172.20.38.238.57634 > ie-in-f125.1e100.net.xmpp-client: Flags [P.], seq 26:1043, ack 1, win 251, length 1017
+16:43:49.482547 IP ie-in-f125.1e100.net.xmpp-client > 172.20.38.238.57634: Flags [.], ack 1043, win 419, length 0

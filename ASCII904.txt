@@ -1,0 +1,102 @@
+16:45:10.650155 IP 172.20.38.238.55621 > resolver2.opendns.com.domain: 2868+ A? ampclicks.com. (31)
+16:45:10.871136 IP 172.20.38.238.55621 > resolver1.opendns.com.domain: 2868+ A? ampclicks.com. (31)
+16:45:10.891657 IP resolver2.opendns.com.domain > 172.20.38.238.55621: 2868 1/0/0 A 108.60.149.204 (47)
+16:45:10.892958 IP 172.20.38.238.57857 > admarketplace.dmarc.lga1.atlanticmetro.net.http: Flags [S], seq 1182376008, win 8192, options [mss 1460,nop,wscale 8,nop,nop,sackOK], length 0
+16:45:10.899422 IP 172.20.38.238.57858 > admarketplace.dmarc.lga1.atlanticmetro.net.http: Flags [S], seq 3853508022, win 8192, options [mss 1460,nop,wscale 8,nop,nop,sackOK], length 0
+16:45:11.019321 IP 172.20.38.238.57634 > ie-in-f125.1e100.net.xmpp-client: Flags [P.], seq 1369680058:1369680084, ack 1649369269, win 251, length 26
+16:45:11.050120 IP resolver1.opendns.com.domain > 172.20.38.238.55621: 2868 1/0/0 A 108.60.149.204 (47)
+16:45:11.091092 IP admarketplace.dmarc.lga1.atlanticmetro.net.http > 172.20.38.238.57857: Flags [S.], seq 3239278801, ack 1182376009, win 4380, options [mss 1460,nop,wscale 0,sackOK,eol], length 0
+16:45:11.091255 IP 172.20.38.238.57857 > admarketplace.dmarc.lga1.atlanticmetro.net.http: Flags [.], ack 1, win 256, length 0
+16:45:11.091988 IP 172.20.38.238.57857 > admarketplace.dmarc.lga1.atlanticmetro.net.http: Flags [P.], seq 1:372, ack 1, win 256, length 371
+16:45:11.096107 IP admarketplace.dmarc.lga1.atlanticmetro.net.http > 172.20.38.238.57858: Flags [S.], seq 3721727326, ack 3853508023, win 4380, options [mss 1460,nop,wscale 0,sackOK,eol], length 0
+16:45:11.096285 IP 172.20.38.238.57858 > admarketplace.dmarc.lga1.atlanticmetro.net.http: Flags [.], ack 1, win 256, length 0
+16:45:11.187525 IP ie-in-f125.1e100.net.xmpp-client > 172.20.38.238.57634: Flags [.], ack 26, win 419, length 0
+16:45:11.287978 IP admarketplace.dmarc.lga1.atlanticmetro.net.http > 172.20.38.238.57857: Flags [.], ack 372, win 4751, length 0
+16:45:11.290495 IP admarketplace.dmarc.lga1.atlanticmetro.net.http > 172.20.38.238.57857: Flags [P.], seq 1:289, ack 372, win 4751, length 288
+16:45:11.294825 IP 172.20.38.238.52305 > resolver2.opendns.com.domain: 10192+ A? www.admarketplace.com. (39)
+16:45:11.342744 IP 172.20.38.238.57857 > admarketplace.dmarc.lga1.atlanticmetro.net.http: Flags [.], ack 289, win 255, length 0
+16:45:11.515084 IP 172.20.38.238.52305 > resolver1.opendns.com.domain: 10192+ A? www.admarketplace.com. (39)
+16:45:11.574266 IP resolver2.opendns.com.domain > 172.20.38.238.52305: 10192 4/0/0 CNAME sf-web.ampnetwork.net., CNAME geo.ampnetwork.net., CNAME geo-optimal.admarketplace.com.akadns.net., A 108.60.149.204 (159)
+16:45:11.575540 IP 172.20.38.238.57859 > admarketplace.dmarc.lga1.atlanticmetro.net.http: Flags [S], seq 3130385748, win 8192, options [mss 1460,nop,wscale 8,nop,nop,sackOK], length 0
+16:45:11.751184 IP admarketplace.dmarc.lga1.atlanticmetro.net.http > 172.20.38.238.57859: Flags [S.], seq 479300882, ack 3130385749, win 4380, options [mss 1460,nop,wscale 0,sackOK,eol], length 0
+16:45:11.751326 IP 172.20.38.238.57859 > admarketplace.dmarc.lga1.atlanticmetro.net.http: Flags [.], ack 1, win 256, length 0
+16:45:11.751950 IP 172.20.38.238.57859 > admarketplace.dmarc.lga1.atlanticmetro.net.http: Flags [P.], seq 1:391, ack 1, win 256, length 390
+16:45:11.933857 IP admarketplace.dmarc.lga1.atlanticmetro.net.http > 172.20.38.238.57859: Flags [.], ack 391, win 4770, length 0
+16:45:11.933859 IP admarketplace.dmarc.lga1.atlanticmetro.net.http > 172.20.38.238.57859: Flags [P.], seq 1:1461, ack 391, win 4770, length 1460
+16:45:11.933861 IP admarketplace.dmarc.lga1.atlanticmetro.net.http > 172.20.38.238.57859: Flags [P.], seq 1461:2921, ack 391, win 4770, length 1460
+16:45:11.933978 IP 172.20.38.238.57859 > admarketplace.dmarc.lga1.atlanticmetro.net.http: Flags [.], ack 2921, win 256, length 0
+16:45:11.934245 IP admarketplace.dmarc.lga1.atlanticmetro.net.http > 172.20.38.238.57859: Flags [P.], seq 2921:3897, ack 391, win 4770, length 976
+16:45:11.944711 IP 172.20.38.238.53506 > resolver2.opendns.com.domain: 53057+ A? fonts.googleapis.com. (38)
+16:45:11.947110 IP 172.20.38.238.57860 > admarketplace.dmarc.lga1.atlanticmetro.net.http: Flags [S], seq 2129299988, win 8192, options [mss 1460,nop,wscale 8,nop,nop,sackOK], length 0
+16:45:11.947582 IP 172.20.38.238.57859 > admarketplace.dmarc.lga1.atlanticmetro.net.http: Flags [P.], seq 391:759, ack 3897, win 252, length 368
+16:45:11.969832 IP resolver1.opendns.com.domain > 172.20.38.238.52305: 10192 4/0/0 CNAME sf-web.ampnetwork.net., CNAME geo.ampnetwork.net., CNAME geo-optimal.admarketplace.com.akadns.net., A 108.60.149.204 (159)
+16:45:12.138495 IP admarketplace.dmarc.lga1.atlanticmetro.net.http > 172.20.38.238.57860: Flags [S.], seq 1175120181, ack 2129299989, win 4380, options [mss 1460,nop,wscale 0,sackOK,eol], length 0
+16:45:12.138659 IP 172.20.38.238.57860 > admarketplace.dmarc.lga1.atlanticmetro.net.http: Flags [.], ack 1, win 256, length 0
+16:45:12.139365 IP 172.20.38.238.57860 > admarketplace.dmarc.lga1.atlanticmetro.net.http: Flags [P.], seq 1:391, ack 1, win 256, length 390
+16:45:12.139727 IP admarketplace.dmarc.lga1.atlanticmetro.net.http > 172.20.38.238.57859: Flags [.], ack 759, win 5138, length 0
+16:45:12.140841 IP resolver2.opendns.com.domain > 172.20.38.238.53506: 53057 2/0/0 CNAME googleadapis.l.google.com., A 74.125.142.95 (90)
+16:45:12.142060 IP 172.20.38.238.57861 > ie-in-f95.1e100.net.http: Flags [S], seq 702739159, win 8192, options [mss 1460,nop,wscale 8,nop,nop,sackOK], length 0
+16:45:12.142518 IP admarketplace.dmarc.lga1.atlanticmetro.net.http > 172.20.38.238.57859: Flags [P.], seq 3897:5357, ack 759, win 5138, length 1460
+16:45:12.142521 IP admarketplace.dmarc.lga1.atlanticmetro.net.http > 172.20.38.238.57859: Flags [P.], seq 5357:6817, ack 759, win 5138, length 1460
+16:45:12.142653 IP 172.20.38.238.57859 > admarketplace.dmarc.lga1.atlanticmetro.net.http: Flags [.], ack 6817, win 256, length 0
+16:45:12.142992 IP admarketplace.dmarc.lga1.atlanticmetro.net.http > 172.20.38.238.57859: Flags [P.], seq 6817:8277, ack 759, win 5138, length 1460
+16:45:12.143000 IP admarketplace.dmarc.lga1.atlanticmetro.net.http > 172.20.38.238.57859: Flags [P.], seq 8277:9277, ack 759, win 5138, length 1000
+16:45:12.143047 IP 172.20.38.238.57859 > admarketplace.dmarc.lga1.atlanticmetro.net.http: Flags [.], ack 9277, win 256, length 0
+16:45:12.195296 IP 172.20.38.238.57862 > ie-in-f95.1e100.net.http: Flags [S], seq 2246746082, win 8192, options [mss 1460,nop,wscale 8,nop,nop,sackOK], length 0
+16:45:12.311145 IP ie-in-f95.1e100.net.http > 172.20.38.238.57861: Flags [S.], seq 3292227998, ack 702739160, win 42900, options [mss 1430,nop,nop,sackOK,nop,wscale 7], length 0
+16:45:12.311297 IP 172.20.38.238.57861 > ie-in-f95.1e100.net.http: Flags [.], ack 1, win 256, length 0
+16:45:12.311743 IP 172.20.38.238.57861 > ie-in-f95.1e100.net.http: Flags [P.], seq 1:369, ack 1, win 256, length 368
+16:45:12.324615 IP admarketplace.dmarc.lga1.atlanticmetro.net.http > 172.20.38.238.57860: Flags [.], ack 391, win 4770, length 0
+16:45:12.325965 IP admarketplace.dmarc.lga1.atlanticmetro.net.http > 172.20.38.238.57860: Flags [P.], seq 1:1461, ack 391, win 4770, length 1460
+16:45:12.327485 IP admarketplace.dmarc.lga1.atlanticmetro.net.http > 172.20.38.238.57860: Flags [P.], seq 1461:2921, ack 391, win 4770, length 1460
+16:45:12.327563 IP 172.20.38.238.57860 > admarketplace.dmarc.lga1.atlanticmetro.net.http: Flags [.], ack 2921, win 256, length 0
+16:45:12.329966 IP admarketplace.dmarc.lga1.atlanticmetro.net.http > 172.20.38.238.57860: Flags [P.], seq 2921:4381, ack 391, win 4770, length 1460
+16:45:12.329968 IP admarketplace.dmarc.lga1.atlanticmetro.net.http > 172.20.38.238.57860: Flags [P.], seq 4381:4382, ack 391, win 4770, length 1
+16:45:12.330063 IP 172.20.38.238.57860 > admarketplace.dmarc.lga1.atlanticmetro.net.http: Flags [.], ack 4382, win 256, length 0
+16:45:12.363828 IP ie-in-f95.1e100.net.http > 172.20.38.238.57862: Flags [S.], seq 1233767660, ack 2246746083, win 42900, options [mss 1430,nop,nop,sackOK,nop,wscale 7], length 0
+16:45:12.363961 IP 172.20.38.238.57862 > ie-in-f95.1e100.net.http: Flags [.], ack 1, win 256, length 0
+16:45:12.484827 IP ie-in-f95.1e100.net.http > 172.20.38.238.57861: Flags [.], ack 369, win 344, length 0
+16:45:12.487366 IP ie-in-f95.1e100.net.http > 172.20.38.238.57861: Flags [P.], seq 1:446, ack 369, win 344, length 445
+16:45:12.487916 IP ie-in-f95.1e100.net.http > 172.20.38.238.57861: Flags [P.], seq 446:914, ack 369, win 344, length 468
+16:45:12.488003 IP 172.20.38.238.57861 > ie-in-f95.1e100.net.http: Flags [.], ack 914, win 253, length 0
+16:45:12.524996 IP admarketplace.dmarc.lga1.atlanticmetro.net.http > 172.20.38.238.57860: Flags [P.], seq 4382:5681, ack 391, win 4770, length 1299
+16:45:12.539128 IP 172.20.38.238.58742 > resolver2.opendns.com.domain: 62157+ A? fonts.gstatic.com. (35)
+16:45:12.568644 IP 172.20.38.238.57860 > admarketplace.dmarc.lga1.atlanticmetro.net.http: Flags [.], ack 5681, win 251, length 0
+16:45:12.750293 IP resolver2.opendns.com.domain > 172.20.38.238.58742: 62157 2/0/0 CNAME gstaticadssl.l.google.com., A 216.58.216.99 (87)
+16:45:12.751890 IP 172.20.38.238.57863 > ord30s22-in-f3.1e100.net.http: Flags [S], seq 714765089, win 8192, options [mss 1460,nop,wscale 8,nop,nop,sackOK], length 0
+16:45:12.787324 IP 172.20.38.238.57864 > ord30s22-in-f3.1e100.net.http: Flags [S], seq 145298764, win 8192, options [mss 1460,nop,wscale 8,nop,nop,sackOK], length 0
+16:45:12.921742 IP ord30s22-in-f3.1e100.net.http > 172.20.38.238.57863: Flags [S.], seq 418142572, ack 714765090, win 42900, options [mss 1430,nop,nop,sackOK,nop,wscale 7], length 0
+16:45:12.921897 IP 172.20.38.238.57863 > ord30s22-in-f3.1e100.net.http: Flags [.], ack 1, win 256, length 0
+16:45:12.922557 IP 172.20.38.238.57863 > ord30s22-in-f3.1e100.net.http: Flags [P.], seq 1:439, ack 1, win 256, length 438
+16:45:12.955616 IP ord30s22-in-f3.1e100.net.http > 172.20.38.238.57864: Flags [S.], seq 4143316067, ack 145298765, win 42900, options [mss 1430,nop,nop,sackOK,nop,wscale 7], length 0
+16:45:12.955784 IP 172.20.38.238.57864 > ord30s22-in-f3.1e100.net.http: Flags [.], ack 1, win 256, length 0
+16:45:13.073162 IP ord30s22-in-f3.1e100.net.http > 172.20.38.238.57863: Flags [.], ack 439, win 344, length 0
+16:45:13.076303 IP ord30s22-in-f3.1e100.net.http > 172.20.38.238.57863: Flags [.], seq 1:1431, ack 439, win 344, length 1430
+16:45:13.078520 IP ord30s22-in-f3.1e100.net.http > 172.20.38.238.57863: Flags [.], seq 1431:2861, ack 439, win 344, length 1430
+16:45:13.078523 IP ord30s22-in-f3.1e100.net.http > 172.20.38.238.57863: Flags [.], seq 2861:4291, ack 439, win 344, length 1430
+16:45:13.078524 IP ord30s22-in-f3.1e100.net.http > 172.20.38.238.57863: Flags [.], seq 4291:5721, ack 439, win 344, length 1430
+16:45:13.078541 IP ord30s22-in-f3.1e100.net.http > 172.20.38.238.57863: Flags [.], seq 5721:7151, ack 439, win 344, length 1430
+16:45:13.078543 IP ord30s22-in-f3.1e100.net.http > 172.20.38.238.57863: Flags [.], seq 7151:8581, ack 439, win 344, length 1430
+16:45:13.078544 IP ord30s22-in-f3.1e100.net.http > 172.20.38.238.57863: Flags [.], seq 8581:10011, ack 439, win 344, length 1430
+16:45:13.078690 IP 172.20.38.238.57863 > ord30s22-in-f3.1e100.net.http: Flags [.], ack 10011, win 256, length 0
+16:45:13.079270 IP ord30s22-in-f3.1e100.net.http > 172.20.38.238.57863: Flags [.], seq 10011:11441, ack 439, win 344, length 1430
+16:45:13.079272 IP ord30s22-in-f3.1e100.net.http > 172.20.38.238.57863: Flags [.], seq 11441:12871, ack 439, win 344, length 1430
+16:45:13.079360 IP 172.20.38.238.57863 > ord30s22-in-f3.1e100.net.http: Flags [.], ack 12871, win 256, length 0
+16:45:13.079645 IP ord30s22-in-f3.1e100.net.http > 172.20.38.238.57863: Flags [.], seq 12871:14301, ack 439, win 344, length 1430
+16:45:13.079690 IP 172.20.38.238.57863 > ord30s22-in-f3.1e100.net.http: Flags [.], ack 14301, win 256, length 0
+16:45:13.238289 IP ord30s22-in-f3.1e100.net.http > 172.20.38.238.57863: Flags [P.], seq 14301:15538, ack 439, win 344, length 1237
+16:45:13.289478 IP 172.20.38.238.57860 > admarketplace.dmarc.lga1.atlanticmetro.net.http: Flags [P.], seq 391:731, ack 5681, win 251, length 340
+16:45:13.290745 IP 172.20.38.238.57863 > ord30s22-in-f3.1e100.net.http: Flags [.], ack 15538, win 252, length 0
+16:45:13.398131 IP 172.20.38.238.57767 > 209.85.145.188.5228: Flags [.], seq 866617662:866617663, ack 780954303, win 252, length 1
+16:45:13.480504 IP admarketplace.dmarc.lga1.atlanticmetro.net.http > 172.20.38.238.57860: Flags [.], ack 731, win 5110, length 0
+16:45:13.483995 IP admarketplace.dmarc.lga1.atlanticmetro.net.http > 172.20.38.238.57860: Flags [P.], seq 5681:7141, ack 731, win 5110, length 1460
+16:45:13.538659 IP 172.20.38.238.57860 > admarketplace.dmarc.lga1.atlanticmetro.net.http: Flags [.], ack 7141, win 256, length 0
+16:45:13.570137 IP 209.85.145.188.5228 > 172.20.38.238.57767: Flags [.], ack 1, win 361, options [nop,nop,sack 1 {0:1}], length 0
+16:45:15.363280 IP admarketplace.dmarc.lga1.atlanticmetro.net.http > 172.20.38.238.57860: Flags [P.], seq 7141:7387, ack 731, win 5110, length 246
+16:45:15.411361 IP 172.20.38.238.57860 > admarketplace.dmarc.lga1.atlanticmetro.net.http: Flags [.], ack 7387, win 255, length 0
+16:45:20.063091 ARP, Request who-has 172.20.38.238 tell 172.20.32.3, length 46
+16:45:20.063138 ARP, Reply 172.20.38.238 is-at 24:fd:52:62:80:09 (oui Unknown), length 28
+16:45:21.925118 IP 172.20.38.238.57838 > 216.58.192.206.https: Flags [.], seq 2322165136:2322165137, ack 3529693720, win 256, length 1
+16:45:22.092618 IP 216.58.192.206.https > 172.20.38.238.57838: Flags [.], ack 1, win 372, options [nop,nop,sack 1 {0:1}], length 0
+16:45:23.159558 IP 172.20.38.238.57840 > ord30s22-in-f110.1e100.net.https: Flags [.], seq 854245910:854245911, ack 124949620, win 253, length 1
+16:45:23.287769 IP ord30s22-in-f110.1e100.net.https > 172.20.38.238.57840: Flags [.], ack 1, win 369, options [nop,nop,sack 1 {0:1}], length 0
